@@ -1,2 +1,2 @@
 # Freq_kanji
- An anki app for kanji learning
+ An SRS app for kanji learning
