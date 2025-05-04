@@ -51,3 +51,5 @@ Accede a la API en:
 - `GET /kanji/review`: Obtiene kanjis para repasar
 - `POST /kanji/review/{char}`: Registra una revisión
 - `GET /kanji/stats`: Obtiene estadísticas de progreso
+##TODO
+- Completar interfaz Flutter
