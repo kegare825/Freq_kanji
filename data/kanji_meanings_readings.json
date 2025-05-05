@@ -1,0 +1,296 @@
+[
+  {
+    "kanji": "年",
+    "meaning": "año, edad",
+    "lecturas_chinas": "ネン / NEN",
+    "lecturas_japonesas": "とし / toshi"
+  },
+  {
+    "kanji": "人",
+    "meaning": "persona",
+    "lecturas_chinas": "ジン, ニン / JIN, NIN",
+    "lecturas_japonesas": "ひと, -り, -と / hito, -ri, -to"
+  },
+  {
+    "kanji": "日",
+    "meaning": "sol, día, Japón",
+    "lecturas_chinas": "ニチ, ジツ / NICHI, JITSU",
+    "lecturas_japonesas": "ひ, -び, -か / hi, -bi, -ka"
+  },
+  {
+    "kanji": "一",
+    "meaning": "uno, 1",
+    "lecturas_chinas": "イチ, イツ / ICHI, ITSU",
+    "lecturas_japonesas": "ひと- / hito-"
+  },
+  {
+    "kanji": "大",
+    "meaning": "grande, muy, mucho",
+    "lecturas_chinas": "ダイ, タイ / DAI, TAI",
+    "lecturas_japonesas": "おお-, -おお- / ō-, -ō-"
+  },
+  {
+    "kanji": "月",
+    "meaning": "luna, mes",
+    "lecturas_chinas": "ゲツ, ガツ / GETSU, GATSU",
+    "lecturas_japonesas": "つき / tsuki"
+  },
+  {
+    "kanji": "出",
+    "meaning": "salir, dejar, sacar",
+    "lecturas_chinas": "シュツ, スイ / SHUTSU, SUI",
+    "lecturas_japonesas": "で-, -で, だ-, -だ-, い- / de-, -de, da-, -da-, i-"
+  },
+  {
+    "kanji": "中",
+    "meaning": "centro, dentro, interior, medio",
+    "lecturas_chinas": "チュウ / CHŪ",
+    "lecturas_japonesas": "なか, うち, あた- / naka, uchi, ata-"
+  },
+  {
+    "kanji": "見",
+    "meaning": "ver, mirar",
+    "lecturas_chinas": "ケン / KEN",
+    "lecturas_japonesas": "み- / mi-"
+  },
+  {
+    "kanji": "本",
+    "meaning": "origen, libro, base, contador de cosas alargadas",
+    "lecturas_chinas": "ホン / HON",
+    "lecturas_japonesas": "もと / moto"
+  },
+  {
+    "kanji": "子",
+    "meaning": "niño",
+    "lecturas_chinas": "シ, ス, ツ / SHI, SU, TSU",
+    "lecturas_japonesas": "こ, -こ, ね / ko, -ko, ne"
+  },
+  {
+    "kanji": "行",
+    "meaning": "ir, fila, línea (texto), ocurrencia, conducta, realizar, llevar a cabo, ocurrir",
+    "lecturas_chinas": "コウ, ギョウ, アン / KŌ, GYŌ, AN",
+    "lecturas_japonesas": "い-, ゆ-, -ゆ-, -ゆき, -い-, -いき, おこな-, おこ- / i-, yu-, -yu-, -yuki, -i-, -iki, okona-, oko-"
+  },
+  {
+    "kanji": "時",
+    "meaning": "tiempo",
+    "lecturas_chinas": "ジ / JI",
+    "lecturas_japonesas": "とき, -どき / toki, -doki"
+  },
+  {
+    "kanji": "上",
+    "meaning": "arriba, encima, parte superior, cima, superficie",
+    "lecturas_chinas": "ジョウ, ショウ, シャン / JŌ, SHŌ, SHAN",
+    "lecturas_japonesas": "うえ, -うえ, うわ-, かみ, あ-, -あ-, のぼ-, たてまつ- / ue, -ue, uwa-, kami, a-, -a-, nobo-, tatematsu-"
+  },
+  {
+    "kanji": "学",
+    "meaning": "estudio, aprendizaje, ciencia, estudiar",
+    "lecturas_chinas": "ガク / GAKU",
+    "lecturas_japonesas": "まな- / mana-"
+  },
+  {
+    "kanji": "事",
+    "meaning": "cosa, hecho, asunto, acción",
+    "lecturas_chinas": "ジ, ズ / JI, ZU",
+    "lecturas_japonesas": "こと, つか- / koto, tsuka-"
+  },
+  {
+    "kanji": "分",
+    "meaning": "parte, segmento, minuto, dividir, separar",
+    "lecturas_chinas": "ブン, フン, ブ / BUN, FUN, BU",
+    "lecturas_japonesas": "わ- / wa-"
+  },
+  {
+    "kanji": "生",
+    "meaning": "vivir, vida, nacer, crudo",
+    "lecturas_chinas": "セイ, ショウ / SEI, SHŌ",
+    "lecturas_japonesas": "い-, う-, うま-, うまれ, お-, は-, き, なま, なま-, な-, む-, -う / i-, u-, uma-, umare, o-, ha-, ki, nama, nama-, na-, mu-, -u"
+  },
+  {
+    "kanji": "来",
+    "meaning": "venir, llegar, acercarse, aproximarse",
+    "lecturas_chinas": "ライ, タイ / RAI, TAI",
+    "lecturas_japonesas": "く-, きた-, き-, き, こ / ku-, kita-, ki-, ki, ko"
+  },
+  {
+    "kanji": "間",
+    "meaning": "intervalo, espacio, habitación",
+    "lecturas_chinas": "カン, ケン / KAN, KEN",
+    "lecturas_japonesas": "あいだ, ま, あい / aida, ma, ai"
+  },
+  {
+    "kanji": "手",
+    "meaning": "mano",
+    "lecturas_chinas": "シュ, ズ / SHU, ZU",
+    "lecturas_japonesas": "て, て-, -て, た- / te, te-, -te, ta-"
+  },
+  {
+    "kanji": "自",
+    "meaning": "uno mismo, por sí mismo, auto-",
+    "lecturas_chinas": "ジ, シ / JI, SHI",
+    "lecturas_japonesas": "みずか-, おの- / mizuka-, ono-"
+  },
+  {
+    "kanji": "者",
+    "meaning": "persona",
+    "lecturas_chinas": "シャ / SHA",
+    "lecturas_japonesas": "もの / mono"
+  },
+  {
+    "kanji": "方",
+    "meaning": "dirección, lado, cuadrado, método, manera, persona, forma de hacer",
+    "lecturas_chinas": "ホウ / HŌ",
+    "lecturas_japonesas": "かた, -かた, -がた / kata, -kata, -gata"
+  },
+  {
+    "kanji": "二",
+    "meaning": "dos, 2",
+    "lecturas_chinas": "ニ, ジ / NI, JI",
+    "lecturas_japonesas": "ふた, ふた-, ふたたび / futa, futa-, futatabi"
+  },
+  {
+    "kanji": "思",
+    "meaning": "pensar, considerar",
+    "lecturas_chinas": "シ / SHI",
+    "lecturas_japonesas": "おも-, おもえら-, おぼ- / omo-, omoera-, obo-"
+  },
+  {
+    "kanji": "国",
+    "meaning": "país",
+    "lecturas_chinas": "コク / KOKU",
+    "lecturas_japonesas": "くに / kuni"
+  },
+  {
+    "kanji": "部",
+    "meaning": "sección, departamento, parte, copia",
+    "lecturas_chinas": "ブ / BU",
+    "lecturas_japonesas": "-べ / -be"
+  },
+  {
+    "kanji": "女",
+    "meaning": "mujer",
+    "lecturas_chinas": "ジョ, ニョ, ニョウ / JO, NYO, NYŌ",
+    "lecturas_japonesas": "おんな, め / onna, me"
+  },
+  {
+    "kanji": "会",
+    "meaning": "reunirse, asociación, reunión, encontrarse con",
+    "lecturas_chinas": "カイ, エ / KAI, E",
+    "lecturas_japonesas": "あ-, あつ- / a-, atsu-"
+  },
+  {
+    "kanji": "前",
+    "meaning": "antes, delante de",
+    "lecturas_chinas": "ゼン / ZEN",
+    "lecturas_japonesas": "まえ, -まえ / mae, -mae"
+  },
+  {
+    "kanji": "後",
+    "meaning": "después, atrás, detrás, retrasarse",
+    "lecturas_chinas": "ゴ, コウ / GO, KŌ",
+    "lecturas_japonesas": "のち, うし-, うしろ, あと, おく- / nochi, ushi-, ushiro, ato, oku-"
+  },
+  {
+    "kanji": "家",
+    "meaning": "casa, hogar, especialista",
+    "lecturas_chinas": "カ, ケ / KA, KE",
+    "lecturas_japonesas": "いえ, や, うち / ie, ya, uchi"
+  },
+  {
+    "kanji": "立",
+    "meaning": "levantarse, alzarse, ponerse en pie, levantar, erigir, estar en pie",
+    "lecturas_chinas": "リツ, リュウ, リットル / RITSU, RYŪ, RITTORU",
+    "lecturas_japonesas": "た-, -た-, たて-, -だ- / ta-, -ta-, tate-, -da-"
+  },
+  {
+    "kanji": "地",
+    "meaning": "suelo, tierra, terreno, posición",
+    "lecturas_chinas": "チ, ジ / CHI, JI",
+    "lecturas_japonesas": "(no tiene)"
+  },
+  {
+    "kanji": "彼",
+    "meaning": "él",
+    "lecturas_chinas": "ヒ / HI",
+    "lecturas_japonesas": "かれ, かの, か- / kare, kano, ka-"
+  },
+  {
+    "kanji": "作",
+    "meaning": "elaborar, hacer, construir, fabricar, conducta, comportamiento, crear",
+    "lecturas_chinas": "サク, サ / SAKU, SA",
+    "lecturas_japonesas": "つく-, -づく- / tsuku-, -zuku-"
+  },
+  {
+    "kanji": "合",
+    "meaning": "adecuado, apropiado, correcto, sentar bien, ser adecuado, ser correcto, hacer juego",
+    "lecturas_chinas": "ゴウ, ガッ, カッ / GŌ, GAッ, KAッ",
+    "lecturas_japonesas": "あ-, -あ-, あい-, -あい / a-, -a-, ai-, -ai"
+  },
+  {
+    "kanji": "何",
+    "meaning": "qué",
+    "lecturas_chinas": "カ / KA",
+    "lecturas_japonesas": "なに, なん, なに-, なん- / nani, nan, nani-, nan-"
+  },
+  {
+    "kanji": "三",
+    "meaning": "tres, 3",
+    "lecturas_chinas": "サン, ゾウ / SAN, ZŌ",
+    "lecturas_japonesas": "み, み-, みっ- / mi, mi-, miっ-"
+  },
+  {
+    "kanji": "下",
+    "meaning": "abajo, inferior, debajo de, parte inferior",
+    "lecturas_chinas": "カ, ゲ / KA, GE",
+    "lecturas_japonesas": "した, しも, もと, さ-, くだ-, -くだ-, お- / shita, shimo, moto, sa-, kuda-, -kuda-, o-"
+  },
+  {
+    "kanji": "私",
+    "meaning": "yo, privado, secreto",
+    "lecturas_chinas": "シ / SHI",
+    "lecturas_japonesas": "わたくし, わたし / watakushi, watashi"
+  },
+  {
+    "kanji": "言",
+    "meaning": "palabras, decir",
+    "lecturas_chinas": "ゲン, ゴン / GEN, GON",
+    "lecturas_japonesas": "い-, こと / i-, koto"
+  },
+  {
+    "kanji": "気",
+    "meaning": "ánimo",
+    "lecturas_chinas": "キ, ケ / KI, KE",
+    "lecturas_japonesas": "いき / iki"
+  },
+  {
+    "kanji": "小",
+    "meaning": "pequeño, chiquito",
+    "lecturas_chinas": "ショウ / SHŌ",
+    "lecturas_japonesas": "ちい-, こ-, お-, さ- / chī-, ko-, o-, sa-"
+  },
+  {
+    "kanji": "物",
+    "meaning": "cosa, objeto, materia",
+    "lecturas_chinas": "ブツ, モツ / BUTSU, MOTSU",
+    "lecturas_japonesas": "もの, もの- / mono, mono-"
+  },
+  {
+    "kanji": "的",
+    "meaning": "objetivo, propósito, sufijo para formar adjetivos",
+    "lecturas_chinas": "テキ / TEKI",
+    "lecturas_japonesas": "まと / mato"
+  },
+  {
+    "kanji": "山",
+    "meaning": "montaña",
+    "lecturas_chinas": "サン, セン / SAN, SEN",
+    "lecturas_japonesas": "やま / yama"
+  },
+  {
+    "kanji": "場",
+    "meaning": "lugar, situación, momento",
+    "lecturas_chinas": "ジョウ, チョウ / JŌ, CHŌ",
+    "lecturas_japonesas": "ば / ba"
+  }
+]

@@ -2,16 +2,24 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import logging
+import os
 
 logger = logging.getLogger(__name__)
 
-def analyze_frequency(df):
+def analyze_frequency():
     """
     Realiza análisis de frecuencia:
     - Calcula estadísticas básicas
     - Genera gráficos de distribución
     """
     try:
+        # Obtener la ruta al archivo CSV
+        data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'data')
+        csv_path = os.path.join(data_dir, 'kanji_combined.csv')
+        
+        # Leer el archivo CSV
+        df = pd.read_csv(csv_path)
+        
         # Estadísticas básicas
         stats = df['frequency'].describe()
         logger.info(f"Estadísticas de frecuencia:\n{stats}")
@@ -22,7 +30,7 @@ def analyze_frequency(df):
         plt.title('Distribución de Frecuencia de Kanjis')
         plt.xlabel('Frecuencia')
         plt.ylabel('Cantidad')
-        plt.savefig('frequency_distribution.png')
+        plt.savefig(os.path.join(data_dir, 'frequency_distribution.png'))
         plt.close()
         
         return stats
@@ -32,10 +40,5 @@ def analyze_frequency(df):
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
-    # Ejemplo de uso
-    df = pd.DataFrame({
-        'char': ['一', '二', '三'],
-        'frequency': [100, 200, 300]
-    })
-    stats = analyze_frequency(df)
+    stats = analyze_frequency()
     print(stats) 
