@@ -1,0 +1,110 @@
+{
+  "年_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "人_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "日_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "一_china": {
+    "interval": 1,
+    "repetitions": 1,
+    "easiness": 2.6,
+    "due": "2025-05-07"
+  },
+  "大_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "月_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "出_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "中_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.1799999999999997,
+    "due": "2025-05-06"
+  },
+  "見_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.1799999999999997,
+    "due": "2025-05-06"
+  },
+  "年_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "人_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "日_japonesa": {
+    "interval": 1,
+    "repetitions": 1,
+    "easiness": 2.6,
+    "due": "2025-05-07"
+  },
+  "一_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "大_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "月_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "出_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "中_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "見_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  }
+}

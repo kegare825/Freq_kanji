@@ -1,0 +1,590 @@
+{
+  "年_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "人_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "日_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "一_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "大_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "月_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "出_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "中_china": {
+    "interval": 1,
+    "repetitions": 1,
+    "easiness": 2.6,
+    "due": "2025-05-08"
+  },
+  "見_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "本_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "子_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "行_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "時_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "上_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "学_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "事_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "分_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "生_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "来_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "間_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "手_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "自_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "者_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "方_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "二_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "思_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "国_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "部_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "女_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "会_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "前_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "後_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "家_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "立_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 1.96,
+    "due": "2025-05-06"
+  },
+  "地_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "彼_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "作_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "合_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "何_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "三_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "下_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "私_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "言_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "気_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "小_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "物_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "的_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "山_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "場_china": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "年_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "人_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "日_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "一_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "大_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "月_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "出_japonesa": {
+    "interval": 1,
+    "repetitions": 1,
+    "easiness": 2.6,
+    "due": "2025-05-08"
+  },
+  "中_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "見_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "本_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "子_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "行_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "時_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 1.96,
+    "due": "2025-05-06"
+  },
+  "上_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "学_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "事_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "分_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "生_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "来_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "間_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "手_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "自_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "者_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "方_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "二_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "思_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "国_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "部_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "女_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "会_japonesa": {
+    "interval": 1,
+    "repetitions": 1,
+    "easiness": 2.6,
+    "due": "2025-05-08"
+  },
+  "前_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "後_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "家_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "立_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "地_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "彼_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "作_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "合_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "何_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "三_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "下_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "私_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "言_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "気_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "小_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "物_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "的_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "山_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "場_japonesa": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  }
+}

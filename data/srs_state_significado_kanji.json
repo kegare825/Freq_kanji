@@ -1,0 +1,296 @@
+{
+  "年": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "人": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "日": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 1.96,
+    "due": "2025-05-07"
+  },
+  "一": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 1.42,
+    "due": "2025-05-07"
+  },
+  "大": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "月": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "出": {
+    "interval": 1,
+    "repetitions": 1,
+    "easiness": 2.6,
+    "due": "2025-05-08"
+  },
+  "中": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "見": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "本": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 1.96,
+    "due": "2025-05-07"
+  },
+  "子": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "行": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "時": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "上": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "学": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 1.96,
+    "due": "2025-05-07"
+  },
+  "事": {
+    "interval": 1,
+    "repetitions": 1,
+    "easiness": 2.6,
+    "due": "2025-05-08"
+  },
+  "分": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "生": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "来": {
+    "interval": 1,
+    "repetitions": 1,
+    "easiness": 2.6,
+    "due": "2025-05-08"
+  },
+  "間": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "手": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "自": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "者": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "方": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "二": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "思": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "国": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "部": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "女": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "会": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "前": {
+    "interval": 1,
+    "repetitions": 1,
+    "easiness": 2.6,
+    "due": "2025-05-08"
+  },
+  "後": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "家": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "立": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "地": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "彼": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "作": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "合": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "何": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "三": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "下": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "私": {
+    "interval": 1,
+    "repetitions": 1,
+    "easiness": 2.6,
+    "due": "2025-05-08"
+  },
+  "言": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "気": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "小": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "物": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "的": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "山": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  },
+  "場": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-06"
+  }
+}

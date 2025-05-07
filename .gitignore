@@ -1,24 +1,56 @@
-# Python virtual environment
+# Virtual Environment
+.venv/
 venv/
 env/
-ENV/
-.venv
-# Python cache files
+
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
-
-# Distribution / packaging
-dist/
+*.so
+.Python
 build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
 *.egg-info/
+.installed.cfg
+*.egg
 
-# IDE specific files
-.vscode/
+# Data files
+data/*.db
+data/srs_states/*.json
+data/_data/
+data/kanji_frequency_analysis.png
+
+# Keep important data files
+!data/kanji_data.json
+!data/kanji_meanings_readings.json
+!data/failed_kanji.json
+
+# IDE
 .idea/
+.vscode/
 *.swp
 *.swo
+*~
 
-# OS specific files
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.*
+
+# System files
 .DS_Store
 Thumbs.db 

@@ -1,55 +1,94 @@
-# Sistema SRS para Kanji
+# Kanji SRS Application
 
-Este proyecto implementa un sistema de repetición espaciada (SRS) para el estudio de kanjis japoneses, utilizando datos de frecuencia de uso de diferentes fuentes.
+Una aplicación de Sistema de Repetición Espaciada (SRS) para el aprendizaje de kanji.
 
 ## Estructura del Proyecto
 
 ```
 .
-├── data/                  # Datos de kanji y documentos
-├── src/                   # Código fuente
-│   ├── api/              # API FastAPI
-│   ├── processing/       # Procesamiento de datos
-│   └── utils/           # Utilidades
-├── tests/                # Tests
-└── requirements.txt      # Dependencias
+├── src/                    # Código fuente principal
+│   ├── api/               # API REST y endpoints
+│   ├── models/            # Modelos de datos
+│   ├── services/          # Servicios de la aplicación
+│   ├── utils/             # Utilidades y funciones auxiliares
+│   └── scripts/           # Scripts de utilidad y mantenimiento
+├── data/                  # Archivos de datos
+│   ├── kanji.db          # Base de datos SQLite
+│   ├── kanji_data.json   # Datos de kanji en formato JSON
+│   └── srs_states/       # Estados del sistema SRS
+└── requirements.txt       # Dependencias del proyecto
 ```
 
-## Características
+## Componentes Principales
 
-- Sistema SRS basado en SuperMemo 2
-- Datos de frecuencia de uso de múltiples fuentes (Aozora, News, Wikipedia)
-- API REST para acceso a los datos
-- Seguimiento de progreso individual por kanji
+### API (src/api/)
+- Endpoints REST para interactuar con la aplicación
+- Gestión de rutas y controladores
 
-## Instalación
+### Modelos (src/models/)
+- Definiciones de modelos de datos
+- Esquemas y validaciones
 
-1. Clonar el repositorio
-2. Instalar dependencias:
+### Servicios (src/services/)
+- Lógica de negocio del SRS
+- Servicios de base de datos
+- Gestión de kanji y estados
+
+### Utilidades (src/utils/)
+- Funciones auxiliares
+- Herramientas de limpieza y mantenimiento
+
+### Scripts (src/scripts/)
+- Scripts para importación de datos
+- Herramientas de mantenimiento
+- Scripts de análisis
+
+## Datos (data/)
+- Base de datos SQLite con información de kanji
+- Archivos JSON con datos adicionales
+- Estados del sistema SRS
+
+## Requisitos
+
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Importar datos a la base de datos:
-```bash
-python src/processing/import_to_db.py
-```
-
-4. Iniciar el servidor API:
-```bash
-python src/api/srs_kanji.py
-```
-
 ## Uso
 
-Accede a la API en:
-- http://127.0.0.1:8001/docs (documentación interactiva)
-- http://127.0.0.1:8001/redoc (documentación alternativa)
+1. Asegúrate de tener todas las dependencias instaladas
+2. Inicia la aplicación:
+   ```bash
+   python src/run.py
+   ```
+3. Accede a la API en `http://localhost:8000`
 
-## Endpoints Principales
+## Desarrollo
 
-- `GET /kanji/review`: Obtiene kanjis para repasar
-- `POST /kanji/review/{char}`: Registra una revisión
-- `GET /kanji/stats`: Obtiene estadísticas de progreso
-##TODO
-- Completar interfaz Flutter
+Para contribuir al proyecto:
+
+1. Clona el repositorio
+2. Crea un entorno virtual:
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate  # En Windows: .venv\Scripts\activate
+   ```
+3. Instala las dependencias:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Realiza tus cambios
+5. Ejecuta las pruebas antes de hacer commit
+
+## API Endpoints
+
+- `GET /`: API status
+- `GET /kanji`: Get all kanji cards
+- `GET /quiz/kanji-significado`: Get a kanji meaning quiz
+- `POST /quiz/kanji-significado/answer`: Submit a quiz answer
+
+## Development
+
+- Utility scripts are in `src/utils/`
+- Data files are stored in `data/`
+- SRS state is managed in `data/srs_states/` 

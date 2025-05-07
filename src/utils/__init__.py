@@ -1,5 +1,6 @@
 """
-Utilidades para el sistema SRS de Kanji
+Utility functions for the Kanji SRS application.
+"""
 
-Este módulo contiene funciones de utilidad usadas en todo el sistema.
-""" 
+# Este archivo está intencionalmente vacío
+# Su presencia permite imports relativos en el paquete utils 
