@@ -65,6 +65,10 @@ class LecturaToKanjiQuestion(BaseModel):
     options: List[str]
     correct_option: int
 
+class KanjiAnswer(BaseModel):
+    kanji: str
+    answer: int
+
 # Funciones de base de datos
 def init_db():
     """Inicializa la base de datos si no existe"""
@@ -228,7 +232,7 @@ async def get_kanji_significado_question():
     }
 
 @app.post("/quiz/kanji-significado/answer", response_model=QuizResponse)
-async def answer_kanji_significado(kanji: str, answer: int):
+async def answer_kanji_significado(answer_data: KanjiAnswer):
     """Procesa la respuesta del quiz de kanji a significado"""
     cards = load_cards()
     if not cards:
@@ -237,22 +241,22 @@ async def answer_kanji_significado(kanji: str, answer: int):
     state = load_state(cards)
     
     # Encontrar la tarjeta
-    card = next((c for c in cards if c["kanji"] == kanji), None)
+    card = next((c for c in cards if c["kanji"] == answer_data.kanji), None)
     if not card:
         raise HTTPException(status_code=404, detail="Kanji no encontrado")
     
     # Verificar respuesta
-    correct = answer == 1  # La respuesta correcta siempre es 1 en este caso
+    correct = answer_data.answer == 1  # La respuesta correcta siempre es 1 en este caso
     quality = 5 if correct else 1
     
     # Actualizar estado SRS
-    state[kanji] = sm2_update(state[kanji], quality)
+    state[answer_data.kanji] = sm2_update(state[answer_data.kanji], quality)
     save_state(state)
     
     return {
         "correct": correct,
         "correct_answer": card["significado"],
-        "next_due": state[kanji]["due"]
+        "next_due": state[answer_data.kanji]["due"]
     }
 
 @app.get("/quiz/significado-kanji", response_model=SignificadoKanjiQuestion)

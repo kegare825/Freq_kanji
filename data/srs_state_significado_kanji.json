@@ -42,10 +42,10 @@
     "due": "2025-05-08"
   },
   "中": {
-    "interval": 0,
-    "repetitions": 0,
-    "easiness": 2.5,
-    "due": "2025-05-06"
+    "interval": 1,
+    "repetitions": 1,
+    "easiness": 2.6,
+    "due": "2025-05-08"
   },
   "見": {
     "interval": 0,
@@ -66,10 +66,10 @@
     "due": "2025-05-06"
   },
   "行": {
-    "interval": 0,
-    "repetitions": 0,
-    "easiness": 2.5,
-    "due": "2025-05-06"
+    "interval": 1,
+    "repetitions": 1,
+    "easiness": 2.6,
+    "due": "2025-05-08"
   },
   "時": {
     "interval": 0,
