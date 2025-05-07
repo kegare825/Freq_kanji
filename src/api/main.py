@@ -6,6 +6,7 @@ from pathlib import Path
 import json
 import datetime
 import random
+from fastapi.middleware.cors import CORSMiddleware
 
 # Configuración de rutas
 BASE_DIR = Path(__file__).parent.parent.parent
@@ -20,6 +21,15 @@ MIN_EASINESS = 1.3
 DEFAULT_EASINESS = 2.5
 
 app = FastAPI(title="Kanji Quiz API")
+
+# Habilitar CORS para permitir el acceso desde el frontend web
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # en producción restringir a dominios específicos
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Modelos Pydantic
 class KanjiCard(BaseModel):
