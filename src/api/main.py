@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
-from typing import List, Optional
+from typing import List, Optional, Dict
 import sqlite3
 from pathlib import Path
 import json
@@ -98,6 +98,13 @@ class LecturaToKanjiAnswer(BaseModel):
     lectura: str
     reading_type: str
     answer: int
+
+class QuizState(BaseModel):
+    question_id: str
+    correct_option: int
+
+# Variable global para almacenar el estado de las preguntas actuales
+current_quiz_states: Dict[str, QuizState] = {}
 
 # Funciones de base de datos
 def init_db():
@@ -278,6 +285,13 @@ async def get_kanji_significado_question():
     # Encontrar el índice de la respuesta correcta
     correct_option = choices.index(card["significado"]) + 1
     
+    # Guardar el estado de la pregunta
+    question_id = f"kanji_significado_{card['kanji']}"
+    current_quiz_states[question_id] = QuizState(
+        question_id=question_id,
+        correct_option=correct_option
+    )
+    
     return {
         "kanji": card["kanji"],
         "options": choices,
@@ -298,13 +312,22 @@ async def answer_kanji_significado(answer_data: KanjiAnswer):
     if not card:
         raise HTTPException(status_code=404, detail="Kanji no encontrado")
     
+    # Obtener el estado de la pregunta
+    question_id = f"kanji_significado_{answer_data.kanji}"
+    quiz_state = current_quiz_states.get(question_id)
+    if not quiz_state:
+        raise HTTPException(status_code=400, detail="Pregunta no válida o expirada")
+    
     # Verificar respuesta
-    correct = answer_data.answer == 1  # La respuesta correcta siempre es 1 en este caso
+    correct = answer_data.answer == quiz_state.correct_option
     quality = 5 if correct else 1
     
     # Actualizar estado SRS
     state[answer_data.kanji] = sm2_update(state[answer_data.kanji], quality)
     save_state(state)
+    
+    # Limpiar el estado de la pregunta
+    current_quiz_states.pop(question_id, None)
     
     return {
         "correct": correct,
@@ -334,6 +357,13 @@ async def get_significado_kanji_question():
     # Encontrar el índice de la respuesta correcta
     correct_option = choices.index(card["kanji"]) + 1
     
+    # Guardar el estado de la pregunta
+    question_id = f"significado_kanji_{card['significado']}"
+    current_quiz_states[question_id] = QuizState(
+        question_id=question_id,
+        correct_option=correct_option
+    )
+    
     return {
         "significado": card["significado"],
         "options": choices,
@@ -354,8 +384,14 @@ async def answer_significado_kanji(answer_data: SignificadoAnswer):
     if not card:
         raise HTTPException(status_code=404, detail="Significado no encontrado")
     
+    # Obtener el estado de la pregunta
+    question_id = f"significado_kanji_{answer_data.significado}"
+    quiz_state = current_quiz_states.get(question_id)
+    if not quiz_state:
+        raise HTTPException(status_code=400, detail="Pregunta no válida o expirada")
+    
     # Verificar respuesta
-    correct = answer_data.answer == 1  # La respuesta correcta siempre es 1 en este caso
+    correct = answer_data.answer == quiz_state.correct_option
     quality = 5 if correct else 1
     
     # Actualizar estado SRS
@@ -402,6 +438,13 @@ async def get_lectura_kanji_question():
     # Encontrar el índice de la respuesta correcta
     correct_option = choices.index(correct_reading) + 1
     
+    # Guardar el estado de la pregunta
+    question_id = f"kanji_lectura_{card['kanji']}_{reading_type}"
+    current_quiz_states[question_id] = QuizState(
+        question_id=question_id,
+        correct_option=correct_option
+    )
+    
     return {
         "kanji": card["kanji"],
         "options": choices,
@@ -430,14 +473,24 @@ async def answer_lectura_kanji(answer_data: LecturaKanjiAnswer):
         raise HTTPException(status_code=404, detail="Tipo de lectura no disponible para este kanji")
     
     print(f"Lectura correcta: {correct_reading}")
+    
+    # Obtener el estado de la pregunta
+    question_id = f"kanji_lectura_{answer_data.kanji}_{answer_data.reading_type}"
+    quiz_state = current_quiz_states.get(question_id)
+    if not quiz_state:
+        raise HTTPException(status_code=400, detail="Pregunta no válida o expirada")
+    
     # Verificar respuesta
-    correct = answer_data.answer == 1  # La respuesta correcta siempre es 1 en este caso
+    correct = answer_data.answer == quiz_state.correct_option
     quality = 5 if correct else 1
     
     # Actualizar estado SRS
     state_key = f"{answer_data.kanji}_{answer_data.reading_type}"
     state[state_key] = sm2_update(state[state_key], quality)
     save_state(state)
+    
+    # Limpiar el estado de la pregunta
+    current_quiz_states.pop(question_id, None)
     
     return {
         "correct": correct,
@@ -479,11 +532,20 @@ async def get_lectura_to_kanji_question():
     choices.append(card["kanji"])
     random.shuffle(choices)
     
+    correct_option = choices.index(card["kanji"]) + 1
+    
+    # Guardar el estado de la pregunta
+    question_id = f"lectura_kanji_{correct_reading}_{reading_type}"
+    current_quiz_states[question_id] = QuizState(
+        question_id=question_id,
+        correct_option=correct_option
+    )
+    
     return {
         "lectura": correct_reading,
         "reading_type": reading_type,
         "options": choices,
-        "correct_option": choices.index(card["kanji"]) + 1
+        "correct_option": correct_option
     }
 
 @app.post("/quiz/lectura-kanji/answer", response_model=QuizResponse)
@@ -506,12 +568,22 @@ async def answer_lectura_to_kanji(answer_data: LecturaToKanjiAnswer):
         raise HTTPException(status_code=404, detail="Lectura no encontrada")
     
     print(f"Kanji encontrado: {card['kanji']}")
+    
+    # Obtener el estado de la pregunta
+    question_id = f"lectura_kanji_{answer_data.lectura}_{answer_data.reading_type}"
+    quiz_state = current_quiz_states.get(question_id)
+    if not quiz_state:
+        raise HTTPException(status_code=400, detail="Pregunta no válida o expirada")
+    
     # Verificar respuesta y actualizar SRS
-    correct = answer_data.answer == 1
+    correct = answer_data.answer == quiz_state.correct_option
     quality = 5 if correct else 1
     state_key = f"{card['kanji']}_{answer_data.reading_type}"
     state[state_key] = sm2_update(state[state_key], quality)
     save_state(state)
+    
+    # Limpiar el estado de la pregunta
+    current_quiz_states.pop(question_id, None)
     
     return {
         "correct": correct,
