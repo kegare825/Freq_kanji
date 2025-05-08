@@ -7,6 +7,7 @@ import json
 import datetime
 import random
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import Response
 
 # Configuración de rutas
 BASE_DIR = Path(__file__).parent.parent.parent
@@ -22,14 +23,29 @@ DEFAULT_EASINESS = 2.5
 
 app = FastAPI(title="Kanji Quiz API")
 
-# Habilitar CORS para permitir el acceso desde el frontend web
+# Configuración más específica de CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # en producción restringir a dominios específicos
+    allow_origins=["*"],
     allow_credentials=True,
-    allow_methods=["*"],
+    allow_methods=["GET", "POST", "OPTIONS"],
     allow_headers=["*"],
+    expose_headers=["*"],
+    max_age=3600,
 )
+
+@app.middleware("http")
+async def add_cors_headers(request, call_next):
+    if request.method == "OPTIONS":
+        response = Response()
+        response.headers["Access-Control-Allow-Origin"] = "*"
+        response.headers["Access-Control-Allow-Methods"] = "GET, POST, OPTIONS"
+        response.headers["Access-Control-Allow-Headers"] = "*"
+        response.headers["Access-Control-Max-Age"] = "3600"
+        return response
+    response = await call_next(request)
+    response.headers["Access-Control-Allow-Origin"] = "*"
+    return response
 
 # Modelos Pydantic
 class KanjiCard(BaseModel):
@@ -67,6 +83,20 @@ class LecturaToKanjiQuestion(BaseModel):
 
 class KanjiAnswer(BaseModel):
     kanji: str
+    answer: int
+
+class SignificadoAnswer(BaseModel):
+    significado: str
+    answer: int
+
+class LecturaKanjiAnswer(BaseModel):
+    kanji: str
+    reading_type: str
+    answer: int
+
+class LecturaToKanjiAnswer(BaseModel):
+    lectura: str
+    reading_type: str
     answer: int
 
 # Funciones de base de datos
@@ -115,14 +145,37 @@ def load_state(cards):
             return json.load(f)
     
     today = datetime.date.today().isoformat()
-    return {
-        card["kanji"]: {
+    state = {}
+    
+    # Inicializar estado para cada kanji y sus lecturas
+    for card in cards:
+        # Estado básico del kanji
+        state[card["kanji"]] = {
             "interval": 0,
             "repetitions": 0,
             "easiness": DEFAULT_EASINESS,
             "due": today
-        } for card in cards
-    }
+        }
+        
+        # Estado para lectura china
+        if card["lectura_china"]:
+            state[f"{card['kanji']}_china"] = {
+                "interval": 0,
+                "repetitions": 0,
+                "easiness": DEFAULT_EASINESS,
+                "due": today
+            }
+        
+        # Estado para lectura japonesa
+        if card["lectura_japonesa"]:
+            state[f"{card['kanji']}_japonesa"] = {
+                "interval": 0,
+                "repetitions": 0,
+                "easiness": DEFAULT_EASINESS,
+                "due": today
+            }
+    
+    return state
 
 def save_state(state):
     """Guarda el estado SRS"""
@@ -288,7 +341,7 @@ async def get_significado_kanji_question():
     }
 
 @app.post("/quiz/significado-kanji/answer", response_model=QuizResponse)
-async def answer_significado_kanji(significado: str, answer: int):
+async def answer_significado_kanji(answer_data: SignificadoAnswer):
     """Procesa la respuesta del quiz de significado a kanji"""
     cards = load_cards()
     if not cards:
@@ -297,12 +350,12 @@ async def answer_significado_kanji(significado: str, answer: int):
     state = load_state(cards)
     
     # Encontrar la tarjeta
-    card = next((c for c in cards if c["significado"] == significado), None)
+    card = next((c for c in cards if c["significado"] == answer_data.significado), None)
     if not card:
         raise HTTPException(status_code=404, detail="Significado no encontrado")
     
     # Verificar respuesta
-    correct = answer == 1  # La respuesta correcta siempre es 1 en este caso
+    correct = answer_data.answer == 1  # La respuesta correcta siempre es 1 en este caso
     quality = 5 if correct else 1
     
     # Actualizar estado SRS
@@ -357,8 +410,9 @@ async def get_lectura_kanji_question():
     }
 
 @app.post("/quiz/kanji-lectura/answer", response_model=QuizResponse)
-async def answer_lectura_kanji(kanji: str, reading_type: str, answer: int):
+async def answer_lectura_kanji(answer_data: LecturaKanjiAnswer):
     """Procesa la respuesta del quiz de lectura de kanji"""
+    print(f"Recibiendo respuesta para kanji-lectura: {answer_data}")
     cards = load_cards()
     if not cards:
         raise HTTPException(status_code=404, detail="No hay tarjetas disponibles")
@@ -366,21 +420,22 @@ async def answer_lectura_kanji(kanji: str, reading_type: str, answer: int):
     state = load_state(cards)
     
     # Encontrar la tarjeta
-    card = next((c for c in cards if c["kanji"] == kanji), None)
+    card = next((c for c in cards if c["kanji"] == answer_data.kanji), None)
     if not card:
         raise HTTPException(status_code=404, detail="Kanji no encontrado")
     
     # Obtener la lectura correcta
-    correct_reading = card["lectura_china"] if reading_type == "china" else card["lectura_japonesa"]
+    correct_reading = card["lectura_china"] if answer_data.reading_type == "china" else card["lectura_japonesa"]
     if not correct_reading:
         raise HTTPException(status_code=404, detail="Tipo de lectura no disponible para este kanji")
     
+    print(f"Lectura correcta: {correct_reading}")
     # Verificar respuesta
-    correct = answer == 1  # La respuesta correcta siempre es 1 en este caso
+    correct = answer_data.answer == 1  # La respuesta correcta siempre es 1 en este caso
     quality = 5 if correct else 1
     
     # Actualizar estado SRS
-    state_key = f"{kanji}_{reading_type}"
+    state_key = f"{answer_data.kanji}_{answer_data.reading_type}"
     state[state_key] = sm2_update(state[state_key], quality)
     save_state(state)
     
@@ -432,8 +487,9 @@ async def get_lectura_to_kanji_question():
     }
 
 @app.post("/quiz/lectura-kanji/answer", response_model=QuizResponse)
-async def answer_lectura_to_kanji(lectura: str, reading_type: str, answer: int):
+async def answer_lectura_to_kanji(answer_data: LecturaToKanjiAnswer):
     """Procesa la respuesta del quiz de lectura a kanji"""
+    print(f"Recibiendo respuesta para lectura-kanji: {answer_data}")
     cards = load_cards()
     if not cards:
         raise HTTPException(status_code=404, detail="No hay tarjetas disponibles")
@@ -442,17 +498,18 @@ async def answer_lectura_to_kanji(lectura: str, reading_type: str, answer: int):
     
     # Encontrar la tarjeta
     card = next((c for c in cards if (
-        (reading_type == "china" and c["lectura_china"] == lectura) or
-        (reading_type == "japonesa" and c["lectura_japonesa"] == lectura)
+        (answer_data.reading_type == "china" and c["lectura_china"] == answer_data.lectura) or
+        (answer_data.reading_type == "japonesa" and c["lectura_japonesa"] == answer_data.lectura)
     )), None)
     
     if not card:
         raise HTTPException(status_code=404, detail="Lectura no encontrada")
     
+    print(f"Kanji encontrado: {card['kanji']}")
     # Verificar respuesta y actualizar SRS
-    correct = answer == 1
+    correct = answer_data.answer == 1
     quality = 5 if correct else 1
-    state_key = f"{card['kanji']}_{reading_type}"
+    state_key = f"{card['kanji']}_{answer_data.reading_type}"
     state[state_key] = sm2_update(state[state_key], quality)
     save_state(state)
     
