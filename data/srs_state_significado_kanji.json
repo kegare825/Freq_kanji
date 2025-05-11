@@ -874,5 +874,41 @@
     "repetitions": 0,
     "easiness": 2.5,
     "due": "2025-05-08"
+  },
+  "12": {
+    "interval": 1,
+    "repetitions": 1,
+    "easiness": 2.5,
+    "due": "2025-05-12",
+    "learning_step": 0,
+    "lapses": 0,
+    "last_review": "2025-05-11"
+  },
+  "14": {
+    "interval": 1,
+    "repetitions": 1,
+    "easiness": 2.5,
+    "due": "2025-05-12",
+    "learning_step": 0,
+    "lapses": 0,
+    "last_review": "2025-05-11"
+  },
+  "8": {
+    "interval": 1,
+    "repetitions": 1,
+    "easiness": 2.5,
+    "due": "2025-05-12",
+    "learning_step": 0,
+    "lapses": 0,
+    "last_review": "2025-05-11"
+  },
+  "3": {
+    "interval": 0,
+    "repetitions": 0,
+    "easiness": 2.5,
+    "due": "2025-05-11",
+    "learning_step": 0,
+    "lapses": 0,
+    "last_review": "2025-05-11"
   }
 }

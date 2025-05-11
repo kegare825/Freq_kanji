@@ -2,8 +2,8 @@ from fastapi import APIRouter, HTTPException, Depends
 from pydantic import BaseModel
 from typing import List, Optional, Dict
 import random
-from ..services.srs_service import SRSService
-from ..config.srs_config import config as srs_config
+from src.services.srs_service import SRSService
+from src.config.srs_config import config as srs_config
 from pathlib import Path
 import sqlite3
 

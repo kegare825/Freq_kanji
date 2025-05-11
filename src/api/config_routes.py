@@ -1,11 +1,13 @@
 from fastapi import APIRouter, HTTPException
-from ..config.srs_config import (
+from src.config.srs_config import (
     SRSConfig, load_config, save_config,
     LearningTimeWindow, ReviewMixStrategy,
     CardParameters, FeedbackParameters,
     LearningParameters
 )
 from typing import Optional
+import json
+from datetime import time
 
 router = APIRouter(prefix="/config", tags=["configuration"])
 
@@ -75,4 +77,7 @@ async def update_learning_parameters(params: LearningParameters):
     config = load_config()
     config.learning_parameters = params
     save_config(config)
-    return config 
+    return config
+
+def time_to_str(t):
+    return t.strftime('%H:%M:%S') if isinstance(t, time) else t 

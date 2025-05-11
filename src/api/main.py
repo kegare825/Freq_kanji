@@ -2,10 +2,12 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 import sqlite3
 from pathlib import Path
+from datetime import datetime
 
-from . import config_routes
-from . import quiz_routes
-from ..config.srs_config import config as srs_config
+from src.api import config_routes
+from src.api import quiz_routes
+from src.api import palabras_routes
+from src.config.srs_config import config as srs_config
 
 # Configuración de rutas
 BASE_DIR = Path(__file__).parent.parent.parent
@@ -28,6 +30,7 @@ app.add_middleware(
 # Include routers
 app.include_router(config_routes.router)
 app.include_router(quiz_routes.router)
+app.include_router(palabras_routes.router)
 
 def init_db():
     """Inicializa la base de datos si no existe"""
@@ -49,6 +52,9 @@ def init_db():
 
 # Initialize database on startup
 init_db()
+
+def str_to_time(s):
+    return datetime.strptime(s, '%H:%M:%S').time() if isinstance(s, str) else s
 
 if __name__ == "__main__":
     import uvicorn

@@ -1,0 +1,5004 @@
+Frecuencia,Palabra,Significado
+1,の,p. case of; in; at; for; by
+2,に,p. case at; on; in; to; for
+3,は,p. TOPIC
+4,た,aux. PAST
+5,を,p. case ACCUSATIVE
+6,だ,aux. COPULA
+7,が,p. case NOMINATIVE
+8,て,p. conj. REASON
+9,と,p. case and; or; with; if
+10,ます,aux. POLITE (after verb)
+11,も,"p. too, also"
+12,で,p. case in; at; from; by
+13,ている、てる,cp. CONTINUATION
+14,です,aux. COPULA (polite)
+15,れる,aux. PASSIVE
+16,という、つう,"cp. called, named"
+17,事,n. thing
+18,えー、ええ,"interj. eh?, what?; well, yes"
+19,言う,"v. say, speak, talk"
+20,のです、んです,cp. ASSERTION (polite)
+21,あの、あのう、あのー,"interj. Excuse me; uh, eh, um, ah, er"
+22,する,v. do; make
+23,まー、まあ,"interj. Wow!, Oh my God!"
+24,の,p. PARTICLE
+25,ある,"v. be (existence), have (possession), happen, occur"
+26,ね,"p. disc. isn’t it?, don’t you?"
+27,ない,aux. not
+28,なる,"v. become, get; come to do, start to do; turn into"
+29,か,p. disc. QUESTION
+30,その,adn. that
+31,けれど,"conj. though, although"
+32,から,p. case from
+33,よう,aux. INDUCEMENT
+34,思う,"v. think, believe; feel; expect"
+35,で,"conj. so, then"
+36,か,p. if; or
+37,が,p. conj. ADVERSATIVE
+38,物,"n. thing, object, stuff"
+39,そう,"adv. so, such"
+40,何,pron. what; something; anything; nothing
+41,と,"p. conj. if, when; with"
+42,私【わたし】,pron. I
+42,私【わたくし】,pron. I
+42,私【あたし】,pron. I
+43,てしまう,cp. end up doing ...
+44,それ,pron. that
+45,とか,p. and; or
+46,この,adn. this
+47,無い,"i-adj. There is no ... , no ..."
+48,行く,v. go; come
+49,のだ、んだ,cp. ASSERTION
+50,せる,aux. CAUSATIVE
+51,これ,pron. this
+52,もう,adv. already; soon; again
+53,である,cp. COPULA (formal)
+54,時,n. time
+55,な,p. disc. PROHIBITION
+56,ず,aux. NEGATION
+57,ので、んで,"p. conj. as, because, since"
+58,人【ひと】,"n. person, people, human being"
+59,よ,"p. disc. ASSERTION, REMINDING (informal)"
+60,こう,"adv. so, like this"
+61,から,"p. conj. because, since"
+62,ば,p. conj. if
+63,や,p. and; or
+64,来る【くる】,v. come
+65,その,"interj. uh, er, um, mm"
+66,まで,"p. to, till, until"
+67,見る,"v. see; look at, watch; check"
+68,たり,p. and
+69,今,n. now
+70,良い、いい,i-adj. good
+71,所,"n. place, point; part; aspect"
+72,自分,n. oneself
+73,ん,"interj. oh, mm, well"
+74,あー,"interj. er, uh, um, hmm, ah, oh"
+75,やはり、やっぱり,"adv. as (one) expected, still"
+76,たい,"aux. want to, like to"
+77,やる,v. do; make; give
+78,中【なか】,"n. inside, in; into"
+79,いる,"v. be, exist; stay"
+80,できる,v. be ready
+81,など,"p. and so on, etc."
+82,として,cp. as
+83,後【あと】,"n. after, later"
+84,また,"[1] adv. additionally, moreover [2] conj. again; too, and"
+85,ちょっと,"adv. (just) a little, a bit"
+86,てくる,cp. go and ...
+87,だけ,"p. only, alone, merely"
+88,くらい、ぐらい,"p. about, around"
+89,ではない,cp. it is not the case that ...
+90,えーと,"interj. well, let me see"
+91,方【ほう】,"n. direction, way; side"
+92,ていく、てく,cp. go and ...
+93,訳【わけ】,"n. reason, cause"
+94,へ,p. case DESTINATION
+95,どう,"adv. how, what"
+96,し,"p. conj. and, besides"
+97,本当,"n. truth, right"
+98,持つ,"v. have, take, hold"
+99,出る,"v. go out, come out; attend"
+100,ため,n. for
+101,すごい,"i-adj. fantastic, wonderful; terrible"
+102,考える,v. think
+103,そこ,pron. there; then
+104,う,aux. SOLICITATION
+105,分かる,"v. understand, see"
+106,ておる,cp. CONTINUATION (polite)
+107,について,"cp. about, concerning, as to"
+108,それで,conj. and then; so; that is why
+109,入る【はいる】,"v. enter, come in, go in"
+110,作る,"v. make, create, cook"
+111,てみる,cp. try ... ing
+112,聞く、聴く,"v. hear; listen; listen to, obey"
+113,そして,"conj. and, so"
+114,てくれる,cp. [do something as a favor]
+115,場合,"n. case, occasion"
+116,話,"n. story, talk"
+117,ながら,"p. conj. with, over, while"
+118,そんな,"adn. that, such"
+119,使う,"v. use, handle"
+120,日本,n. Japan
+121,風【ふう】,"na-adj. style, type, way, like"
+122,おー,"interj. Oh, Wow!"
+123,前【まえ】,n. forward; front; before
+124,多い,"i-adj. many, much, a lot of"
+125,のではない、んではない,cp. it is not that ...
+126,よく,"adv. good, well; often"
+127,一つ,n. one
+128,子供,n. child
+129,非常,"na-adj. very, extremely"
+130,気,"n. mind, heart"
+131,ても,p. conj. even if
+132,取る,"v. take, get; have; pass"
+133,うち,n. inside; of; before
+134,知る,v. know
+135,より,p. case than; from
+136,それから,"conj. and then, after that, and"
+137,うー,"interj. Woo, Oooh"
+138,感じ,"n. feeling, impression; atmosphere"
+139,みたい,na-adj. like
+140,でも,"conj. but, however"
+141,ここ,pron. here
+142,とても、とっても,adv. very
+143,いろいろ,"adv., na-adj. various"
+144,一,n. one
+145,そう,"n., na-adj. be about to"
+146,行なう,"v. do, carry out, hold"
+147,一番,"adv. number one, first, most"
+148,二,n. two
+149,同じ,adn. same
+150,まず,adv. first; anyway
+151,必要,na-adj. necessary n necessity
+152,仕事（する）,"[1] n. work, job [2] v. work"
+153,余り,[1] adv. the rest [2] n. (not) much
+154,によって,"cp. by, because of; depend on, depending on"
+155,かもしれない,"cp. perhaps, maybe"
+156,僕【ぼく】,pron. I (used by male speakers)
+157,皆,n. everyone; everything
+158,彼【かれ】,pron. he
+159,方【かた】,"n. person, man"
+160,食べる,v. eat
+161,ほど,p. about; extent
+162,しかし,"conj. but, however"
+163,書く,v. write
+164,入れる,v. put in; include
+165,次【つぎ】,"n. next, following, coming"
+166,結構,[1] adv. quite [2] na-adj. good
+167,問題,"n. problem, question"
+168,例えば,"adv. for example, such as"
+169,目、眼,n. eye
+170,頃【ころ】,"n. time, about, when"
+171,上【うえ】,n. top; above; up; on
+172,てくださる,cp. [do something as a favor (honorific)]
+173,他【ほか】,"n. other, another; else"
+174,いつ,pron. when
+175,家【いえ】,"n. house, home"
+176,付く,v. stick; be stained with
+177,日、陽,n. day; sun
+178,出す,v. take out; pay; send
+179,一人,n. one person; alone
+180,人間,"n. human being, man"
+181,どこ,pron. where
+182,ございます（<ござる）,v. [very polite form of “de aru”]
+183,時間,n. time
+184,ただ,"[1] conj. just [2] adv. only, just, merely"
+185,だから,"conj. so, therefore, because"
+186,違う,v. be different; be wrong
+187,受ける,"v. get, receive, take"
+188,言葉,n. word; language
+189,なんか,"p. such as, like"
+190,少し,"adv. a little, a few"
+191,まま,v. as it is
+192,買う,adv. buy
+193,まだ,"n. yet, still"
+194,手,n. hand
+195,話す,"v. talk, tell, speak"
+196,好き,"na-adj. favorite, like, love"
+197,返る,v. return
+198,てもらう,cp. [receive a favor]
+199,掛ける,v. hang; take; cost
+200,終わる,"v. end, finish"
+201,意味（する）,"[1] n. meaning, sense [2] v. mean"
+202,のである,cp. ASSERTION (formal)
+203,いろんな,adn. various
+204,付ける,v. put; attach; apply
+205,形,"n. form, shape, figure"
+206,かなり,"adv. considerably, rather"
+207,三【さん】,num. three
+208,最初,n. first
+209,間【あいだ】,n. distance; period
+210,感じる,v. feel
+211,しか,"p. only, just, no more than"
+212,かかる,v. hang; take; cost
+213,大きな,"adn. big, large, great"
+214,住む,v. live
+215,最近,"n. recently, lately"
+216,特に,"adv. especially, particularly"
+217,誰,"pron. who, whose, whom"
+218,こんな,"adn. such, like that"
+219,友達,n. friend
+220,大きい,"i-adj. big, large, great"
+221,すぐ,adv. soon
+222,一緒,"n. together, with"
+223,生活（する）,[1] n. life [2] v. live
+224,国,n. country
+225,あげる,"v. raise, lift"
+226,あなた、あんた,pron. you
+227,現在,"n. present time, now"
+228,高い,"i-adj. high, tall; expensive"
+229,なんて,p. [expresses belittlement]
+230,悪い,i-adj. bad
+231,気持ち,n. feeling
+232,乗る,"v. ride, get on, take"
+233,において,cp. at; in; on
+234,見える,"v. see, be seen"
+235,変わる,v. change
+236,べし,"aux. must, should"
+237,あるいは,"conj. or; perhaps, probably, maybe"
+238,大変,"na-adj. serious, terrible; hard, difficult"
+239,による,"cp. be due to, be based on"
+240,会社,"n. company, firm"
+241,ほとんど,"adv. almost, nearly"
+242,実際,"n. actually, in fact"
+243,先生,n. teacher
+244,彼女,pron. she; girlfriend
+245,二人,n. two people
+246,心,"n. mind, heart; thought; feeling"
+247,あの,"adn. that, those"
+248,らしい,"aux. seem, look"
+249,ある,"adn. one, a, some, a certain"
+250,金【かね】,n. money
+251,顔,n. face
+252,ていただく,cp. [receive a favor (humble)]
+253,ずっと,"adv. all the time, for a long time"
+254,さらに,"adv. again, still more, moreover"
+255,町、街,"n. town, city"
+256,及び,"conj. and, as well as"
+257,たくさん,"adv. many, much"
+258,いー,"interj. good, great"
+259,大体,"adv. almost, nearly"
+260,もちろん,"adv. of course, needless to say"
+261,読む,v. read
+262,人たち,n. people
+263,今日【きょう】,n. today
+264,昔,"n. ancient times, in the past, once"
+265,うん,"interj. yes, yeah"
+266,すべて,"n. everything, all"
+267,教える,"v. teach, tell"
+268,子,n. child
+269,ておく,"cp. do something in advance, in preparation for something"
+270,に対して,"cp. to, toward; for; against"
+271,ばかり,"p. only, just, almost"
+272,なぜ,adv. why
+273,水【みず】,n. water
+274,当時,"n. then, at that time"
+275,場所,"n. place, spot"
+276,置く,"v. put, place; leave"
+277,楽しい,"i-adj. pleasant, happy, enjoyable"
+278,にとって,cp. for
+279,声,n. voice
+280,普通,"na-adj. normal, regular, ordinary, common"
+281,残る,"v. remain, be left"
+282,最後,"n. last, end"
+283,車,n. car; wheel
+284,初めて,"adv. for the first time, first"
+285,今度,"n. this time, next time"
+286,体【からだ】,n. body
+287,私達,pron. we
+288,強い,"i-adj. strong, powerful"
+289,全く,"adv. entirely, completely; (not) at all"
+290,呼ぶ,v. call
+291,結局,"adv. after all, in the end, finally"
+292,歩く,v. walk
+293,男,"n. man, male"
+294,女性,"n. woman, female"
+295,学校,n. school
+296,生きる,v. live
+297,なかなか,"adv. very, quite; (not) easily"
+298,先【さき】,"n. end, front"
+299,もっと,adv. more
+300,ことができる,"cp. can, be able to"
+301,テーマ,"n. theme, subject"
+302,世界,n. world
+303,状態,"n. state, conditions"
+304,と,"interj. well, erm (abbreviation of “eeto”)"
+305,もし,"adv. if, in case"
+306,全然,"adv. (not) at all; utterly, completely"
+307,飲む,v. drink
+308,新しい,"i-adj. new, fresh"
+309,の,p. disc. EMOTION/QUESTION
+310,早い,"i-adj. early, soon"
+311,会う,"v. meet, see"
+312,アメリカ,n. America
+313,あれ,pron. that
+314,小さい,"i-adj. small, little, tiny"
+315,相手,n. companion; partner
+316,母,n. mother
+317,以上,n. more than; mentioned above; since
+318,関係,"n. relationship, connection"
+319,四,num. four
+320,たぶん,"adv. probably, perhaps, maybe"
+321,店【店】,"n. store, shop"
+322,どんな,"adn. what, what kind of"
+323,頭,n. head
+324,電話（する）,"[1] n. telephone, call [2] v. phone, call"
+325,長い,i-adj. long
+326,ことになる,"cp. it happens that ... , it is decided that"
+327,本,n. book
+328,どの,"adn. which, what"
+329,こちら,"pron. this place, here; this way; this"
+330,いわゆる,"adn. what is called, what you call, so-called"
+331,わ,p. disc. EXCLAMATION
+332,夜,"n. night, evening"
+333,別,"na-adj. separate, different"
+334,者,"n. person, people"
+335,タイトル,n. title
+336,親,n. parent
+337,名前,n. name
+338,全部,"adv. all, whole, entire"
+339,皆さん,"n. everybody, everyone"
+340,により,cp. by; with; depending on
+341,きれい,"na-adj. beautiful, pretty; clean"
+342,立つ,v. stand
+343,毎日,adv. every day
+344,ために,cp. for
+345,おいしい,"i-adj. delicious, tasty"
+346,または,conj. or
+347,家族,n. family
+348,に対する,cp. to; for; against
+349,部分,"n. part, section"
+350,一度,n. once
+351,結果,n. result
+352,じゃ,"conj. well, so, then"
+353,状況,"n. state of affairs, situation"
+354,時代,"n. time, era"
+355,少ない,"i-adj. a little, a few"
+356,他【ほか】,"n. another, other"
+357,うまい,"i-adj. delicious, tasty; good at"
+358,覚える,"v. learn, remember, memorize"
+359,東京,n. Tokyo
+360,てある,cp. [describes a state resulting from someone’s action]
+361,続く,"v. continue, go on, last"
+362,における,cp. in
+363,俺,pron. I (used by male speakers)
+364,生まれる,v. be born
+365,父,n. father
+366,確か,"[1] na-adj., adv. sure, certain, reliable [2] adv. maybe, probably; if I remember rightly, it’s my understanding that"
+367,それぞれ,n. each
+368,方法,"n. way, method"
+369,はず,"n. ought to, should"
+370,説明（する）,[1] n. explanation [2] v. explain
+371,なければいけない,"cp. must, have to, need to"
+372,部屋,n. room
+373,ちょうど,"adv. just, exactly"
+374,当然,"adv., n. naturally, as a matter of course"
+375,大学,"n. university, college"
+376,ですから,"conj. so, therefore"
+377,実【じつ】,"n. truth, true, real"
+378,朝,n. morning
+379,どんどん,"adv. rapidly, fast, soon"
+380,得る【える】,"v. get, obtain"
+380,得る【うる】,"v. get, obtain"
+381,とにかく,"adv. anyway, regardless"
+382,選ぶ,"v. choose, select"
+383,面白い,i-adj. interesting; fun; funny
+384,戻る,"v. return, go back"
+385,勉強（する）,"[1] n. study [2] v. learn, study"
+386,やめる,"v. stop, give up"
+387,下【した】,n. under; below; down; low
+388,始める,"v. start, begin"
+389,まわり,"n. circumference; surroundings, neighborhood, around"
+390,犬,n. dog
+391,必ず,"adv. always, certainly, surely"
+392,残す,v. leave
+393,大事,"na-adj. important, serious"
+394,嬉しい,"i-adj. glad, happy"
+395,力,"n. power, strength"
+396,遊ぶ,v. play
+397,若い,i-adj. young
+398,理由,n. reason
+399,女,"n. woman, female"
+400,簡単,na-adj. easy
+401,始まる,"v. start, begin"
+402,死ぬ,v. die
+403,今回,n. this time
+404,に関する,"cp. be concerned with, be related to"
+405,人生,n. life
+406,通り,n. street; as
+407,内容,n. contents
+408,テレビ,"n. television, TV"
+409,経験（する）,[1] n. experience [2] v. experience
+410,木,n. wood; tree
+411,点,"n. point, score"
+412,自然,[1] n. nature [2] na-adj. natural [3] adv. naturally
+413,音,"n. sound, noise"
+414,海,"n. sea, ocean"
+415,一応,"adv. at first glance; at least, just"
+416,与える,"v. give, present"
+417,利用（する）,"[1] n. use, utilization [2] v. utilize"
+418,働く,v. work
+419,一杯,"n., adv. cup(ful), glass(ful), be full of, a lot of"
+420,近く,"n. near, nearby"
+421,つまり,"adv. in short, that is to say, after all"
+422,共,"n. with, together"
+423,存在（する）,[1] n. existence [2] v. exist
+424,絶対,"n., adv. absolute, absolutely, whatever"
+425,日本人,n. Japanese (person)
+426,大切,na-adj. important
+427,足,n. foot; leg
+428,切る,v. cut
+429,走る,v. run
+430,待つ,v. wait
+431,写真,"n. picture, photo"
+432,子供たち,n. children
+433,だんだん,"adv. gradually, more and more, less and less"
+434,二つ,num. two
+435,楽しむ,"v. enjoy, have a good time"
+436,五,n. five
+437,多く,"n. many, most"
+438,寝る,"v. sleep; lie down, go to bed"
+439,英語,n. English language
+440,決める,"v. decide, fix"
+441,忘れる,v. forget
+442,口,n. mouth
+443,送る,v. send; spend (time)
+444,姿,"n. figure, shape, appearance"
+445,なくなる,v. disappear; be gone
+446,時期,"n. time, period, season"
+447,逆,"n., na-adj. contrary, opposite"
+448,頑張る,v. do one’s best
+449,示す,v. show
+450,こそ,p. EMPHATIC
+451,人々,n. people
+452,道,"n. way, road"
+453,有名,"na-adj. famous, well-known"
+454,てもいい,cp. (I) don’t mind if
+455,思い,"n. thought, mind, heart"
+456,しかも,"conj. moreover, besides"
+457,難しい,"i-adj. difficult, hard"
+458,彼ら,pron. they
+459,山,n. mountain
+460,程度,"n. degree, grade, level, limit"
+461,でない,cp. COPULA (NEGATIVE)
+462,願う,"v. wish, ask, pray"
+463,すでに,"adv. already, before"
+464,昭和,n. Showa era
+465,向かう,"v. face; go (toward, in the direction of）"
+466,連れる,"v. take somebody, accompany"
+467,変える,v. change
+468,影響（する）,"[1] n. influence [2] v. affect, influence"
+469,病院,"n. hospital, clinic"
+470,年【とし】,n. year; age
+471,花,n. flower
+472,求める,"v. ask for, request, demand"
+473,情報,n. information
+474,もらう,"v. get, have, receive"
+475,友人,n. friend
+476,だめ,"na-adj. useless, hopeless, impossible"
+477,経つ,"v. pass, go by"
+478,先程,n. a short while ago
+479,一回,n. once
+480,十分【じゅうぶん】,"[1] na-adj. enough, sufficient [2] adv. fully, sufficiently, adequately"
+481,小さな,"adn. small, little, tiny"
+482,開く【ひらく】,v. open; bloom; hold
+483,無人島,n. uninhabited island
+484,続ける,"v. continue, keep up, go on"
+485,重要,na-adj. important
+486,といった,"cp. like, such as"
+487,当たる,"v. hit, bump, touch; guess right, win"
+488,近い,"i-adj. near, close"
+489,結婚（する）,"[1] n. marriage [2] v. marry, get married"
+490,認める【みとめる】,"v. recognize, acknowledge, admit, approve, accept"
+491,これら,pron. these
+492,歴史,n. history
+493,増える,"v. increase, gain"
+494,音楽,n. music
+495,なければならない,cp. must
+496,外,n. outside
+497,進む,"v. to go forward, make progress"
+498,起きる,v. get up; wake; happen
+499,嫌,"n., na-adj. unpleasant, disagreeable"
+500,駅,n. station
+501,いや,interj. No
+502,はい,interj. yes; all right
+503,映画,n. movie
+504,身,"n. body, oneself; position"
+505,客,"n. guest, visitor; customer"
+506,質問（する）,[1] n. question [2] v. question
+507,含む,"v. contain, include"
+508,地域,"n. region, area"
+509,我が,"adn. my, our, one’s"
+510,どうしても,"adv. by all means, at any cost, no matter what, after all"
+511,のに,"p. conj. although, though; in order to"
+512,娘,n. daughter
+513,見せる,v. show
+514,一日【いちにち】,"n. a day, the day, one day"
+515,今年,n. this year
+516,平成,n. Heisei era
+517,図,"n. drawing, figure, diagram"
+518,紹介（する）,[1] n. introduction [2] v. introduce
+519,合わせる,"v. join, add up; adjust"
+520,安い,"i-adj. low, cheap"
+521,夢,n. dream
+522,つらい,"i-adj. hard, difficult, painful"
+523,規定（する）,"[1] n. regulations, stipulations [2] v. prescribe"
+524,どちら,pron. where; which; who
+525,中心,n. center
+526,起こる,"v. happen, occur, take place"
+527,我々,pron. we
+528,（お）母さん,"n. mother, Mom"
+529,立てる,"v. stand, set up, put up"
+530,最も,"adv. most, extremely"
+531,色,n. color
+532,探す,"v. look for, search for, seek"
+533,ちゃんと,"adv. exactly, regularly, properly"
+534,興味,n. interest
+535,三つ,num. three
+536,てほしい,cp. want /ask someone to do
+537,いただく,"v. get, receive (humble)"
+538,売る,v. sell
+539,変化（する）,"[1] n. change [2] v. change, vary"
+540,印象,n. impression
+541,作品,"n. work, production"
+542,でございます,cp. be (formal)
+543,参加（する）,"[1] n. participation [2] v. take part in, participate"
+544,夏,n. summer
+545,よる,v. be due to
+546,理解（する）,[1] n. understanding [2] v. understand
+547,事件,"n. incident, event"
+548,中国,n. China
+549,ずつ,"p. each, ... by ..."
+550,母親,n. mother
+551,取り敢えず,adv. for the time being; at once
+552,ところが,conj. however
+553,目的,n. purpose
+554,様々,"na-adj. various, all kinds of"
+555,答える,"v. answer, respond"
+556,過ごす,"v. spend, live"
+557,上がる,"v. go up, rise; end; get nervous"
+558,一方,[1] n. one side [2] conj. on the other hand
+559,病気,"n. sickness, illness"
+560,心配（する）,"[1] na-adj. anxious, worried [2] n. anxiety, worry, care [3] v. worry, be anxious"
+561,それでも,"conj. but, still"
+562,イメージ（する）,"[1] n. image [2] v. imagine, have an impression"
+563,笑い,"n. laugh, laughter"
+564,午後,"n. afternoon, p.m."
+565,後【ご】,"n. after, later, since"
+566,動く,v. move; work (machine)
+567,主人,n. shop owner; husband
+568,加える,"v. add, include"
+569,困る,"v. have difficulty, be in trouble"
+570,取れる,v. come off; be removed
+571,環境,n. environment
+572,対応（する）,"[1] n. correspondence, response [2] v. respond to"
+573,比べる,"v. compare, contrast"
+574,高校,n. high school
+575,食事（する）,[1] n. meal [2] v. have a meal
+576,引く,"v. pull, draw, lead; subtract"
+577,辺,"n. region, area around"
+578,要するに,"conj. in short, to sum up"
+579,離れる,v. separate; leave; be away from
+580,火【ひ】,n. fire
+581,実施（する）,"[1] n. operation [2] v. enforce, conduct"
+582,今後,"adv. in the future, from now on"
+583,社会,n. society
+584,練習（する）,"[1] n. practice, training [2] v. practice, train"
+585,使用（する）,[1] n. use [2] v. use
+586,越える,"v. cross over, go over"
+587,図る,v. attempt; plan; strive
+588,企業,"n. company, business"
+589,奴,"n. guy, fellow"
+590,はっきり,"adv. clearly, certainly"
+591,怖い,"i-adj. frightening, scary; terrified"
+592,例【れい】,n. example
+593,絵,"n. picture, painting"
+594,思い出す,v. remember
+595,に関して,"cp. about, regarding, concerning"
+596,酒,"n. alcohol, sake, rice wine"
+597,原因,n. cause
+598,お前,n. you (colloquial)
+599,守る,"v. protect, defend; keep, obey"
+600,小学校,"n. elementary school, primary school"
+601,回る,"v. spin, turn, go around; go via"
+602,広い,"i-adj. wide, broad, large"
+603,猫,n. cat
+604,向こう,n. other side; over there
+605,同時,"n. simultaneous, at the same time"
+606,調べる,v. investigate; look up; examine; check
+607,のぼる,"v. go up, rise; reach"
+608,六,num. six
+609,のみ,"p. only, merely"
+610,向ける,"v. turn, point"
+611,落ちる,"v. fall, drop"
+612,だが,"conj. but, however"
+613,決まる,v. be decided
+614,起こす,v. wake; raise; cause
+615,場,n. field; place; occasion
+616,いずれ,"[1] adv. anyway, sooner or later [2] pron. either"
+617,ホテル,n. hotel
+618,対象,"n. object, target, subject"
+619,打つ【うつ】,"v. hit, strike, beat"
+620,以前,"n. before, formerly"
+621,夫,n. husband
+622,確認（する）,[1] n. confirmation [2] v. confirm
+623,数【かず】,n. number
+624,意見,"n. opinion, idea"
+625,割と,"adv. comparatively, rather"
+626,大丈夫,"na-adj. safe, all right"
+627,通う,"v. attend, go to, commute"
+628,申し上げる,"v. tell, say (humble)"
+629,可能性,n. possibility
+630,述べる,"v. describe, say, state"
+631,是非,"adv. by all means, please; definitely, certainly"
+632,さえ,p. even; besides; if only
+633,三人,n. three people
+634,料理（する）,"[1] n. cooking, dish [2] v. cook"
+635,一部,n. part
+636,きっと,"adv. surely, certainly"
+637,どうして,adv. why
+638,歌う,v. sing
+639,なお,"adv. more, still"
+640,幾つ,"n. how many, how old"
+641,ぞ,p. disc. EMPHASIS
+642,ほしい,"i-adj. want, desire"
+643,新聞,n. newspaper
+644,気付く,"v. notice, become aware"
+645,歌,n. song
+646,開ける,v. open
+647,互い,n. each other
+648,着る,"v. put on, wear"
+649,違い,n. difference
+650,しっかり,"adv. hard, tight"
+651,過ぎる,"v. pass, exceed"
+652,記憶（する）,[1] n. memory [2] v. memorize
+653,思い出,"n. memory, reminiscence"
+654,しばらく,"adv. for a while, a minute, for a long time"
+655,基本的,"na-adj. basic, fundamental"
+656,四月,n. April
+657,君【きみ】,n. you
+658,笑う,v. laugh; smile
+659,いくら,"adv. how much, however"
+660,魚,n. fish
+661,旅行（する）,"[1] n. journey, travel [2] v. travel"
+662,父親,n. father
+663,どれ,pron. which
+664,見付ける,"v. find, look for"
+665,関わる,"v. concern, affect, be involved"
+666,無理,"na-adj. unreasonable, impossible; compulsory"
+667,健康,n. health
+668,味,"n. flavor, taste"
+669,深い,i-adj. deep
+670,伝える,v. tell; deliver; hand down
+671,自由,"[1] n. freedom, liberty [2] na-adj. free"
+672,集まる,"v. gather, crowd"
+673,戦争,n. war
+674,流れる,"v. flow, float, pass"
+675,男性,"n. male, man"
+676,電車,n. train
+677,進める,"v. advance, move forward"
+678,含める,"v. include, add"
+679,致す,v. do (humble)
+680,着く,"v. arrive, reach"
+681,厳しい,"i-adj. strict, hard"
+682,女の子,n. girl
+683,パソコン,n. personal computer
+684,おる,"v. be, exist (humble)"
+685,活動（する）,[1] n. activity [2] v. be active
+686,不安,"[1] n. anxiety, concern [2] na-adj. uneasy, insecure"
+687,三十分,n. thirty minutes
+688,限り,n. limit
+689,いらっしゃる,"v. come, go (honorific); be (honorific)"
+690,可能,na-adj. possible
+691,可愛い,"i-adj. cute, nice, lovely"
+692,際【さい】,"n. when, in case of"
+693,途中,n. on the way; in the middle of
+694,研究（する）,"[1] n. research, study [2] v. do research, study"
+695,様子,"n. state of affairs, situation; appearance"
+696,ものすごい,[1] i-adj. terrible [2] adv. terribly
+697,合う,"v. fit, suit, agree"
+698,済む,"v. end, finish"
+699,通る,"v. pass, go along"
+700,大人,n. adult
+701,期待（する）,[1] n. expectation [2] v. expect
+702,事実,"n. fact, actuality"
+703,せい,"n. fault, cause for blame, because of"
+704,一年,n. one year
+705,一体,"n., adv. how, what, why, who"
+706,島【しま】,n. island
+707,描く,v. draw; describe
+708,驚く,v. be surprised
+709,動物,n. animal
+710,何度,"n. how many times, how often"
+711,元々,"adv. from the first, originally"
+712,素晴らしい,"i-adj. wonderful, marvelous"
+713,座る,v. sit
+714,定める,"v. provide; stipulate, decide"
+715,機会,n. opportunity
+716,楽しみ,"n. pleasure, enjoyment"
+717,考え,"n. idea, thought"
+718,信じる,"v. believe, trust"
+719,たまたま,"adv. accidentally, by chance"
+720,古い,i-adj. old
+721,さ,p. disc. ATTRACT ATTENTION
+722,面【めん】,n. side; page; surface
+723,三月,n. March
+724,ただし,"conj. but, however, though"
+725,常,"[1] n. way [2] adv. always, usually"
+726,より,"adv. more, better"
+727,つもり,n. intention
+728,考え方,"n. way of thinking, attitude"
+729,ニュース,n. news
+730,意識（する）,"[1] n. consciousness, awareness [2] v. be conscious"
+731,元【もと】,n. beginning; original
+732,行動（する）,"[1] n. action, act [2] v. act, behave"
+733,低い,"i-adj. low, short"
+734,びっくり（する）,"[1] n. surprise [2] v. be surprised, be amazed"
+735,作り方,n. how to make
+736,元気,"[1] n. health, vigor [2] na-adj. lively, vigorous, well"
+737,現われる,"v. appear, come into sight"
+738,聞こえる,v. hear; sound
+739,曲,"n. piece (music), song, tune"
+740,過去,n. past
+741,やっと,adv. at last
+742,思える,v. it seems that
+743,明らか,"na-adj. clear, obvious"
+744,つつ,p. conj. while doing; though
+745,土地,"n. land, ground"
+746,振り返る,"v. turn one’s head, look back"
+747,初め,n. beginning
+748,評価（する）,[1] n. evaluation [2] v. evaluate
+749,息子,n. son
+750,限る,"v. limit, restrict"
+751,似る,"v. look like, resemble"
+752,悲しい,"i-adj. sad, unhappy"
+753,雨,n. rain
+754,自分達,n. themselves; ourselves
+755,詳しい,"i-adj. detailed, know well, in detail"
+756,二十一世紀,n. twenty-first century
+757,ひどい,"i-adj. cruel, serious, terrible"
+758,昨日,n. yesterday
+759,下りる,v. go down; come down
+760,メール,n. e-mail
+761,まあ,"adv. Oh!, well, now"
+762,喜ぶ,"v. be glad, rejoice"
+763,便利,"[1] n. convenience [2] na-adj. useful, convenient"
+764,迎える,"v. go to meet, invite, receive"
+765,耳,n. ear
+766,表現（する）,[1] n. expression [2] v. express
+767,動き,"n. movement, action, motion"
+768,注意（する）,"[1] n. attention [2] v. notice, be careful"
+769,では,"conj. then, well"
+770,てあげる,cp. do something for somebody
+771,雰囲気,"n. atmosphere, ambience"
+772,立場,"n. position, standpoint, situation"
+773,基づく,v. be based
+774,間【ま】,"n. time, interval; space"
+775,ことがある,cp. have done; there are sometimes
+776,痛い,"i-adj. painful, hurt"
+777,お父さん,n. father
+778,辺り,n. area around
+779,てやる,cp. do something for somebody/something
+780,将来,n. future
+781,乗せる,"v. take on, put on, pick up"
+782,自転車,n. bicycle
+783,白い,i-adj. white
+784,川,"n. river, stream"
+785,用いる,"v. use, adopt"
+786,隣り,"n. next door, next"
+787,普段,"n. usually, ordinarily"
+788,法律,n. law
+789,妻,n. wife
+790,冬,n. winter
+791,具体的,"na-adj. specific, concrete"
+792,もと,n. under
+793,発生（する）,"[1] n. occurrence [2] v. occur, happen"
+794,繰り返す,"v. repeat, do over again"
+795,泣く,v. cry
+796,七,n. seven
+797,手紙,n. letter
+798,出かける,"v. go out, leave"
+799,努力（する）,[1] n. effort [2] v. make an effort
+800,増加（する）,"[1] n. increase, gain [2] v. increase, grow"
+801,判断（する）,[1] n. judgment [2] v. judge
+802,両親,n. (both) parents
+803,残念,"na-adj. disappointing, regrettable"
+804,おそらく,"adv. probably, likely"
+805,家庭,"n. home, household, family"
+806,軽い,"i-adj. light, slight"
+807,払う,v. pay; sweep away
+808,つながる,"v. be connected, be related"
+809,船,"n. ship, boat"
+810,九月,n. September
+811,きっかけ,"n. opportunity, motive"
+812,授業,"n. class, lesson at school"
+813,亡くなる,"v. die, pass away"
+814,止める【とめる】,v. stop
+815,不思議,"[1] n. wonder [2] na-adj. wonderful, strange, mysterious"
+816,茶,n. tea; brown
+817,直接,"n., adv. directly, direct"
+818,バス,n. bus
+819,効果,"n. effectiveness, effect"
+820,現実,"n. reality, actuality"
+821,触れる,v. touch; experience
+822,飼う,"v. keep, have, breed"
+823,しゃべる,"v. talk, chat"
+824,国民,"n. nation, people (of country), public"
+825,さす,v. shine; pour; put
+826,やり方,"n. way of doing, how to, approach"
+827,ずいぶん,"adv. very, pretty, quite"
+828,日本語,n. Japanese language
+829,十月,n. October
+830,気分,"n. feeling, mood"
+831,開発（する）,[1] n. development [2] v. develop
+832,殺す,v. kill
+833,特徴,"n. characteristic, feature"
+834,神,"n. God, deity, spirit"
+835,暮らす,v. live
+836,飛ぶ,v. fly
+837,終わり,n. end
+838,雑誌,n. magazine
+839,怒る,v. get angry
+840,整備（する）,"[1] n. maintenance, service [2] v. prepare"
+841,んと,interj. well
+842,建物,n. building
+843,発見（する）,[1] n. discovery [2] v. discover
+844,相談（する）,[1] n. consultation [2] v. consult
+845,連絡（する）,"[1] n. connection, contact [2] v. contact"
+846,止まる【とまる】,v. stop
+847,一生懸命,"na-adj. hard, as hard as one can"
+848,用意（する）,[1] n. preparation [2] v. prepare
+849,変,"na-adj. strange, unusual, funny"
+850,十二月,n. December
+851,学ぶ,v. learn
+852,突然,adv. suddenly
+853,首,"n. neck, head; firing, sacking (of an employee)"
+854,設定（する）,"[1] n. establishment [2] v. establish, set"
+855,ゆっくり,"adv. slowly, leisurely; plenty of time"
+856,目指す,"v. aim, go toward"
+857,したがって,"conj. accordingly, consequently"
+858,一月,n. January
+859,成す,"v. form, constitute"
+860,集める,"v. gather, collect"
+861,失う,v. lose
+862,光,n. light
+863,並ぶ,"v. line, stand in line"
+864,八月,n. August
+865,とく,aux. [shortened form of “te oku”]
+866,七月,n. July
+867,美しい,i-adj. beautiful
+868,五月,n. May
+869,優しい,"i-adj. gentle, tender, kind, friendly"
+870,タバコ,"n. cigarette, tobacco"
+871,後ろ,"n. behind, back"
+872,六月,n. June
+873,異なる,v. be different
+874,十一月,n. November
+875,新た,na-adj. another
+876,飛行機,n. airplane
+877,（お）ばあさん,n. old lady; grandmother
+878,至る,"v. lead to, get"
+879,午前,"n. morning, a.m."
+880,育てる,"v. bring up, train, develop"
+881,種類,"n. kind, sort, variety"
+882,商品,"n. goods, item of merchandise"
+883,生じる,"v. bring about, cause, arise"
+884,イギリス,"n. United Kingdom, Britain, England"
+885,大好き,na-adj. love
+886,語る,"v. talk, tell"
+887,胸,"n. chest, heart"
+888,頼む,"v. ask, order"
+889,体験（する）,"[1] n. experience [2] v. experience, have experience of"
+890,材料,"n. materials, ingredient"
+891,広がる,"v. spread, stretch"
+892,きちんと,"adv. precisely, accurately, neatly"
+893,そちら,pron. your place; there; you
+894,勝つ,"v. win, defeat"
+895,運動（する）,"[1] n. exercise [2] v. exercise, move"
+896,捨てる,"v. throw away, abandon"
+897,幸せ,"[1] na-adj. happy [2] n. happiness; fortune, luck"
+898,通す,"v. pass, show ... into"
+899,横,"n. side, beside"
+900,伴う,"v. accompany, involve"
+901,命,n. life
+902,流れ,"n. stream, flow, current"
+903,育つ,v. grow up
+904,ちなみに,"conj. by the way, incidentally"
+905,予定（する）,"[1] n. plan, schedule [2] v. plan"
+906,決して,"adv. never, by no means"
+907,馬,n. horse
+908,完全,"na-adj. perfect, complete"
+909,学生,n. student
+910,風【かぜ】,n. wind
+911,性格,"n. character, personality"
+912,死,n. death
+913,位置（する）,"[1] n. position, location [2] v. be located"
+914,発展（する）,"[1] n. development [2] v. develop, expand"
+915,おかしい,"i-adj. funny, amusing"
+916,近所,n. neighborhood
+917,一本,n. one (long/cylindrical object)
+918,張る,"v. stretch, put up"
+919,ご飯,"n. rice, meal"
+920,危険,"[1] n. danger, hazard [2] na-adj. dangerous"
+921,かしら,p. disc. I wonder
+922,すなわち,"conj. that is (to say), namely"
+923,海外,"n. overseas, abroad, foreign"
+924,教育（する）,[1] n. education [2] v. educate
+925,想像（する）,"[1] n. imagination, image [2] v. imagine"
+926,実は,"adv. actually, in fact"
+927,許す,"v. allow, permit, forgive"
+928,表【ひょう】,"n. table, chart"
+929,文化,n. culture
+930,八,n. eight
+931,食べ物,n. food
+932,借りる,"v. borrow, rent"
+933,だけれど,"conj. despite, though"
+934,準備（する）,[1] n. preparation [2] v. prepare
+935,二月,n. February
+936,や,aux. COPULA (dialectal)
+937,月【つき】,n. month; moon
+938,世の中,"n. world, society"
+939,インターネット,n. Internet
+940,春,n. spring
+941,旅,"n. trip, journey"
+942,二年,n. two years
+943,寒い,i-adj. cold
+944,年【ねん】,n. year
+945,同様,"na-adj. similar, same"
+946,一般,n. general
+947,第一,n. first
+948,三年,n. three years
+949,申す,"v. say, be (humble)"
+950,押す,"v. push, press"
+951,責任,n. responsibility
+952,選択（する）,"[1] n. selection, choice [2] v. choose"
+953,負ける,"v. lose, be beaten"
+954,技術,"n. technique, skill"
+955,一般的,"na-adj. general, common, ordinary"
+956,そば,"n. side, beside"
+957,減る,"v. decrease, become less"
+958,記事,n. article
+959,本人,"n. person himself/herself, person in question"
+960,焼く,"v. roast, bake"
+961,たまに,"adv. occasionally, once in a while"
+962,慣れる,v. get used to
+963,もしくは,"conj. or, otherwise"
+964,出会う,"v. meet, come across"
+965,推進（する）,"[1] n. propulsion [2] v. promote, drive"
+966,自ら,"n. personally, oneself, own"
+967,作業（する）,"[1] n. operation, work [2] v. work"
+968,私自身,"n. myself, my own"
+969,たび,n. every time
+970,付き合う,"v. associate with, go out with, go along with"
+971,半分,n. half
+972,条件,n. condition
+973,医者,n. doctor
+974,振る,"v. wave, shake, swing"
+975,関心,n. interest
+976,表示（する）,"[1] n. indication [2] v. display, indicate"
+977,秋,"n. autumn, fall"
+978,明るい,"i-adj. bright, light; cheerful"
+979,趣味,n. hobby
+980,生徒,"n. student, pupil"
+981,相当（する）,[1] na-adj. considerable [2] n. equivalence [3] v. be equivalent
+982,従う,"v. obey, follow"
+983,検討（する）,"[1] n. consideration, discussion, examination [2] v. consider, discuss"
+984,占める,"v. occupy, account for"
+985,まさに,adv. exactly
+986,選手,"n. player, athlete"
+987,以下,"n. below, the following"
+988,大きさ,n. size
+989,調査（する）,"[1] n. investigation [2] v. investigate, inquire, explore"
+990,分【ぶん】,"adv., n. part, share, portion"
+991,実家,n. one’s parents’ home
+992,発表（する）,"[1] n. announcement, publication [2] v. announce, publish"
+993,むしろ,"adv. rather, if anything"
+994,作成（する）,"n., v. make, create"
+995,名,n. name
+996,確保（する）,"[1] n. securement, reservation [2] v. secure, maintain, guarantee"
+997,まるで,"adv. just like, quite"
+998,運ぶ,"v. carry, transport, move"
+999,こともある,"cp. sometimes, can be"
+1000,てはいけない、ちゃいけない,"cp. must not, should not"
+1001,正しい,"i-adj. right, accurate, proper"
+1002,ほぼ,"adv. about, nearly, almost"
+1003,表わす,"v. show, express, symbolize"
+1004,毎年,"adv., n. every year, annually"
+1005,文字,"n. letter, character, writing"
+1006,空【そら】,"n. sky, air"
+1007,に対し,cp. toward; against; in contrast to
+1008,明日,"adv., n. tomorrow"
+1009,役割,"n. part, role"
+1010,地球,"n. earth, globe"
+1011,公園,n. park
+1012,個人,n. individual
+1013,やら,"p. and, or"
+1014,消える,v. go off; disappear
+1015,激しい,"i-adj. fierce, intense, severe"
+1016,短い,i-adj. short
+1017,薬,n. medicine
+1018,試合,"n. match, game, bout"
+1019,成長（する）,[1] n. growth [2] v. grow
+1020,おなか,"n. stomach, belly"
+1021,機能（する）,"[1] n. function, capability, feature [2] v. function, work"
+1022,ボール,n. ball
+1023,少年,"n. boy, juvenile"
+1024,方向,"n. direction, course"
+1025,遅い,i-adj. late; slow
+1026,資料,"n. document, material, data"
+1027,タイプ（する）,[1] n. type [2] v. type
+1028,扱う,"v. deal with, handle, treat"
+1029,指摘（する）,"[1] n. designation [2] v. point out, indicate"
+1030,ヨーロッパ,n. Europe
+1031,除く,v. remove; except; get rid of
+1032,それら,"pron. those, these, they"
+1033,ご存じ,"n. know, knowing (honorific)"
+1034,意外,"na-adj. unexpected, surprising"
+1035,一週間,n. one week
+1036,何回,n. how many times
+1037,政府,n. government
+1038,分ける,"v. divide, distribute; classify"
+1039,計画（する）,"[1] n. project, schedule, plan [2] v. plan"
+1040,段階,"n. grade, stage, step"
+1041,量,"n. quantity, volume, amount"
+1042,田舎,n. countryside; one’s hometown
+1043,感動（する）,"[1] n. deep emotion [2] v. be impressed, be moved"
+1044,スポーツ,n. sports
+1045,感覚,"n. sense; sensation, feeling"
+1046,地元,"n. home area, local area"
+1047,勝手,"na-adj. on one’s own, at one’s convenience"
+1048,さすが,"adv. as might be expected, as one would expect"
+1049,寂しい,"i-adj. lonely, lonesome"
+1050,再び,"adv. again, once more"
+1051,利く,"v. act, work"
+1052,勤める,"v. be employed, work for"
+1053,吸う,"v. breathe in, sip, smoke"
+1054,流す,v. flush; pour; drain
+1055,希望（する）,"[1] n. hope, wish, request [2] v. hope, wish, desire"
+1056,急,"na-adj. urgent, sudden; steep; sharp"
+1057,勧める,"v. encourage, recommend"
+1058,年齢,"n. age, years"
+1059,フランス,n. France
+1060,仕方,"n. way, method"
+1061,なし,"n. without, no"
+1062,さて,"conj. well, now"
+1063,疲れる,v. get tired
+1064,落とす,"v. drop, lose, turn down"
+1065,人気,n. popularity
+1066,弱い,"i-adj. weak, faint, light"
+1067,まとめる,"v. summarize, settle, gather"
+1068,格好,"n. appearance, shape, look"
+1069,渡る,"v. cross, go across"
+1070,患者,"n. patient, case"
+1071,壁,"n. wall, barrier"
+1072,道路,"n. road, way, street"
+1073,参る,"v. go, come, visit (humble); be in trouble, be embarrassed"
+1074,反対（する）,"[1] n. opposition, contrast, objection [2] v. oppose"
+1075,他人,"n. others, unrelated person, stranger"
+1076,提供（する）,"[1] n. offer [2] v. supply, sponsor"
+1077,空気,"n. air, atmosphere"
+1078,去年,"adv., n. last year"
+1079,肩,n. shoulder
+1080,知れる,"v. come out, come to light, be discovered"
+1081,匂い,"n. smell, odor, scent"
+1082,銀行,n. bank
+1083,実現（する）,"[1] n. realization, implementation [2] v. realize, put into practice"
+1084,ありがとう,interj. thank you
+1085,購入（する）,"[1] n. buying [2] v. purchase, buy"
+1086,十年,"n. ten years, decade"
+1087,右,n. right
+1088,全体,"n. total, whole, entire"
+1089,話題,"n. topic, subject"
+1090,認識（する）,"[1] n. recognition, awareness [2] v. recognize, be aware"
+1091,安心（する）,"[1] n. peace of mind, relief [2] v. feel relieved"
+1092,雪,n. snow
+1093,ポイント,n. point
+1094,十,num. ten
+1095,仲間,"n. company, fellow, mate, group"
+1096,かつ,"conj. besides, also, as well"
+1097,知識,"n. knowledge, information"
+1098,多少,"adv., n. more or less; somewhat; a little"
+1099,緑,n. green; greenery
+1100,解決（する）,"[1] n. solution, settlement [2] v. solve, settle"
+1101,狭い,"i-adj. narrow, small"
+1102,一時間,n. one hour
+1103,失敗（する）,"[1] n. failure, mistake [2] v. fail"
+1104,いきなり,"adv. suddenly, without notice"
+1105,成功（する）,"[1] n. success, achievement [2] v. succeed"
+1106,マンション,"n. apartment, condominium, flat"
+1107,協力（する）,"[1] n. cooperation, collaboration [2] v. cooperate, collaborate"
+1108,伯父,n. uncle
+1109,時々,"adv. sometimes, once in a while, on occasion"
+1110,産む、生む,v. give birth; produce
+1111,卒業（する）,[1] n. graduation [2] v. graduate
+1112,降る,"v. fall, come down"
+1113,野菜,n. vegetable
+1114,自分自身,n. oneself
+1115,報告（する）,"[1] n. report, information, account [2] v. inform"
+1116,落ち着く,"v. settle, calm down"
+1117,決定（する）,"[1] n. decision, determination [2] v. decide, determine"
+1118,割合,"[1] adv. comparatively [2] n. ratio, percentage"
+1119,移動（する）,"[1] n. movement [2] v. transfer, move, migrate"
+1120,いまだ,"adv. still, yet, so far"
+1121,血,n. blood
+1122,応ずる、応じる,"v. answer, respond, accept"
+1123,涙,n. tear
+1124,表情,"n. expression, facial expression, look"
+1125,ああ,adv. like that
+1126,逃げる,"v. run away, escape"
+1127,次第,[1] adv. depend on; as soon as [2] n. order
+1128,楽,"na-adj. comfort, ease, comfortable"
+1129,やがて,"adv. soon, before long, after all"
+1130,ではありません、じゃありません,"cp. not, no"
+1131,かつて,"adv. once, before, ever, former"
+1132,ごみ,"n. rubbish, garbage, trash"
+1133,警察,n. police
+1134,兄,n. elder brother
+1135,くれる,v. give
+1136,代わり,"n. substitute, replacement, alternative"
+1137,外国,n. foreign country
+1138,細かい,"i-adj. small, fine; trivial; sensitive"
+1139,静か,"na-adj. quiet, silent"
+1140,腰,"n. back, lower back, waist, hip"
+1141,開催（する）,"[1] n. holding, opening [2] v. hold, open"
+1142,瞬間,"adv., n. moment, instant, second"
+1143,近付く,"v. approach, get closer to"
+1144,わずか,"[1] na-adj. a few, a little, a bit [2] adv. only"
+1145,暗い,i-adj. dark; depressed
+1146,届く,"v. reach, arrive"
+1147,窓,n. window
+1148,ストレス,n. stress
+1149,伸ばす,"v. extend, lengthen; postpone"
+1150,ドア,n. door
+1151,森,"n. forest, woods, grove"
+1152,目標,"n. goal, objective, target"
+1153,本来,"adv., n. originally, essentially, by nature, proper"
+1154,重い,"i-adj. heavy, important"
+1155,変更（する）,"[1] n. change, modification, revision [2] v. change, revise"
+1156,感謝（する）,"[1] n. gratitude, appreciation [2] v. thank, be grateful"
+1157,腕,"n. arm; skill, ability"
+1158,手術（する）,"[1] n. surgery, operation [2] v. operate"
+1159,当たり前,"na-adj. natural, usual, common, ordinary"
+1160,時点,"n. point of time, as of"
+1161,１日【ついたち】,n. first (date)
+1162,馬鹿,[1] na-adj. foolish [2] n. fool
+1163,忙しい,"i-adj. busy, occupied"
+1164,おく,v. at; in; on
+1165,愛する,"v. love, care"
+1166,それでは、それじゃ,"conj. then, well, so"
+1167,遠い,"i-adj. far, distant"
+1168,苦労（する）,"[1] n. hardship, difficulty, trouble [2] v. have trouble, have a hard time"
+1169,押さえる,"v. press down, hold"
+1170,課題,"n. subject; assignment, task"
+1171,とともに,"cp. together with, with"
+1172,見付かる,"v. be found, be discovered"
+1173,うそ,"n. lie, falsehood"
+1174,仰る,"v. say, tell, speak (honorific)"
+1175,主張（する）,"[1] n. argument, claim [2] v. argue, insist"
+1176,施設,"n. facility, institution, plant"
+1177,チェック（する）,[1] n. check [2] v. check
+1178,一ヶ月,n. one month
+1179,ものの,"p. conj. but, although, despite"
+1180,展開（する）,"[1] n. development [2] v. develop, unfold"
+1181,事業,"n. business, enterprise, project"
+1182,データ,n. data
+1183,役【やく】,"n. part, role, duty"
+1184,伸びる,"v. grow, stretch, extend"
+1185,通常,"adv., n. normally, ordinary, regular"
+1186,ピアノ,n. piano
+1187,行為,n. action; motion; behavior
+1188,悩む,"v. be worried, be troubled, suffer"
+1189,第二,"num. second, secondary; another"
+1190,議論（する）,"[1] n. argument, discussion, controversy [2] v. discuss"
+1191,記録（する）,"[1] n. record, document [2] v. record, write down"
+1192,当てる,"v. hit, put, expose, guess"
+1193,出来事,"n. event, affair, happening"
+1194,温かい,"i-adj. warm, genial"
+1195,おかげ,"n. thanks, virtue"
+1196,安全,"[1] na-adj. safe [2] n. safety, security"
+1197,眺める,"v. see, view, gaze"
+1198,いかに,"adv. how, in what way"
+1199,設置（する）,"[1] n. installation [2] v. set up, place"
+1200,極めて,"adv. very, extremely"
+1201,入院（する）,"[1] n. hospitalization, admission to hospital [2] v. hospitalize"
+1202,積極的,"na-adj. active, positive, aggressive"
+1203,事故,"n. accident, incident, trouble"
+1204,たたく,"v. slap, hit, knock, clap"
+1205,としても,"cp. assuming, even if"
+1206,会話（する）,"[1] n. conversation [2] v. talk, chat"
+1207,方々【かたがた】,n. people
+1208,要る,"v. need, want"
+1209,鳥,n. bird; poultry
+1210,何とか,[1] adv. somehow [2] n. something
+1211,市【し】,"n. city, town"
+1212,眠る,v. sleep
+1213,自信,n. confidence
+1214,固い,"i-adj. hard, solid, stiff"
+1215,戦後,"adv., n. postwar, after the war"
+1216,値段,"n. price, value, cost"
+1217,通じる,"v. lead; communicate, understand"
+1218,動かす,"v. move, shift, operate"
+1219,トイレ,"n. toilet, restroom, bathroom"
+1220,あんな,"adn. such, like that"
+1221,避ける,"v. avoid, keep away from"
+1222,お勧め（する）,"[1] n. recommendation, advice [2] v. recommend, advise"
+1223,野球,n. baseball
+1224,穴,"n. hole, pit"
+1225,クリック（する）,[1] n. click [2] v. click
+1226,捕らえる,"v. catch, grasp, seize, arrest"
+1227,昨年,"adv., n. last year"
+1228,減少（する）,"[1] n. decrease, reduction [2] v. decline, decrease"
+1229,洗う,v. wash
+1230,左,n. left
+1231,珍しい,"i-adj. rare, unusual, unique"
+1232,尋ねる,"v. ask, look for"
+1233,一言,"n. one word, single word, brief comment"
+1234,男の子,"n. boy, male child"
+1235,制度,"n. system, institution"
+1236,買い物（する）,[1] n. shopping [2] v. go shopping
+1237,チーム,n. team
+1238,登場（する）,"[1] n. entry, appearance [2] v. appear, emerge"
+1239,期間,"n. period, term, interval"
+1240,金額,n. amount of money
+1241,塩,n. salt
+1242,奥,"n. inner part, back; bottom"
+1243,九,num. nine
+1244,まだまだ,"adv. still, still more"
+1245,習う,"v. take lessons, be taught, learn"
+1246,番組,"n. show, program"
+1247,一時,"adv., n. at one time, temporary, for a while"
+1248,ケース,n. case
+1249,傾向,"n. tendency, trend, inclination"
+1250,日々,"[1] adv. every day, daily [2] n. days"
+1251,拡大（する）,"[1] n. enlargement, expansion [2] v. enlarge, expand"
+1252,レベル,n. level
+1253,よろしく,"adv. well, properly, best regards"
+1254,疑問,"n. question, problem, doubt"
+1255,それなり,"n. in itself, as it is, in its way"
+1256,現状,"n. present condition, existing state"
+1257,ドイツ,n. Germany
+1258,取り上げる,"v. pick up, adopt; take away"
+1259,主に,"adv. mainly, for the most part, chiefly"
+1260,伯母,n. aunt
+1261,パン,n. bread
+1262,クラス,n. class
+1263,肉,"n. meat, flesh, fat"
+1264,なるべく,"adv. as ... as possible, if possible"
+1265,指,n. finger
+1266,態度,"n. attitude, manner, behavior"
+1267,地,"n. earth, ground, land, place"
+1268,全国,"n. nationwide, whole country, national"
+1269,答え,"n. answer, solution"
+1270,世話（する）,"[1] n. care [2] v. take care of, look after"
+1271,差,"n. difference, gap, margin"
+1272,一切,"adv., n. all, entirely, not ... at all"
+1273,食う,"v. eat, consume"
+1274,文章,"n. sentence; writing, text"
+1275,背景,"n. background, context, setting"
+1276,負担（する）,"[1] n. burden, load, charge [2] v. bear"
+1277,事情,"n. circumstance, situation, reason"
+1278,メンバー,"n. member, participant"
+1279,ようやく,"adv. at last, gradually, barely"
+1280,地方【ちほう】,"n. area, district, countryside"
+1281,豊か,"na-adj. abundant, plentiful, rich"
+1282,助ける,"v. help, rescue, save"
+1283,詰まる,"v. be blocked, be packed, be clogged"
+1284,一個,"n. one, piece"
+1285,大阪,n. Osaka
+1286,果たす,"v. carry out, achieve, fulfil"
+1287,支える,"v. support, hold, sustain"
+1288,抱える,"v. hold, carry, employ"
+1289,大分,"adv. very, a lot, much"
+1290,追う,"v. follow, chase, pursue"
+1291,権利,"n. right, claim, entitlement"
+1292,何々,"pron. such and such, this and that"
+1293,計算（する）,"[1] n. calculation [2] v. calculate, count, figure"
+1294,痛み,"n. pain, ache"
+1295,返す,v. return; repay; turn over
+1296,庭,"n. garden, yard"
+1297,納得（する）,"[1] n. agreement [2] v. understand, be convinced"
+1298,組織（する）,"[1] n. organization, structure [2] v. organize"
+1299,能力,"n. ability, capacity, power; proficiency"
+1300,人口,n. population
+1301,薄い,"i-adj. thin, light, weak"
+1302,注,"n. note, annotation, comment"
+1303,二回,n. twice
+1304,治療（する）,"[1] n. cure, treatment, therapy [2] v. treat, cure"
+1305,昼,n. noon; daytime
+1306,を通じて,"cp. throughout, across, through"
+1307,せっかく,"adv. with effort, take the trouble to"
+1308,赤い,i-adj. red
+1309,比較的,"na-adj. comparative, relative"
+1310,サービス（する）,"[1] n. service [2] v. attend, serve"
+1311,何人,n. how many people
+1312,荷物,"n. baggage, parcel, burden"
+1313,魅力,"n. charm, attraction, appeal"
+1314,現場,"n. field, scene, spot"
+1315,道具,"n. tool, instrument"
+1316,遠く,"[1] adv. far, remote [2] n. distance"
+1317,中学,n. junior high school
+1318,村,n. village
+1319,システム,n. system
+1320,あそこ,"pron. there, over there"
+1321,十時,n. ten o’clock
+1322,息,"n. breath, respiration"
+1323,伝わる,"v. spread, descend, travel"
+1324,撮影（する）,"[1] n. shooting [2] v. shoot, photograph"
+1325,指導（する）,"[1] n. guidance [2] v. guide, coach"
+1326,生かす,v. keep alive; make use of
+1327,韓国,"n. Korea, South Korea, Republic of Korea"
+1328,字【じ】,"n. letter, character; handwriting"
+1329,指定（する）,[1] n. appointment [2] v. specify
+1330,経営（する）,"[1] n. management [2] v. manage, run"
+1331,あらゆる,"adn. every, all, any"
+1332,価値,"n. value, worth"
+1333,南,n. south
+1334,成立（する）,"[1] n. completion [2] v. establish, conclude, come into existence"
+1335,季節,n. season
+1336,導入（する）,[1] n. introduction [2] v. introduce
+1337,ことにする,"aux. decide to, pretend to"
+1338,一枚,"n. one (sheet, slice)"
+1339,い,p. disc. QUESTION
+1340,先輩,"n. senior, elder"
+1341,全員,"adv., n. all members, everyone"
+1342,にしても,"cp. even if, even though"
+1343,四人,n. four people
+1344,人物,"n. person, character"
+1345,距離,n. distance
+1346,泊まる,v. stay
+1347,充実（する）,"[1] n. fullness [2] v. enrich, fullfill"
+1348,によると,cp. according to
+1349,コミュニケーション（する）,[1] n. communication [2] v. communicate
+1350,散歩（する）,"n., v. walk, stroll"
+1351,グループ,"n. group, team"
+1352,黒い,i-adj. black
+1353,九時,n. nine o’clock
+1354,石,"n. stone, rock"
+1355,エネルギー,"n. energy, power"
+1356,挨拶（する）,[1] n. greeting [2] v. greet
+1357,愛,"n. love, affection"
+1358,比較（する）,[1] n. comparison [2] v. compare
+1359,結ぶ,"v. tie, connect, unite"
+1360,移る,"v. move, transfer, shift"
+1361,従来,"adv., n. up to now, conventional, traditional"
+1362,嫌い,"na-adj. dislike, hate"
+1363,注目（する）,"[1] n. attention [2] v. pay attention, watch"
+1364,携帯（する）,[1] n. portable [2] v. carry
+1365,休む,"v. take a rest, be absent from"
+1366,甘い,i-adj. sweet; soft
+1367,最高,"n., na-adj. best, highest"
+1368,弟,n. younger brother
+1369,卵,"n. egg, spawn"
+1370,服,"n. clothes, dress, outfit"
+1371,赤ちゃん,"n. baby, infant"
+1372,始め,"adv., n. beginning, origin"
+1373,要求（する）,"[1] n. demand, request, claim [2] v. demand, request, claim"
+1374,紙,n. paper
+1375,妹,n. younger sister
+1376,額【がく】,n. amount of money; frame
+1377,交ぜる,"v. mix, shuffle"
+1378,抱く,"v. have, hold, embrace"
+1379,出来上がる,"v. be completed, be finished, be ready"
+1380,小説,"n. novel, fiction, story"
+1381,訪れる,"v. visit, call on, arrive"
+1382,汗,"n. sweat, perspiration"
+1383,特別,"na-adj. special, particular"
+1384,改善（する）,"[1] n. improvement, reform [2] v. improve"
+1385,休み,n. holiday; rest; be closed
+1386,咲く,v. bloom
+1387,基本,"n. foundation, basis, basic"
+1388,暑い,"i-adj. hot, warm"
+1389,向く,"v. turn, face, look"
+1390,ますます,"adv. more and more, increasingly"
+1391,最終的,"na-adj. final, last, ultimate"
+1392,感情,"n. feeling, emotion"
+1393,我慢（する）,"[1] n. patience, endurance, tolerance [2] v. be patient, endure"
+1394,浮かぶ,"v. float, rise"
+1395,利益,"n. profit, benefit, gain"
+1396,先日,"adv., n. the other day, recently"
+1397,裏,"n. reverse, back; rear"
+1398,もたらす,"v. bring, cause,"
+1399,姉,n. elder sister
+1400,問う,"v. ask, question; charge"
+1401,継ぐ,"v. succeed, take over"
+1402,北海道,n. Hokkaido
+1403,構成（する）,"[1] n. constitution, structure [2] v. compose"
+1404,反応（する）,"[1] n. reaction, response [2] v. respond"
+1405,ナイフ,n. knife
+1406,（お）じいさん,n. grandfather
+1407,新宿,n. Shinjuku (place name)
+1408,活用（する）,"[1] n. application [2] v. exploit, take advantage of"
+1409,正直,"[1] n. honesty [2] na-adj. honest, truthful [3] adv. honestly"
+1410,黒,n. black
+1411,スーパー,n. supermarket
+1412,プロ,"n. professional, pro"
+1413,渡す,"v. carry across, hand, transfer"
+1414,掲げる,"v. hang out, hold up"
+1415,京都,n. Kyoto
+1416,就職（する）,"[1] n. job hunting [2] v. find employment, get a job"
+1417,立派,"na-adj. fine, splendid, great"
+1418,舞台,"n. stage, scene"
+1419,現地,"n. field, on-site, local"
+1420,数字,"n. number, figure"
+1421,提出（する）,"[1] n. submission [2] v. submit, hand in"
+1422,コンピュータ,n. computer
+1423,東京都,"n. Tokyo, Tokyo metropolitan government, Tokyo metropolitan area"
+1424,から,conj. because
+1425,弾く【ひく】,v. play (musical instrument)
+1426,自宅,"n. home, house"
+1427,腹,"n. belly, stomach"
+1428,喜び,"n. pleasure, delight"
+1429,しようがない、しょうがない,"i-adj. it can’t be helped, nothing can be done"
+1430,風呂,n. bath
+1431,香り,"n. smell, scent"
+1432,スキー,n. ski; skiing
+1433,構う,"v. mind, care about"
+1434,受け入れる,"v. receive, accept, agree"
+1435,お菓子,"n. sweets, snack food"
+1436,無料,"n. free, no charge"
+1437,付き合い,"n. association, acquaintance"
+1438,私共,pron. we
+1439,被害,"n. damage, harm"
+1440,椅子,n. chair
+1441,直す,"v. fix, repair, mend"
+1442,桜,n. cherry tree; cherry blossom
+1443,回答（する）,"[1] n. answer, response, reply [2] v. answer, respond, reply"
+1444,ゲーム,n. game
+1445,ことはない,"aux. not have to, there is no need for"
+1446,個人的,"na-adj. private, personal, individual"
+1447,活躍（する）,"[1] n. activity, action [2] v. be active, flourish"
+1448,試験（する）,"[1] n. exam, test, trial [2] v. examine"
+1449,身近,"na-adj. familiar, close"
+1450,苦しい,"i-adj. painful, hard, difficult"
+1451,恥ずかしい,"i-adj. ashamed, embarrassed"
+1452,金【きん】,"n. gold, money"
+1453,ただ,"n. just, mere, only"
+1454,検査（する）,[1] n. inspection [2] v. inspect
+1455,皮、革,"n. skin, hide, jacket"
+1456,白,n. white; innocence
+1457,足りる,"v. be sufficient, be enough, be worthy"
+1458,代表（する）,"[1] n. representative [2] v. represent, stand for"
+1459,夕方,"adv., n. evening"
+1460,下がる,"v. fall, drop, step back"
+1461,実感（する）,[1] n. real feeling [2] v. actually feel
+1462,有する,v. have
+1463,抜く,"v. pull, extract"
+1464,回す,"v. turn, rotate, spin"
+1465,敵【てき】,"n. enemy, opponent"
+1466,側【がわ】,n. side
+1467,分かれる,"v. divide, split, part"
+1468,見つめる,"v. stare, gaze"
+1469,祭り,n. festival
+1470,抜ける,v. fall out; come loose; be omitted; leave
+1471,仕様,"n. style, specification, method"
+1472,最大,"n. biggest, largest"
+1473,スタート（する）,"[1] n. start [2] v. get off, start"
+1474,なり,"p. or, whether or not"
+1475,沖縄,n. Okinawa
+1476,設ける,"v. institute, set up"
+1477,でもって,"cp. by, with, in"
+1478,幼稚園,"n. preschool, kindergarten"
+1479,二度,n. twice
+1480,処理（する）,"[1] n. management, processing [2] v. manage, process"
+1481,困難,[1] n. difficulty [2] na-adj. difficult
+1482,あくまで,"adv. only, to the last"
+1483,分野,"n. field, discipline"
+1484,間違う,"v. be wrong, make a mistake"
+1485,姿勢,"n. posture, attitude"
+1486,ショック,n. shock
+1487,暇,"na-adj., n. free, not busy"
+1488,つい,"adv. without thinking, unintentionally"
+1489,土【つち】,n. soil
+1490,隠す,"v. hide, conceal"
+1491,緊張（する）,[1] n. tension [2] v. get tense
+1492,それとも,conj. or
+1493,帰り,n. return
+1494,三日,n. third (date); three days
+1495,戦う,v. fight
+1496,単に,"adv. just, simply"
+1497,席,n. seat
+1498,つる,v. hang
+1499,達する,v. reach
+1500,小学生,"n. elementary school pupil, primary school pupil"
+1501,ついに,"adv. at last, finally"
+1502,具合,n. condition
+1503,歯,n. tooth
+1504,ベッド,n. bed
+1505,無事,[1] adv. safely [2] n. safety [3] na-adj. safe
+1506,身体,n. body
+1507,何年,"n. what year, how many years"
+1508,星,n. star
+1509,携帯電話,n. cell phone
+1510,砂糖,n. sugar
+1511,切れる,"v. expire, run out"
+1512,維持（する）,"[1] n. maintenance, preservation [2] v. keep, maintain"
+1513,高さ,n. height
+1514,太陽,n. sun
+1515,会場,n. hall; site
+1516,素敵,"na-adj. lovely, nice, wonderful"
+1517,湯,n. hot water
+1518,そもそも,"adv., n. in the first place"
+1519,約束（する）,"[1] n. promise, appointment [2] v. promise, make an appointment"
+1520,ワイン,n. wine
+1521,高校生,n. high school student
+1522,イベント,n. event
+1523,二日,n. second (date); two days
+1524,売れる,v. sell
+1525,少なくとも,adv. at least
+1526,米国,n. United States
+1527,周囲,n. surroundings
+1528,伺う,"v. ask, inquire"
+1529,引っ越す,v. move (house)
+1530,二十年,n. twenty years
+1531,たまる,"v. accumulate, build up"
+1532,精神的,na-adj. spiritual
+1533,中学校,n. junior high school
+1534,仲良く,adv. friendly
+1535,言い方,n. way to say
+1536,バランス,n. balance
+1537,五年,n. five years
+1538,安定（する）,[1] n. stability [2] v. become stable
+1539,完成（する）,[1] n. completion [2] v. complete
+1540,我が家,"n. one’s house, one’s family, one’s home"
+1541,見かける,v. see
+1542,広げる,"v. spread, expand"
+1543,参考,n. reference
+1544,たとえ,adv. even if
+1545,受け取る,"v. get, accept"
+1546,冷たい,i-adj. cold
+1547,望む,v. hope
+1548,適用（する）,[1] n. application [2] v. apply
+1549,宗教,n. religion
+1550,一年間,n. one year
+1551,範囲,"n. extent, range"
+1552,接する,"v. adjoin, come in contact"
+1553,戻す,"v. put back, restore"
+1554,すっかり,"adv. entirely, completely"
+1555,低下（する）,"[1] n. decline, fall [2] v. decline, fall"
+1556,政治,n. politics
+1557,なんら,adv. nothing
+1558,取り組む,"v. tackle, deal with"
+1559,余裕,n. leeway
+1560,パリ,n. Paris
+1561,にて,p. case by; in; at
+1562,奥さん,n. wife
+1563,遅れる,"v. be late, be delayed"
+1564,担当（する）,[1] n. charge [2] v. be in charge of
+1565,向上（する）,"[1] n. improvement, progress [2] v. improve, advance"
+1566,機械,n. machine
+1567,CD(CD),"n. CD, compact disk"
+1568,寄る,v. stop by; move to one side
+1569,都市,n. city
+1570,費用,n. cost
+1571,運転（する）,"[1] n. driving, operation [2] v. drive"
+1572,生地,"n. cloth, material; dough"
+1573,さあ,"interj. come on, now, well"
+1574,だけでなく,cp. not only
+1575,予想（する）,[1] n. expectation [2] v. expect
+1576,一層,"adv., n. more"
+1577,旦那,n. husband
+1578,経る,"v. pass through, experience"
+1579,揃う,v. become complete; be equal
+1580,下げる,v. lower; hang
+1581,誘う,v. invite
+1582,重ねる,v. stack; repeat
+1583,採用（する）,"[1] n. adoption, employment [2] v. employ"
+1584,価格,n. price
+1585,飾る,v. decorate
+1586,がん,n. cancer.
+1587,土【ど】,n. Saturday
+1588,週,n. week
+1589,細い,"i-adj. thin, narrow, slender"
+1590,直る,v. be repaired; be corrected; get better
+1591,単純,na-adj. simple
+1592,ファックス（する）,[1] n. fax [2] v. fax
+1593,アルバイト,n. part-time job
+1594,北,n. north
+1595,一生,n. life
+1596,ファン,n. fan
+1597,及ぶ,v. reach
+1598,後【のち】,"n., adv. after, later"
+1599,調子,"n. condition, tone"
+1600,基準,n. standard
+1601,植物,n. plant
+1602,契約（する）,"n., v. contract"
+1603,組む,v. pair with; cross
+1604,叫ぶ,v. shout
+1605,若者,n. youth
+1606,手段,n. means
+1607,下ろす,v. take down; unload; withdraw; fillet (fish); grate
+1608,明治,n. Meiji period
+1609,形成（する）,[1] n. formation [2] v. take form
+1610,マンガ,"n. comics, cartoon"
+1611,ドラマ,"n. TV drama, drama"
+1612,いよいよ,"adv. finally, at last"
+1613,高齢者,n. senior citizen
+1614,無駄,"[1] na-adj. useless, futile [2] n. waste"
+1615,髪,n. hair
+1616,管理（する）,"[1] n. control, management [2] v. manage, control"
+1617,サッカー,"n. football, soccer"
+1618,工場,n. factory
+1619,正確,"na-adj. correct, exact, accurate"
+1620,夫婦,n. (married) couple
+1621,監督（する）,"[1] n. manager, director, proctor, invigilator [2] v. supervise, direct"
+1622,鍋,"n. pan, pot; hot-pot"
+1623,バイト,n. part-time job
+1624,１０分【じゅっぷん】,n. ten minutes
+1625,外す,"v. undo; take off, remove"
+1626,何でも,adv. anything; nothing; everything
+1627,階段,n. stairs
+1628,オーストラリア,n. Australia
+1629,そこで,conj. so
+1630,オーケー,n. O.K.
+1631,発達（する）,[1] n. development [2] v. develop
+1632,適当,"na-adj. proper, appropriate, suitable; irresponsible, whimsical"
+1633,戦い,"n. fight, battle"
+1634,挟む,"v. put in, sandwich between; catch in"
+1635,鼻,n. nose
+1636,会【かい】,"n. meeting, gathering"
+1637,数年,n. several years
+1638,現代,"n. the present age, today"
+1639,回復（する）,[1] n. recovery [2] v. recover
+1640,すみません,interj. Thank you; I am sorry; Excuse me
+1641,コーヒー,n. coffee
+1642,塗る,v. spread; paint
+1643,老人,"n. old person, the old"
+1644,共通（する）,"n., v. common"
+1645,一瞬,"n., adv. a moment, an instant"
+1646,面倒,"[1] na-adj. troublesome [2] n. bother, care"
+1647,開始（する）,"[1] n. beginning, start [2] v. begin, start"
+1648,翌日,n. next day
+1649,しまう,v. put away
+1650,商店街,n. shopping street
+1651,原則,n. principle
+1652,販売（する）,[1] n. sale [2] v. sell
+1653,諦める,"v. give up, quit"
+1654,場面,"n. scene, sight"
+1655,障害,"n. obstacle, handicap"
+1656,やや,"adv. a little, slightly"
+1657,一定（する）,"n., v. a certain, fixed, constant"
+1658,いかが,na-adj. how
+1659,上手【じょうず】,"na-adj. good, skillful"
+1660,関連（する）,"[1] n. relation, connection [2] v. be related, be connected"
+1661,笑顔,n. smile
+1662,真ん中,n. middle
+1663,ビール,n. beer
+1664,正月,n. New Year
+1665,すら,p. even
+1666,デザイン（する）,[1] n. design [2] v. design
+1667,わざわざ,"adv. take the trouble, especially"
+1668,あふれる,"v. overflow, be filled with"
+1669,葉,n. leaf
+1670,種【しゅ】,"n. kind, species"
+1671,迷惑（する）,"[1] na-adj. troublesome, annoying [2] n. annoyance, nuisance, trouble [3] v. be inconvenienced"
+1672,つかむ,"v. catch, grasp"
+1673,締める,v. tie; tighten
+1674,ラジオ,n. radio
+1675,入る【いる】,"v. come in, enter; join"
+1676,じっと（する）,"adv., v. still, fixedly, intently"
+1677,うなずく,v. nod
+1678,餌,n. feed; bait
+1679,背中,n. back
+1680,両方,n. both
+1681,床【ゆか】,n. floor
+1682,囲む,v. surround
+1683,並べる,v. arrange; line up; enumerate
+1684,黙る,"v. hold one’s tongue, become silent"
+1685,きり,p. only
+1686,風景,"n. scenery, landscape"
+1687,ごとし,"aux. like, as if (Classical)"
+1688,保存（する）,"[1] n. preservation, storage [2] v. preserve, store"
+1689,社長,n. company president
+1690,目立つ,"v. be conspicuous, stand out"
+1691,保護（する）,[1] n. protection [2] v. protect
+1692,確実,"na-adj. certain, sure"
+1693,経済,n. economy; finance
+1694,等【とう】,suffix and so on
+1695,演奏（する）,"[1] n. (musical) performance [2] v. perform, play"
+1696,増やす,"v. increase, add"
+1697,温泉,"n. hot spring, spa"
+1698,工夫（する）,"[1] n. device, idea [2] v. devise, plan"
+1699,触る,v. touch
+1700,教室,"n. classroom, ... school"
+1701,登録（する）,"[1] n. registration, entry [2] v. register, enroll"
+1702,長さ,n. length
+1703,資格,n. qualification; capacity
+1704,明確,"na-adj. clear, definite"
+1705,記載（する）,"[1] n. registration entry [2] v. record, write down"
+1706,肌,n. skin
+1707,倒れる,"v. fall (down), collapse"
+1708,症状,n. symptom
+1709,普及（する）,"[1] n. spread, diffusion [2] v. spread"
+1710,すると,"conj. then, if so"
+1711,優れる,v. be superior
+1712,返事（する）,"[1] n. answer, reply [2] v. answer, reply"
+1713,職場,n. workplace
+1714,取り出す,"v. take out, extract"
+1715,骨【ほね】,n. bone
+1716,平和,[1] n. peace [2] na-adj. peaceful
+1717,間違い,"n. mistake, error"
+1718,まい,aux. INTENTION OF NEGATION
+1719,けんか（する）,"[1] n. fight, quarrel [2] v. fight, quarrel"
+1720,偉い,"i-adj. great, big"
+1721,くださる,v. give (honorific)
+1722,熱い,"i-adj. hot, heated"
+1723,当日,"n. that day, current day"
+1724,残り,"n. rest, remainder"
+1725,支援（する）,"[1] n. support, assistance [2] v. support, assist"
+1726,実行（する）,[1] n. practice [2] v. carry out
+1727,握る,"v. hold, grasp, clasp"
+1728,出会い,n. encounter
+1729,体重,n. (body) weight
+1730,上司,n. boss
+1731,結論,n. conclusion
+1732,け,p. disc. QUESTION ABOUT SOMETHING SPEAKER FORGOT
+1733,テーブル,n. table
+1734,盛ん,na-adj. popular; active; prosperous
+1735,急ぐ,v. hurry
+1736,ともかく,"adv. in any case, anyway"
+1737,犯人,"n. criminal, culprit"
+1738,熱,n. fever; heat
+1739,犯罪,"n. crime, offense"
+1740,批判（する）,[1] n. criticism [2] v. criticize
+1741,出発（する）,[1] n. departure [2] v. leave
+1742,遊び,"n. play, game"
+1743,教師,n. teacher
+1744,横浜,n. Yokohama
+1745,脳,n. brain
+1746,レストラン,n. restaurant
+1747,そろそろ,adv. soon; slowly
+1748,日曜日,n. Sunday
+1749,けが（する）,"[1] n. injury [2] v. hurt, injure"
+1750,兄弟,n. brother; sister; sibling
+1751,楽器,n. musical instrument
+1752,保つ,"v. keep, maintain"
+1753,自動車,n. car
+1754,ほんの,"adn. just, nothing but, only"
+1755,カメラ,n. camera
+1756,寺,n. temple
+1757,ビデオ,n. video
+1758,適切,"na-adj. suitable, proper"
+1759,見事,[1] na-adj. excellent [2] adv. completely
+1760,底,n. bottom; sole
+1761,刺激（する）,"n., v. stimulate, incite, excite"
+1762,勢い,n. speed; force; vigor
+1763,吹く,v. blow; breathe out; play (musical instrument)
+1764,今日【こんにち】,"adv. today, these days"
+1765,迷う,v. get lost; cannot decide
+1766,背【せ】,n. stature; back
+1767,生【なま】,n. raw; fresh; live
+1768,訴える,v. sue; complain; appeal
+1769,精神,"n. mind, spirit"
+1770,把握（する）,[1] n. grasp [2] v. grasp
+1771,対する,"v. toward, against; compare, receive"
+1772,十二,num. twelve
+1773,じゃ,"aux. COPULA is, are"
+1774,地震,n. earthquake
+1775,応援（する）,"[1] n. support [2] v. cheer, support"
+1776,人類,"n. human race, mankind"
+1777,上昇（する）,[1] n. rise [2] v. rise
+1778,空間,n. space
+1779,複雑,"na-adj. complicated, complex"
+1780,特定（する）,[1] n. specific [2] v. specify
+1781,高める,v. raise
+1782,以外,n. except
+1783,観点,"n. viewpoint, standpoint"
+1784,努める,v. make efforts
+1785,二時間,n. two hours
+1786,きつい,"i-adj. tight; hard, severe; strong"
+1787,祖母,n. grandmother
+1788,プラス（する）,"[1] n. plus, benefit [2] v. benefit, add to"
+1789,大抵,adv. usually
+1790,狙う,v. aim at
+1791,知り合い,n. acquaintance
+1792,迫る,"v. approach, draw near; demand"
+1793,どうぞ,adv. please
+1794,消す,"v. put out, turn off; erase"
+1795,唯一,"n., adv. only"
+1796,連中,"n. company, crowd; those guys"
+1797,青い,i-adj. blue; pale; unripe
+1798,終了（する）,"[1] n. end [2] v. end, be over"
+1799,をもって,cp. by; with; as of
+1800,前提,"n. assumption, premise"
+1801,四つ,num. four
+1802,未来,n. future
+1803,僕ら,pron. we
+1804,立ち上がる,"v. stand up, rise"
+1805,同,n. same
+1806,推移（する）,"[1] n. transition, change [2] v. change, shift"
+1807,なくす,v. lose
+1808,有効,na-adj. valid; effective
+1809,次々,adv. one after another
+1810,上で,cp. after; in the context of
+1811,国内,"n. domestic, home"
+1812,が,conj. but
+1813,都合（する）,"[1] n. convenience, circumstances [2] v. arrange [3] adv. altogether"
+1814,主な,"adn. main, chief"
+1815,ふと,adv. casually; suddenly
+1816,四年,n. four years
+1817,無視（する）,"n., v. neglect, ignore"
+1818,一気,"adv., n. at a stretch, in one gulp"
+1819,手続き,"n. procedure, formalities"
+1820,波,n. wave
+1821,仲,"n. relations, terms"
+1822,中学生,n. junior high school student
+1823,イタリア,n. Italy
+1824,のぞく,"v. look through, look down; drop in"
+1825,誕生（する）,"[1] n. birth [2] v. be born, be created"
+1826,汚い,i-adj. dirty; unfair; vulgar
+1827,畑,"n. field (for fruit, vegetables); garden"
+1828,履く,"v. put on, wear"
+1829,膝,"n. knee, lap"
+1830,提案（する）,[1] n. proposal [2] v. propose
+1831,業務,"n. business, work"
+1832,幸い,"[1] na-adj. lucky, fortunate [2] n. happiness [3] adv. fortunately"
+1833,かわいそう,"na-adj. pitiful, miserable"
+1834,画像,"n. picture, image"
+1835,孫,n. grandchild
+1836,つなぐ,"v. connect, tie"
+1837,包む,v. wrap
+1838,思い切る,v. give up; venture
+1839,事態,n. situation
+1840,夜中【よなか】,n. middle of the night
+1841,改める,v. change; reform
+1842,集中（する）,[1] n. concentration [2] v. concentrate
+1843,両手,"n. both hands, both arms"
+1844,指示（する）,"[1] n. instruction, direction [2] v. instruct, direct"
+1845,結婚式,n. wedding ceremony
+1846,虫,"n. insect, bug; worm"
+1847,バイク,"n. motorcycle, motorbike"
+1848,確立（する）,[1] n. establishment [2] v. establish
+1849,到着（する）,[1] n. arrival [2] v. arrive
+1850,かく,v. scratch; paddle; shovel
+1851,痩せる,"v. become thin, lose weight"
+1852,親父,n. father; old man; boss
+1853,なくてはいけない,"cp. have to, must"
+1854,試す,"v. try, attempt"
+1855,終える,"v. finish, end"
+1856,遥か,"na-adj. faraway, far"
+1857,受験（する）,[1] n. examination [2] v. take an examination
+1858,医師,n. doctor
+1859,バンド,n. band; belt
+1860,体力,n. physical strength
+1861,国家,"n. state, country, nation"
+1862,ソフト,[1] n. software [2] na-adj. soft
+1863,長男,n. eldest son
+1864,0,n. zero
+1865,さっき,"adv., n. a little while ago"
+1866,ごく,adv. very
+1867,入力（する）,[1] n. input [2] v. type
+1868,CM(CM),n. commercial
+1869,十一,num. eleven
+1870,チャンス,n. chance
+1871,別れる,"v. part; divorce, break up"
+1872,昼間,n. daytime
+1873,生産（する）,[1] n. production [2] v. produce
+1874,要,n. in short
+1875,収める,"v. obtain, gain; put; keep"
+1876,掃除（する）,[1] n. cleaning [2] v. clean
+1877,強化（する）,"n., v. tighten, strengthen"
+1878,主婦,n. housewife
+1879,徐々,n. gradually
+1880,メーカー,"n. maker, manufacturer"
+1881,あり得る,"v. be possible, be likely, be probable"
+1882,記す,v. write down; mark
+1883,うわさ（する）,"[1] n. gossip, rumor [2] v. talk about"
+1884,保険,n. insurance
+1885,規制（する）,[1] n. regulation [2] v. regulate
+1886,もの,p. because
+1887,感想,"n. feeling, impression"
+1888,左右（する）,"[1] n. right and left [2] v. determine, influence"
+1889,促進（する）,[1] n. promotion [2] v. promote
+1890,景色,"n. scenery, view, scene"
+1891,味わう,"v. taste, savor"
+1892,アジア,n. Asia
+1893,交流（する）,"[1] n. interchange, exchange [2] v. interact"
+1894,報道（する）,[1] n. report [2] v. report
+1895,当初,"[1] n. beginning, original [2] adv. at first"
+1896,インド,n. India
+1897,観察（する）,[1] n. observation [2] v. observe
+1898,電気,n. electricity; electric light
+1899,癖,"n. habit, peculiarity"
+1900,たいした,"adn. not big, not much; great, quite"
+1901,あり方,"n. way something ought to be, state of things"
+1902,どころ,"p. far from, on the contrary, can’t even"
+1903,好み,"n. liking, taste"
+1904,はまる,v. fit; fall; be addicted to
+1905,早速,"adv. at once, lose no time in doing"
+1906,支払う,v. pay
+1907,市民,"n. resident (of a city), citizen"
+1908,メリット,"n. merit, advantage"
+1909,近年,adv. in recent years
+1910,分かりやすい,i-adj. easy to understand
+1911,製品,n. product
+1912,果たして,adv. really; just as one thought
+1913,得意,"na-adj. n. be good at, be proud; customer"
+1914,二週間,n. two weeks
+1915,問い合わせ【といあわせ】,n. inquiry
+1916,あっ,"interj. Ah!, Oh!, Hey!"
+1917,何だか,adv. somewhat; somehow
+1918,過程,n. process
+1919,仕組み,"n. structure, mechanism"
+1920,慌てる,"v. be flustered, be in a hurry"
+1921,ざるを得ない,"cp. have to, cannot help doing"
+1922,措置（する）,[1] n. measure [2] v. take measures
+1923,油,n. oil
+1924,半年,n. half a year
+1925,視線,"n. eyes, gaze, look"
+1926,構造,n. structure
+1927,筋肉,n. muscle
+1928,少々,"adv. a little, a minute"
+1929,対策,n. measure
+1930,濃い,i-adj. thick; strong; heavy; deep
+1931,異常,[1] na-adj. abnormal [2] n. disorder
+1932,図書館,n. library
+1933,靴,n. shoe
+1934,おそれ,"n. fear, danger"
+1935,二階,n. second floor
+1936,あえて,adv. dare
+1937,三回,n. three times
+1938,引っ越し（する）,"[1] n. moving, removal [2] v. move house"
+1939,失礼（する）,"[1] n. rudeness, impoliteness [2] v. be rude, be impolite [3] na-adj. rude, impolite"
+1940,太る,"v. get fat, gain weight"
+1941,街、町,"n. town, city"
+1942,いったん,adv. once; for a moment
+1943,取り入れる,v. take in; adopt; harvest
+1944,モテる,v. be popular
+1945,都会,n. city
+1946,大量,"n., na-adj. large quantity, a lot"
+1947,発言（する）,[1] n. remark [2] v. speak
+1948,炒める,"v. fry, stir-fry"
+1949,投げる,v. throw; give up
+1950,玄関,"n. entrance, front door"
+1951,一種,"n. kind, sort, species"
+1952,世代,n. generation
+1953,にあたって,cp. at the time of
+1954,申し込み,n. application
+1955,高まる,"v. rise, heighten, grow"
+1956,証明（する）,[1] n. proof [2] v. prove
+1957,沸く,v. boil; be in uproar
+1958,必死,na-adj. desperate
+1959,真剣,na-adj. serious
+1960,まさか,"[1] adv. surely not, cannot possibly [2] n. the worst"
+1961,ごめんなさい,"interj. I’m sorry, Excuse me"
+1962,画面,n. screen
+1963,米【こめ】,n. rice
+1964,成果,"n. result, product"
+1965,物語,"n. tale, story"
+1966,日時,n. date and time
+1967,来年,n. next year
+1968,巻く,"v. roll up, wind up; wear around"
+1969,こっち,pron. here; this; I; we
+1970,必ずしも,"adv. not necessarily, not always"
+1971,たっぷり,"[1] adv. full, plenty [2] n. fullness"
+1972,はやる,"v. be fashionable, be popular, go around"
+1973,恐ろしい,"i-adj. terrible, frightful, amazing, awful"
+1974,中身,n. contents; substance
+1975,スピード,n. speed
+1976,一歩,n. step
+1977,牛乳,n. (cow’s) milk
+1978,否定（する）,"[1] n. denial, negative [2] v. deny"
+1979,踏まえる,v. be based on
+1980,若干,"[1] adv. slightly [2] n. a little, few, some"
+1981,箱,"n. box, case"
+1982,テニス,n. tennis
+1983,アパート,n. apartment
+1984,面接（する）,[1] n. interview [2] v. interview
+1985,住民,"n. inhabitant, resident"
+1986,て参る,"cp. begin to, come to; have been; go and come (humble)"
+1987,ギター,n. guitar
+1988,要素,"n. element, factor"
+1989,泳ぐ,v. swim
+1990,大勢,"n. a large number of, many"
+1991,習慣,"n. custom, habit"
+1992,込める,"v. put into, pour into"
+1993,風邪,n. cold
+1994,調整（する）,[1] n. adjustment [2] v. adjust
+1995,踊る,v. dance
+1996,とも,"p. all, both"
+1997,タクシー,n. taxi
+1998,教会,n. church
+1999,攻撃（する）,[1] n. attack [2] v. attack
+2000,五時,n. five o’clock
+2001,（お）弁当,n. lunch box
+2002,方達,n. people (honorific)
+2003,久しぶり,n. after a long time
+2004,とたん,n. as soon as
+2005,要する,"v. need, take"
+2006,幅,"n. width, breadth; difference; latitude"
+2007,周辺,"n. outskirts, around"
+2008,十日,n. tenth (date); ten days
+2009,取得（する）,[1] n. acquisition [2] v. acquire
+2010,挑戦（する）,"[1] n. challenge [2] v. challenge, try"
+2011,独立（する）,[1] n. independence [2] v. be independent
+2012,収入,n. income
+2013,ぜ,p. EMPHASIS
+2014,市場,n. market
+2015,着物,n. kimono
+2016,メニュー,n. menu
+2017,夏休み,n. summer holiday
+2018,壊す,v. break; impair; upset
+2019,なさる,v. do (honorific)
+2020,仮,"n. temporary, provisional; assumed"
+2021,かえって,"adv. on the contrary, rather"
+2022,関する,"v. be related to, be concerned with"
+2023,輸入（する）,[1] n. import [2] v. import
+2024,満たす,"v. fill, satisfy, meet"
+2025,いわば,"adv. so to speak, as it were"
+2026,スタッフ,n. staff
+2027,住所,n. address
+2028,平気,"[1] na-adj. insensitive, fine [2] n. calmness"
+2029,コース,"n. course, route, lane"
+2030,訪ねる,"v. visit, go to see"
+2031,鍵,n. key
+2032,世界中,"n. around the world, throughout the world"
+2033,下手,"na-adj. not good at, poor, bad, unskilled"
+2034,詩,"n. poem, poetry"
+2035,経過（する）,"[1] n. progress, development [2] v. pass"
+2036,整える,"v. arrange, prepare"
+2037,ツアー,n. tour
+2038,西,n. west
+2039,事項,"n. matter, fact, item"
+2040,塾,n. cram school
+2041,去る,"v., adn. leave, pass, be gone"
+2042,五人,n. five people
+2043,入り口,n. entrance
+2044,改めて,adv. over again; some other time
+2045,県,n. prefecture
+2046,断る,"v. decline, refuse, reject, turn down; ask permission; give notice"
+2047,事務所,n. office
+2048,大さじ,n. tablespoon
+2049,整理（する）,"[1] n. arrangement [2] v. arrange, put in order, dispose of"
+2050,耐える,"v. stand, endure, bear"
+2051,職員,n. staff member
+2052,コメント（する）,[1] n. comment [2] v. comment
+2053,五分,n. five minutes
+2054,発揮（する）,"[1] n. exhibition, show [2] v. display, exhibit"
+2055,閉じる,"v. close, shut"
+2056,芝居,"n. play, drama"
+2057,分析（する）,[1] n. analysis [2] v. analyze
+2058,解釈（する）,[1] n. interpretation [2] v. interpret
+2059,奪う,"v. rob, take by force; fascinate"
+2060,三ヶ月,n. three months
+2061,注文（する）,[1] n. order [2] v. order
+2062,傷,n. injury; scratch; bruise; flaw; stain
+2063,外国人,n. foreigner
+2064,八時,n. eight o’clock
+2065,冷蔵庫,n. refrigerator
+2066,任せる,"v. entrust, leave"
+2067,配慮（する）,[1] n. consideration [2] v. consider
+2068,赤,n. red
+2069,かぶる,"v. put on, cover"
+2070,海外旅行,"n. travel abroad, foreign trip"
+2071,営業（する）,"[1] n. business, sales [2] v. do business"
+2072,水【すい】,"n. Wednesday, Wed."
+2073,なるほど,"adv. I see, indeed, to be sure, of course"
+2074,空港,n. airport
+2075,交換（する）,[1] n. exchange [2] v. exchange
+2076,生える,"v. grow, sprout, cut (teeth),"
+2077,防ぐ,"v. defend, protect; prevent, keep away"
+2078,ホームページ,n. home page
+2079,妊娠（する）,[1] n. pregnancy [2] v. get pregnant
+2080,貸す,"v. lend, rent"
+2081,ママ,"n. mom, mummy"
+2082,空く【あく】,"v. become vacant, be free"
+2083,危ない,"i-adj. dangerous, risky; questionable"
+2084,まっすぐ,"[1] n. straight, direct [2] adv. honest"
+2085,映像,"n. picture, image, video"
+2086,壊れる,"v. be broken, be damaged; be destroyed"
+2087,破壊（する）,"[1] n. destruction, demolition [2] v. destroy, demolish"
+2088,削除（する）,[1] n. deletion [2] v. delete
+2089,派遣（する）,"n., v. dispatch, send"
+2090,カード,n. card
+2091,改正（する）,[1] n. amendment [2] v. amend
+2092,世間,"n. world, public, society"
+2093,手伝う,v. help
+2094,社員,"n. employee, member of staff"
+2095,月【げつ】,"n. Monday, Mon."
+2096,信頼（する）,"n., v. trust, rely on"
+2097,沿う,"v. along; in line with, according to, meet"
+2098,輝く,"v. shine, glitter, twinkle, glow"
+2099,三時,n. three o’clock
+2100,ペット,n. pet
+2101,世,"n. world, public; age, reign"
+2102,不可能,[1] na-adj. impossible [2] n. impossibility
+2103,襲う,"v. attack, hit; seize"
+2104,問,n. question number; counter for questions
+2105,サイト,n. website
+2106,ボランティア,n. volunteer
+2107,問題点,"n. problem, point at issue"
+2108,一人一人,"n. one by one, each (people)"
+2109,サイズ,n. size
+2110,建設（する）,"[1] n. construction [2] v. build, construct"
+2111,線,n. line
+2112,子育て,"n. child rearing, bringing up one’s child"
+2113,願い,"n. wish, hope"
+2114,よろしい,"i-adj. all right, good, may (I) (formal)"
+2115,二十分,n. twenty minutes
+2116,モデル,n. model
+2117,余計,"na-adj. additional, extra"
+2118,引き続く,v. continue; follow
+2119,移す,"v. move, transfer, shift"
+2120,募集（する）,[1] n. recruitment [2] v. recruit
+2121,りんご,n. apple
+2122,まずい,i-adj. not taste good; awkward
+2123,食料,"n. food, provisions"
+2124,優勝（する）,"[1] n. championship, victory [2] v. win"
+2125,間【かん】,n. during; between
+2126,属する,"v. belong to, be a member of"
+2127,豊富,"na-adj. rich, abundant"
+2128,消費者,n. consumer
+2129,喉,n. throat; voice
+2130,布団,"n. futon, Japanese-style bedding"
+2131,十五分,n. fifteen minutes
+2132,宇宙,"n. universe, space"
+2133,同じく,"adv. likewise, like, as"
+2134,資金,n. funds
+2135,しかたない,"i-adj. It can’t be helped, be beyond any help, I can’t help ..."
+2136,料金,"n. charge, fee, fare"
+2137,デパート,n. department store
+2138,地図,n. map
+2139,唇,n. lip
+2140,釣り,n. fishing
+2141,十五日,n. fifteenth (date); fifteen days
+2142,駅前,n. in front of the station
+2143,つつある,"cp. be in the process of doing, be doing"
+2144,ご覧,"n. looking, seeing (honorific)"
+2145,大会,"n. convention, mass meeting, tournament"
+2146,拾う,"v. pick up, gather, pick out"
+2147,いざ,"adv. when one comes to, if compelled"
+2148,二番目,n. second
+2149,良さ,"n. good point, good"
+2150,たって,p. even if
+2151,素材,n. material
+2152,設立（する）,"[1] n. establishment [2] v. establish, set up"
+2153,なので,"conj. because, as"
+2154,絞る,v. squeeze
+2155,ところで,"conj. by the way, well"
+2156,江戸,n. Edo
+2157,下る,v. go down
+2158,二十,num. twenty
+2159,反映（する）,[1] n. reflection [2] v. reflect
+2160,天気,n. weather
+2161,作家,n. writer
+2162,減らす,"v. reduce, cut down"
+2163,十五,num. fifteen
+2164,ゴルフ,n. golf
+2165,敷く,"v. spread, lay"
+2166,合格（する）,[1] n. passing an exam [2] v. pass an exam
+2167,日常,"n., adv. everyday, daily, usually"
+2168,毎回,n. every time
+2169,影,n. shadow
+2170,うるさい,i-adj. noisy; annoying
+2171,法,n. law
+2172,罪,n. crime; guilt
+2173,まるい,"i-adj. round, circular"
+2174,団体,"n. party, group, organization"
+2175,詳細,[1] n. details [2] na-adj. detailed
+2176,洋服,"n. clothes, suit, dress"
+2177,承知（する）,"[1] n. agreement [2] v. agree, understand"
+2178,多数,"n. many, a number of"
+2179,運営（する）,"[1] n. management [2] v. manage, run"
+2180,生き方,n. way of life
+2181,備える,"v. get something ready, prepare"
+2182,おしゃれ,"na-adj. fashionable, smart"
+2183,住宅,"n. house, residence"
+2184,考慮（する）,"[1] n. thought [2] v. think over, consider"
+2185,働き,n. work
+2186,踏む,"v. step on, tread on"
+2187,ファイル,n. file
+2188,有り,v. n. exist; live
+2189,要因,"n. factor, main cause"
+2190,わし,n. I (used by old men)
+2191,火【か】,"n. fire; Tuesday, Tue."
+2192,偶然,"[1] adv. by chance [2] n. chance, accident"
+2193,だって,"conj. because, but"
+2194,不満,"[1] n. dissatisfaction, discontent [2] na-adj. discontented"
+2195,クラブ,n. club
+2196,懐かしい,i-adj. nostalgic
+2197,ページ,n. page
+2198,止む,v. stop
+2199,外れる,"v. be off, get out of place, be dislocated"
+2200,経済的,na-adj. economical; economic; financial
+2201,机,n. desk
+2202,使い方,n. how to use
+2203,ハワイ,n. Hawaii
+2204,予算,"n. estimate, budget"
+2205,真面目,na-adj. serious; steady; honest
+2206,勇気,"n. courage, bravery"
+2207,皿,"n. plate, dish"
+2208,ありがたい,"i-adj. kind, welcome"
+2209,視点,n. viewpoint
+2210,素直,"na-adj. obedient, tame"
+2211,表面,"n. surface, outside, appearance"
+2212,コピー（する）,[1] n. copy [2] v. copy
+2213,削る,"v. save; sharpen, plane"
+2214,部活,n. club
+2215,サラリーマン,"n. salaried worker, office worker"
+2216,制限（する）,"[1] n. restriction [2] v. limit, restrict"
+2217,実験（する）,[1] n. experimentation [2] v. experiment
+2218,ニューヨーク,n. New York
+2219,確かめる,"v. confirm, make sure"
+2220,東【ひがし】,n. east
+2221,主人公,"n. hero, heroine"
+2222,もっとも,"conj. though, although"
+2223,アメリカ人,n. American (person)
+2224,テスト（する）,[1] n. test [2] v. test
+2225,高校時代,n. high school days
+2226,満足（する）,[1] n. satisfaction [2] v. be satisfied
+2227,愛情,"n. love, affection"
+2228,微妙,"na-adj. delicate, subtle"
+2229,生み出す,"v. create, invent"
+2230,ビル,n. building
+2231,あらかじめ,"adv. beforehand, in advance"
+2232,財産,n. property; fortune
+2233,証拠,n. evidence
+2234,我,pron. I; oneself
+2235,訓練（する）,[1] n. training [2] v. train
+2236,区別（する）,[1] n. distinction [2] v. distinguish
+2237,四日,n. fourth (date); four days
+2238,サークル,"n. circle, club"
+2239,皆様,n. everybody
+2240,光景,"n. sight, spectacle"
+2241,パターン,n. pattern
+2242,シーン,n. scene
+2243,新鮮,na-adj. fresh
+2244,恵まれる,v. be blessed
+2245,煮る,"v. boil, cook"
+2246,旨,n. effect; principle
+2247,反省（する）,"[1] n. soul-searching, reflection [2] v. reflect on"
+2248,放送（する）,"[1] n. broadcasting, telecasting [2] v. broadcast"
+2249,人間関係,n. interpersonal relationship
+2250,ボタン,n. button
+2251,少女,n. girl
+2252,命ずる,v. order
+2253,自己,"n. oneself, self"
+2254,ロンドン,n. London
+2255,端【はし】,"n. end, tip, edge"
+2256,加わる,"v. increase, add; join"
+2257,規模,n. scale
+2258,悩み,"n. trouble, worry"
+2259,鳴る,v. sound; ring
+2260,運,"n. luck, fortune"
+2261,ルール,n. rule
+2262,妙,"na-adj. strange, curious"
+2263,告げる,"v. tell, announce"
+2264,恋,n. love (romantic)
+2265,現象,"n. phenomenon, happening; phase"
+2266,ベース,"n. base, basis"
+2267,ネット,n. net
+2268,許可（する）,"[1] n. permission, leave [2] v. permit, authorize"
+2269,商売,n. business
+2270,積む,"v. pile up, heap up; acquire, accumulate"
+2271,文句,n. words; complaint
+2272,発想,"n. idea, conception"
+2273,見なす,"v. be considered, look upon"
+2274,親戚,n. relative
+2275,大幅,"na-adj. steep, big, sharp"
+2276,アドバイス,n. advice
+2277,ダイエット（する）,[1] n. diet [2] v. go on a diet
+2278,生命,n. life
+2279,中央,n. center adj. central
+2280,発行（する）,"[1] n. publication, issue [2] v. publish, issue"
+2281,ほめる,"v. praise, speak well of, commend"
+2282,カナダ,n. Canada
+2283,請求（する）,"[1] n. demand, request, charge [2] v. demand, claim"
+2284,企画（する）,[1] n. planning [2] v. plan
+2285,話し合う,"v. talk, discuss"
+2286,注ぐ【そそぐ】,v. flow into; water; pour
+2287,増す,v. increase
+2288,浴びる,v. bathe; pour
+2289,縁【えん】,"n. chance, fate, destiny"
+2290,吐く【はく】,"v. exhale, breathe out; vomit; spit"
+2291,渋谷,n. Shibuya (place name)
+2292,間違える,v. make a mistake
+2293,セット,n. set
+2294,てはならない,"cp. must not, should not"
+2295,明かり,n. light
+2296,玉ねぎ,n. onion
+2297,しかない,"cp. can’t but, can only, have no choice"
+2298,合計（する）,[1] n. sum total [2] v. total
+2299,良し,"i-adj. good, OK"
+2300,二本,n. two (long/cylindrical objects)
+2301,御,prefix POLITENESS PREFIX
+2302,貴重,"na-adj. precious, valuable"
+2303,引っ張る,v. pull
+2304,城,n. castle
+2305,対処（する）,"[1] n. handling, coping [2] v. deal with"
+2306,覆う,v. cover
+2307,教授,n. professor
+2308,橋,n. bridge
+2309,巨大,"na-adj. huge, enormous, gigantic"
+2310,あちらこちら,pron. here and there
+2311,苦手,"na-adj. not good at, weak point"
+2312,スタイル,"n. style, body, figure"
+2313,テント,n. tent
+2314,ユダヤ人,"n. Jew, Jewish person"
+2315,主,"n. head, master"
+2316,意志,"n. will, willpower"
+2317,容易,na-adj. easy
+2318,しばしば,"adv. always, often"
+2319,のんびり,"adv. tranquil, leisurely, easygoing"
+2320,話しかける,v. speak to
+2321,揃える,"v. arrange, prepare"
+2322,毎月,n. every month
+2323,礼,n. bow; courtesy
+2324,つぶやく,"v. mutter, murmur"
+2325,抵抗（する）,"[1] n. resistance [2] v. resist, offer opposition"
+2326,十一時,n. eleven o’clock
+2327,恐怖,"n. fear, dread, terror"
+2328,支配（する）,"[1] n. rule, control [2] v. rule, control, govern"
+2329,右手,n. right hand
+2330,親しい,"i-adj. close, friendly"
+2331,間違い無い,i-adj. must be
+2332,禁止（する）,"[1] n. prohibition, ban [2] v. prohibit, ban"
+2333,怒り,"n. anger, rage, fury"
+2334,本格的,"na-adj. genuine, real; full-scale"
+2335,命令（する）,"[1] n. order, command, direction [2] v. order, command"
+2336,四時,n. four o’clock
+2337,援助（する）,"[1] n. assistance, aid, support [2] v. help, support, assist"
+2338,二人共,"adv. both of them, two people"
+2339,好む,"v. like, be fond of, love, care"
+2340,苦しむ,"v. feel pain, suffer"
+2341,見方,"n. point of view, way of looking"
+2342,介護（する）,"[1] n. nursing, care [2] v. nurse, look after"
+2343,成績,"n. record, result, grade, mark"
+2344,広告（する）,"[1] n. advertisement, flyer [2] v. advertise"
+2345,本日,n. today
+2346,強調（する）,"[1] n. emphasis, stress [2] v. emphasize, stress"
+2347,大いに,"adv. very, greatly"
+2348,たまる,"v. bear, endure"
+2349,お子さん,n. (someone else’s) child
+2350,実態,n. actual situation
+2351,によれば,"cp. according to, ... say"
+2352,隠れる,"v. be hidden, hide"
+2353,埋める,"v. cover, bury"
+2354,トップ,n. top
+2355,依頼（する）,"[1] n. request [2] v. request, ask"
+2356,もはや,"adv. now, already; not ... any longer"
+2357,真【しん】,n. truth; reality
+2358,出産（する）,[1] n. birth [2] v. give birth
+2359,達成（する）,"[1] n. achievement, attainment [2] v. achieve, attain"
+2360,申請（する）,"[1] n. application, petition [2] v. apply"
+2361,知り合う,v. get to know
+2362,親子,"n. parent and child, parents and children"
+2363,取り組み,n. match; approach
+2364,招く,v. invite
+2365,二十日,n. twentieth (date); twenty days
+2366,政治家,n. politician
+2367,飛び出す,v. spring out; come rushing out
+2368,陥る,v. fall into
+2369,寄せる,"v. let come near, bring near; put; be dependent on"
+2370,定員,n. capacity (people)
+2371,駐車場,"n. parking space, parking lot, car park"
+2372,彼氏,n. boyfriend
+2373,式,n. ceremony
+2374,によっては,cp. depending on
+2375,蓋,n. lid
+2376,実【み】,n. seed; berry; fruit; nut; pulp
+2377,社会人,n. adult; full member of society
+2378,墓,n. grave
+2379,十三,num. thirteen
+2380,宿,"n. inn, hotel"
+2381,都心,"n. city center, downtown area"
+2382,二ヶ月,n. two months
+2383,役立つ,v. useful
+2384,土曜日,n. Saturday
+2385,労働者,"n. laborer, working man"
+2386,五日,n. fifth (date); five days
+2387,発売（する）,"[1] n. sale [2] v. sell, put on sale"
+2388,成り立つ,v. be concluded; consist of
+2389,人数,n. number of people
+2390,物質,"n. matter, material"
+2391,温度,n. temperature; heat
+2392,性質,"n. nature, disposition"
+2393,方針,"n. course, line; policy, plan; principle"
+2394,ひたすら,"adv. determinedly, earnestly"
+2395,秘密,"n. secret, confidence"
+2396,該当（する）,"n. fall under, be applicable, correspond"
+2397,案内,"n. guidance; guide, sign"
+2398,基礎,"n. basis, basics, foundation"
+2399,単なる,"adn. mere, simple"
+2400,草,"n. grass, weed"
+2401,食品,n. food
+2402,トラブル,n. trouble
+2403,植える,v. plant
+2404,定義,n. definition
+2405,盛り上がる,"v. swell, rise; liven up"
+2406,祖父,n. grandfather
+2407,扉,n. door
+2408,僕達,pron. we (used by male speakers)
+2409,にわたって,"cp. throughout, over a period of"
+2410,廊下,n. corridor
+2411,要請,n. request
+2412,お姉さん,n. elder sister
+2413,プログラム,n. program
+2414,職業,"n. occupation, trade, profession"
+2415,限界,"n. limit, boundary"
+2416,地位,"n. rank, position"
+2417,負う,"v. take, assume"
+2418,何しろ,"adv. anyhow, anyway"
+2419,何と,"adv. how, what"
+2420,エンジン,n. engine
+2421,コンビニ,n. convenience store
+2422,質,"n. nature, quality"
+2423,漢字,"n. kanji, Chinese character"
+2424,政策,n. policy
+2425,本物,"n. real (thing), genuine"
+2426,作り出す,"v. make, create"
+2427,解消（する）,"n. cancellation, annulment; cancel, dissolve"
+2428,キャンプ,n. camp
+2429,アルバム,n. album
+2430,運命,"n. destiny, fate"
+2431,に違いない,"aux. must be, no doubt that"
+2432,発する,"v. emit, release"
+2433,ロボット,n. robot
+2434,水分,"n. water, moisture"
+2435,天皇,n. Emperor (of Japan)
+2436,布,n. cloth
+2437,生物,n. living thing; biology
+2438,根,n. root
+2439,信用（する）,"n. trust, rely on"
+2440,ロシア,n. Russia
+2441,農業,n. agriculture
+2442,思想,"n. thought, idea"
+2443,丁寧,"na-adj. careful, polite"
+2444,種【たね】,n. seed
+2445,書類,n. document
+2446,疑う,"v. suspect, doubt"
+2447,神様,"n. god, God"
+2448,悔しい,"i-adj. regrettable, frustrating; feel regret"
+2449,農家,n. farmer
+2450,市町村,n. municipality
+2451,被害者,n. victim
+2452,時計,n. watch; clock
+2453,雲,n. cloud
+2454,ぱっと,adv. suddenly
+2455,メッセージ,n. message
+2456,いじめ,n. bullying
+2457,離婚（する）,"[1] n. divorce [2] v. divorce, get divorced"
+2458,効果的,na-adj. effective
+2459,掲載（する）,"[1] n. publication [2] v. publish, print"
+2460,しょっちゅう,"adv. often, always"
+2461,オリンピック,n. Olympics
+2462,操作（する）,[1] n. operation [2] v. operate
+2463,知恵,n. wisdom
+2464,伝統,n. tradition
+2465,留まる,v. stay
+2466,受かる,v. pass
+2467,恐れる,"v. fear, be afraid"
+2468,著しい,i-adj. significant
+2469,カレー,n. curry
+2470,ウインドウズ,n. Windows
+2471,救う,"v. save, rescue"
+2472,助かる,"v. survive, be saved; be helpful"
+2473,巡る,v. go around
+2474,予約（する）,"[1] n. reservation [2] v. reserve, book"
+2475,響く,v. affect
+2476,事前,n. prior
+2477,進行（する）,[1] n. progression [2] v. progress
+2478,解説（する）,"[1] n. explanation, comment, description [2] v. explain"
+2479,潰す,"v. smash; crush, squash; ruin"
+2480,二時,n. two o’clock
+2481,行事,n. event
+2482,男女,n. men and women
+2483,メイン,n. main
+2484,かむ,v. bite; chew
+2485,温める,"v. warm, heat"
+2486,概念,"n. notion, idea, concept"
+2487,重視（する）,"[1] n. respect [2] v. make a point of, consider important"
+2488,複数,n. plural
+2489,三十,num. thirty
+2490,興奮（する）,[1] n. excitement [2] v. be excited
+2491,突っ込む,"v. thrust, stick; dip; shove"
+2492,牛,"n. cattle, cow, ox"
+2493,鏡,n. mirror
+2494,ないし,"conj. or, otherwise"
+2495,二千年,n. 2000 (year); two thousand years
+2496,煙,"n. smoke, fumes; fog"
+2497,参照（する）,"[1] n. reference [2] v. consult, refer"
+2498,価値観,n. sense of values
+2499,バター,n. butter
+2500,スープ,n. soup
+2501,自殺（する）,[1] n. suicide [2] v. commit suicide
+2502,トラック,n. truck
+2503,委員,n. committee member; councillor
+2504,行政,"n. administration, government"
+2505,一年生,"n. first grade, first year"
+2506,犯す,"v. commit, offend; break"
+2507,膨らむ,"v. swell, expand"
+2508,とうとう,adv. finally
+2509,このごろ,n. these days
+2510,女子,"n. woman, girl"
+2511,JR(JR),n. Japan Railways (JR)
+2512,言語,"n. language, tongue, speech"
+2513,とる,aux. [shortened form of “teoru”]
+2514,以来,n. since
+2515,市内,n. within the city
+2516,しかしながら,"aux. however, but"
+2517,針,n. needle; stitch
+2518,集団,"n. group, mass"
+2519,体調,n. physical condition
+2520,三年間,n. three years
+2521,手前,n. this side
+2522,幼い,"i-adj. young, immature, childish"
+2523,説,n. theory; explanation
+2524,神社,n. shrine
+2525,列車,n. train
+2526,夢中,"n., na-adj. crazy about, obsessed with"
+2527,トレーニング,n. training
+2528,よほど、よっぽど,"adv. very, greatly"
+2529,どうせ,adv. anyway
+2530,坂,"n. slope, hill"
+2531,検索（する）,"[1] n. search [2] v. search, look up"
+2532,アップ（する）,[1] n. raise [2] v. go up
+2533,絶える,"v. cease, fail"
+2534,三十一日,n. thirty-first (date); thirty one days
+2535,取材（する）,"[1] n. interview, report [2] v. gather information"
+2536,ぶつかる,"v. strike, bump, collide"
+2537,曲がる,"v. bend, wind; turn"
+2538,ては,"p., conj. alternately do ... and ..."
+2539,前年,"n. previous year, year before"
+2540,飽きる,"v. tire, weary, be tired of, get bored"
+2541,三十日,n. thirtieth (date); thirty days
+2542,分類（する）,[1] n. classification [2] v. classify
+2543,どっち,pron. which
+2544,自分なり,n. in one’s own way
+2545,覚悟（する）,"[1] n. readiness, preparedness [2] v. be ready"
+2546,糸,"n. thread, string"
+2547,逮捕（する）,[1] n. arrest [2] v. arrest
+2548,収まる,"v. hold, pack"
+2549,交渉（する）,"[1] n. negotiation, treaty [2] v. negotiate"
+2550,枝,"n. branch, twig, bough"
+2551,なにより,"adv. above all, chiefly, more than anything"
+2552,教科書,n. textbook
+2553,六時,n. six o’clock
+2554,取り引き,"n. business, dealing, trade"
+2555,免許,"n. license, permit"
+2556,講ずる,v. take
+2557,太い,i-adj. thick; heavy; bold
+2558,開く【あく】,v. open
+2559,及ぼす,"v. influence, affect"
+2560,千円,n. one thousand yen
+2561,独自,"na-adj. original, own"
+2562,夕食,n. dinner
+2563,震える,"v. shake, tremble"
+2564,心臓,n. heart
+2565,世界的,"na-adj. world, global"
+2566,所属（する）,"[1] n. affiliation [2] v. attach, be attached, belong"
+2567,騒ぐ,"v. make a noise, make a fuss"
+2568,そっと,"adv. softly, lightly"
+2569,溜める,"v. save, store, accumulate"
+2570,晩,"n. night, evening"
+2571,小屋,"n. hut, cabin, barn, shed"
+2572,会議,n. meeting
+2573,個性,"n. personality, character"
+2574,たがる,aux. want to
+2575,理想,"n. ideal, dream"
+2576,給料,n. salary
+2577,マスコミ,"n. mass media, mass communication"
+2578,おい,interj. hey
+2579,屋根,n. roof
+2580,クリスマス,n. Christmas
+2581,重なる,v. pile up; conspire
+2582,各地,n. each place
+2583,落ち込む,"v. sink, go down; be depressed"
+2584,進化（する）,"[1] n. evolution [2] v. evolve, develop"
+2585,とんでも,"adv. unexpected; outrageous, very offensive"
+2586,思い付く,"v. think of, guess, conceive"
+2587,新幹線,n. bullet train
+2588,第三,n. third
+2589,数える,"v. count, number"
+2590,公開（する）,"[1] n. exhibition, presentation [2] v. release"
+2591,地面,"n. ground, land"
+2592,貢献（する）,"[1] n. contribution, service [2] v. contribute"
+2593,台風,n. typhoon
+2594,映る,v. reflect
+2595,大臣,"n. Cabinet minister, minister of state"
+2596,十四,num. fourteen
+2597,入学（する）,"[1] n. (school etc.) entrance, admission [2] v. enter (school etc.)"
+2598,紅茶,n. tea (black)
+2599,控える,"v. abstain, hold back, refrain"
+2600,促す,v. urge
+2601,何事,n. what
+2602,プレゼント,n. present
+2603,配る,"v. deal, distribute, deliver"
+2604,改革（する）,[1] n. reform [2] v. make reforms
+2605,一致（する）,"[1] n. agreement, accord [2] v. consent, agree"
+2606,ゼロ,n. zero
+2607,義務,"n. duty, obligation"
+2608,出席（する）,[1] n. attendance [2] v. attend
+2609,十人,n. ten people
+2610,処分（する）,"[1] n. disposal, disposition [2] v. dispose of"
+2611,年間,n. year; annual
+2612,広島,n. Hiroshima
+2613,NHK(NHK),n. Nihon Hoso Kyokai (Japan Broadcasting Corporation)
+2614,設計（する）,"[1] n. plan, design [2] v. plan, design"
+2615,飛び込む,"v. dive, plunge"
+2616,邪魔（する）,"[1] n. obstacle, disturbance, interruption [2] v. disturb, interrupt"
+2617,ゆでる,v. boil
+2618,プール,n. pool
+2619,弁護士,"n. lawyer, counsellor"
+2620,叱る,"v. scold, admonish"
+2621,恋人,"n. lover, boyfriend, girlfriend"
+2622,暮らし,"n. life, livelihood"
+2623,王,"n. king, monarch"
+2624,真似（する）,"[1] n. imitation, mimicry, impersonation [2] v. imitate, copy"
+2625,税金,n. tax
+2626,預ける,"v. leave, check, deposit"
+2627,軟らかい,"i-adj. soft, tender"
+2628,物事,n. thing
+2629,相変わらず,"adv. as ever, as usual, the same, as before [always]"
+2630,年金,"n. pension, annuity"
+2631,やりとり,"n. exchange, interchange"
+2632,ホーム,n. platform
+2633,頼る,"v. depend, turn to, trust"
+2634,学生時代,"n. student days, university days"
+2635,憧れ,n. admiration
+2636,内側,"n. inside, interior, inner"
+2637,講師,"n. speaker, lecturer"
+2638,池,n. pond
+2639,接続（する）,[1] n. connection [2] v. connect
+2640,役者,"n. actor, actress"
+2641,光る,"v. shine, glitter, twinkle"
+2642,富士山,n. Mt. Fuji
+2643,必要性,n. necessity
+2644,七時,n. seven o’clock
+2645,としたら,p. conj. if so
+2646,出演（する）,"[1] n. appearance, broadcast [2] v. appear (on stage, TV)"
+2647,柱,"n. pillar, post"
+2648,間に合う,"v. catch, get, make it"
+2649,年代,n. era; generation; date
+2650,鉄,"n. iron, steel"
+2651,継続（する）,[1] n. continuation [2] v. continue
+2652,特殊,na-adj. special
+2653,引き上げる,"v. pull up; increase, raise"
+2654,スペイン,n. Spain
+2655,裁判,n. trial; judgment; justice
+2656,はあ,"interj. oh, Oh boy, Oh dear"
+2657,上回る,"v. exceed, surpass"
+2658,地下鉄,"n. subway, underground"
+2659,専門家,"n. expert, specialist"
+2660,内部,"n. inside, interior"
+2661,割る,v. break; crack
+2662,スペース,"n. space, room"
+2663,結果的,na-adj. result
+2664,飲める,v. be able to drink
+2665,割,"n. cost, rate"
+2666,日記,n. diary
+2667,担う,"v. cover, carry, take"
+2668,揺れる,"v. shake, wave, swing"
+2669,彼【かれ】,pron. he; boyfriend
+2670,一匹,n. one (animal)
+2671,憲法,n. constitution
+2672,件,"n. affair, matter, issue"
+2673,江戸時代,n. Edo era
+2674,むく,"v. peel, pare"
+2675,親切,na-adj. kind
+2676,埼玉県,n. Saitama prefecture
+2677,急速,"na-adj. rapid, speedy"
+2678,燃える,"v. burn, flame, glow, be on fire"
+2679,末【すえ】,"n. end, last"
+2680,胃,"n. stomach, belly"
+2681,九州,n. Kyushu
+2682,ブログ,n. blog
+2683,にすぎない,"aux. just, mere"
+2684,想定（する）,"[1] n. assumption, supposition [2] v. assume, suppose"
+2685,学習（する）,"[1] n. learning, study [2] v. learn, study"
+2686,ケーキ,n. cake
+2687,六年,n. six years
+2688,袋,"n. bag, sack, pouch"
+2689,医療,"n. medical care, medical treatment"
+2690,増大（する）,"n. increase, growth; increase, grow"
+2691,競争（する）,"[1] n. competition, contest [2] v. compete"
+2692,投資（する）,[1] n. investment [2] v. invest
+2693,ほっとする,v. be relieved
+2694,お土産,"n. present, souvenir"
+2695,記述（する）,"[1] n. description, account [2] v. describe"
+2696,謝る,v. apologize
+2697,にもかかわらず,"p. conj. in spite of, though, despite"
+2698,獲得（する）,"[1] n. acquisition [2] v. get, gain"
+2699,見直す,"v. review, look over"
+2700,無人,"n. uninhabited, empty"
+2701,心がける,"v. be careful, be prudent"
+2702,テープ,n. tape
+2703,七日,n. seventh (date); seven days
+2704,二つ目,n. second
+2705,板,"n. board, plate"
+2706,自慢（する）,"[1] n. pride, boast [2] v. boast, brag"
+2707,前項,n. previous page
+2708,選挙,n. election
+2709,更新（する）,"[1] n. renewal [2] v. renew, update"
+2710,IT(IT),n. IT
+2711,あちら,"pron. that way; that place, there; that"
+2712,受け止める,"v. take, catch"
+2713,景気,"n. business conditions, economy"
+2714,二十五日,n. twenty-fifth (date); twenty-five days
+2715,根拠,"n. ground, evidence"
+2716,チケット,n. ticket
+2717,民間,"n. private, non government"
+2718,口調,"n. tone, voice"
+2719,ふさわしい,"i-adj. suitable, appropriate"
+2720,といっても,p. even though
+2721,眼鏡,"n. glasses, spectacles"
+2722,脇,n. side
+2723,持ち込む,"v. bring, import"
+2724,全身,"n. all over, whole body"
+2725,兄さん,n. elder brother
+2726,予測（する）,"[1] n. prospect [2] v. predict, estimate"
+2727,あれ,interj. Oh
+2728,つながり,"n. connection, relation"
+2729,欠ける,v. lack; chip
+2730,嫌う,"v. hate, detest"
+2731,保険料,n. insurance premium
+2732,飛ばす,"v. let fly, fly"
+2733,教わる,v. learn
+2734,三十年,n. thirty years
+2735,後半,"n. latter half, second half"
+2736,たく,v. burn
+2737,何日,n. many days; how many days
+2738,防止（する）,[1] n. prevention [2] v. prevent
+2739,遺伝子,n. gene
+2740,本屋,n. bookshop
+2741,明日,n. tomorrow
+2742,早め,n. early
+2743,独特,"na-adj. peculiar, unique; personal"
+2744,今夜,n. tonight
+2745,ゆえ,n. reason; therefore
+2746,リズム,n. rhythm
+2747,突く【つく】,v. push; prick
+2748,魂,"n. soul, spirit"
+2749,滞在（する）,"[1] n. stay, visit [2] v. stay, visit, stop"
+2750,連携（する）,[1] n. cooperation [2] v. work together with
+2751,ライブ,n. live (music)
+2752,演ずる,"v. play, perform"
+2753,廃止（する）,[1] n. abolition [2] v. repeal
+2754,復活（する）,"[1] n. revival, restoration [2] v. revive, restore"
+2755,借金（する）,"[1] n. debt, loan [2] v. borrow (money)"
+2756,常識,"n. common sense, general knowledge"
+2757,闇,"n. darkness, dark"
+2758,見守る,"v. watch, observe"
+2759,不便,[1] n. inconvenience [2] na-adj. inconvenient
+2760,栄養,n. nutrition
+2761,フランス語,n. French language
+2762,アクセス,n. access
+2763,PC(PC),n. personal computer
+2764,不幸,"na-adj. unhappiness, misfortune"
+2765,こだわる,v. stick to; be particular about
+2766,カット,n. cut
+2767,乾く,v. dry
+2768,おまけ,"n. addition, free gift"
+2769,をはじめ,"p. starting with ... , including"
+2770,ついで,"n. on one’s way, along the way"
+2771,名称,n. name
+2772,鍛える,"v. train, discipline"
+2773,大学生,"n. college student, university student"
+2774,左手,n. left hand; on one’s left
+2775,乾燥（する）,[1] n. dryness [2] v. dry
+2776,たった,"adv. just, only"
+2777,およそ,"adv. around, about"
+2778,八日,n. eighth (date); eight days
+2779,ぴったり,adv. tight; exactly
+2780,添える,"v. attach, add"
+2781,ノート,n. notebook
+2782,配置（する）,"[1] n. arrangement, layout [2] v. arrange"
+2783,輸出（する）,[1] n. exportation [2] v. export
+2784,陰,"n. shade, shadow; behind someone’s back"
+2785,漬ける,v. soak; pickle
+2786,果物,n. fruit
+2787,個々,"n. individual, each"
+2788,十六日,n. sixteenth (date); sixteen days
+2789,電話番号,n. telephone number
+2790,混む,v. be crowded
+2791,築く,"v. build, have"
+2792,穏やか,"na-adj. mild; calm, peaceful"
+2793,結び付く,"v. join, be connected with"
+2794,崩れる,"v. crumble, collapse"
+2795,届ける,v. deliver; send; report
+2796,プレー,n. play
+2797,進歩（する）,"[1] n. progress, advance [2] v. progress, advance"
+2798,百,n. hundred
+2799,（お）尻,n. hips
+2800,汚れる【よごれる】,"v. dirty, soil"
+2801,産業,n. industry
+2802,前日,"n. eve, previous day"
+2803,吸収（する）,"[1] n. absorption, assimilation [2] v. absorb, assimilate"
+2804,驚き,"n. surprise, amazement"
+2805,ソ連,n. the Soviet Union
+2806,悲しみ,"n. sadness, grief"
+2807,十一日,n. eleventh (date); eleven days
+2808,最低,"n. minimum, lowest"
+2809,十六,num. sixteen
+2810,にんにく,n. garlic
+2811,順番,"n. turn, order"
+2812,裁判所,"n. court, courthouse"
+2813,観光（する）,[1] n. sightseeing [2] v. go sightseeing
+2814,申し訳,"n. excuse, apology"
+2815,葉っぱ,n. leaf
+2816,生き物,"n. creature, life"
+2817,演出（する）,"n., v. direction, direct"
+2818,ですが,"conj. but, however"
+2819,本気,"[1] n. seriousness, earnestness [2] na-adj. serious, earnest"
+2820,三年生,"n. third grade, third year"
+2821,記入（する）,[1] n. entry [2] v. fill in
+2822,見上げる,v. look up; respect
+2823,話し合い,"n. discussion, meeting"
+2824,値,n. price
+2825,一人暮らし,"n. living alone, single life"
+2826,趣旨,"n. purpose, intention, point"
+2827,柔らかい,i-adj. soft
+2828,舌,n. tongue
+2829,三時間,n. three hours
+2830,後悔（する）,"[1] n. repentance, regret [2] v. regret"
+2831,詰める,"v. plug, pack, stuff"
+2832,勝利,"n. victory, triumph, winning"
+2833,自覚（する）,"[1] n. consciousness, awareness [2] v. realize"
+2834,今朝,n. this morning
+2835,総合的,"na-adj. synthetic, integrated, comprehensive"
+2836,美しさ,n. beauty
+2837,法人,n. corporation
+2838,滑る【すべる】,"v. slide, slip; be slippery"
+2839,極端,na-adj. extreme
+2840,留学（する）,[1] n. study abroad [2] v. study abroad
+2841,念,"n. sense, feeling"
+2842,銀座,n. Ginza (place name)
+2843,十五年,n. fifteen years
+2844,漂う,"v. drift, float"
+2845,測る,v. measure; weigh
+2846,永遠,"n. eternity, permanence"
+2847,十四日,n. fourteenth (date); fourteen days
+2848,取り戻す,"v. take back, repossess"
+2849,いっぺん,n. at the same time; altogether
+2850,門,n. gate
+2851,伸び,n. growth
+2852,たどる,"v. follow, trace, search"
+2853,事例,n. case
+2854,どなた,pron. who
+2855,やばい,"i-adj. risky, chancy"
+2856,冗談,n. joke
+2857,巣,n. nest
+2858,進展（する）,"[1] n. progress, development, evolution [2] v. develop, progress, advance"
+2859,手伝い,n. help
+2860,死亡（する）,"[1] n. death, decease [2] v. die"
+2861,細胞,n. cell
+2862,犠牲,"n. sacrifice, expense"
+2863,殴る,"v. hit, strike"
+2864,前後,n. back and forth
+2865,対立（する）,"[1] n. opposition, conflict [2] v. be opposed to"
+2866,六日,n. sixth (date); six days
+2867,比率,"n. ratio, proportion"
+2868,タイ,n. Thailand
+2869,放つ,"v. fly, loose"
+2870,香港,n. Hong Kong
+2871,湖,n. lake
+2872,稼ぐ,v. earn
+2873,出現（する）,"[1] n. appearance, dawn, birth, advent [2] v. appear"
+2874,真実,"n. truth, reality"
+2875,前回,"n. last time, previous time"
+2876,工事（する）,"[1] n. construction, work [2] v. construct"
+2877,科学,n. science
+2878,順,n. order
+2879,読者,n. reader
+2880,不足（する）,"[1] n. lack, shortage [2] v. be insufficient"
+2881,社会的,na-adj. social
+2882,限定（する）,"[1] n. restriction, limitation [2] v. restrict, limit"
+2883,劇団,n. theatrical company
+2884,看護婦,n. nurse (female)
+2885,人参,n. carrot
+2886,一面,"n. side, facet"
+2887,生涯,"n. life, lifetime; career"
+2888,意思,"n. will, intention"
+2889,追加（する）,"[1] n. addition, supplement [2] v. add, supplement"
+2890,台湾,n. Taiwan
+2891,日常生活,n. daily life
+2892,拭く,"v. wipe, dry"
+2893,レース,n. race
+2894,民族,"n. people, race, nation"
+2895,天,"n. sky, heaven"
+2896,花火,n. firework
+2897,項目,"n. item, heading"
+2898,動向,"n. trend, movement"
+2899,にしろ,p. conj. even if
+2900,日頃,n. everyday
+2901,砂,n. sand
+2902,大根,"n. Japanese radish, radish"
+2903,感激（する）,[1] n. deep emotion [2] v. be impressed
+2904,浮く,"v. float, suspend"
+2905,まして,"adv. much less, much more"
+2906,リスク,n. risk
+2907,引っ掛かる,v. catch; be caught
+2908,オークション,n. auction
+2909,二十一日,n. twenty-first (date); twenty-one days
+2910,ほら,interj. Look!
+2911,を通して,cp. according to; through
+2912,武器,n. weapon
+2913,都内,n. in the city
+2914,違反（する）,[1] n. violation [2] v. violate
+2915,すっきり（する）,"adv., v. feel refreshed"
+2916,十二日,"n. twelfth (date), twelve days"
+2917,別に,adv. (not) particularly
+2918,十八日,n. eighteenth (date); eighteen days
+2919,お宅,n. your house
+2920,交通,n. traffic; transportation
+2921,業界,n. business world
+2922,解放（する）,[1] n. liberation [2] v. liberate
+2923,需要,n. demand
+2924,高度,"[1] n. altitude [2] na-adj. high, advanced"
+2925,帰国（する）,"n., v. going/coming back to one’s own country"
+2926,午前中,"n. in the morning, throughout the morning"
+2927,実践（する）,[1] n. practice [2] v. practice
+2928,深刻,na-adj. serious
+2929,十八,num. eighteen
+2930,関係者,n. person concerned
+2931,追いかける,"v. run after, chase"
+2932,作用（する）,[1] n. action [2] v. act
+2933,毎週,adv. every week
+2934,五つ,num. five
+2935,頻繁,na-adj. frequent
+2936,差別（する）,[1] n. discrimination [2] v. discriminate
+2937,大声,n. loud voice
+2938,長年,adv. long time; many years
+2939,固まり,"n. mass, lump"
+2940,快適,na-adj. comfortable
+2941,あいつ,pron. that fellow; that thing
+2942,研修（する）,[1] n. training [2] v. study
+2943,沈む,"v. sink, go down"
+2944,男子,"n. boy, man"
+2945,爪,n. nail; claw
+2946,青年,n. young man
+2947,捕まえる,"v. catch, arrest"
+2948,こいつ,pron. this fellow; this thing
+2949,氷,n. ice
+2950,十七日,n. seventeenth (date); seventeen days
+2951,鋭い,"i-adj. sharp, pointed"
+2952,いじめる,"v. torment, bully, tease"
+2953,業者,"n. dealer, agent, operator"
+2954,大半,"n. better part, most part"
+2955,作り上げる,"v. make up, build up"
+2956,三つ目,n. third
+2957,称する,v. call; pretend
+2958,とすれば,p. conj. if that is the case
+2959,支持（する）,[1] n. support [2] v. support
+2960,九日,n. ninth (date); nine days
+2961,雌,n. female animal
+2962,跡,"n. track, trail; mark, sign"
+2963,トマト,n. tomato
+2964,エピソード,"n. episode, anecdote"
+2965,真【まこと】,"n. truth, fact"
+2966,訪問（する）,"[1] n. visit, call [2] v. visit, call (on)"
+2967,スピーチ,n. speech
+2968,一見,adv. at a glance
+2969,足元,n. at one’s feet; step
+2970,台所,n. kitchen
+2971,ねばならない,"cp. must, have to"
+2972,毛,n. hair; fur; wool
+2973,一点,"n. point, single point"
+2974,二十三日,n. twenty-third (date); twenty-three days
+2975,支給（する）,"[1] n. provision, payment [2] v. provide, pay"
+2976,経費,"n. expense, cost"
+2977,晴れる,"v. clear up, be dispelled; be refreshed"
+2978,感心（する）,[1] n. admiration [2] v. admire
+2979,ポケット,n. pocket
+2980,決意（する）,[1] n. determination [2] v. resolve
+2981,法則,n. law
+2982,とはいえ,"p. conj. though, however"
+2983,資産,"n. assets, property"
+2984,慎重,"na-adj. careful, discreet"
+2985,二十四日,n. twenty-fourth (date); twenty-four days
+2986,尊敬（する）,[1] n. respect [2] v. respect
+2987,尽くす,"v. do one’s best, devote; exhaust"
+2988,謎,"n. mystery, riddle"
+2989,田んぼ,n. rice field
+2990,評判,n. reputation; popularity
+2991,寒さ,n. cold
+2992,天井,n. ceiling
+2993,池袋,n. Ikebukuro (place name)
+2994,せめて,"adv. at least, at most"
+2995,喫茶店,"n. tearoom, coffee shop, café"
+2996,従業員,"n. employee, worker"
+2997,嫁,n. wife; bride; daughter-in-law
+2998,浮かべる,v. float; show; imagine
+2999,災害,"n. disaster, calamity"
+3000,国際的,na-adj. international
+3001,髪の毛,n. hair
+3002,ないといけない,"cp. must, have to"
+3003,加入（する）,"[1] n. admission, joining [2] v. join"
+3004,受け付け,"n. acceptance, information desk, reception (desk)"
+3005,玉【たま】,n. ball; coin
+3006,型,"n. model, pattern, type"
+3007,順調,"na-adj. satisfactory, favorable, smooth"
+3008,専門,"n. specialty, speciality"
+3009,供給（する）,[1] n. supply [2] v. supply
+3010,振り,n. pretence
+3011,売り上げ,n. sales
+3012,建築（する）,"[1] n. architecture, construction [2] v. build"
+3013,利用者,n. user
+3014,多様,na-adj. various
+3015,地方公共団体,n. local public body
+3016,じゃん,p. disc. isn’t it?
+3017,鉄道,"n. railroad, railway"
+3018,誕生日,n. birthday
+3019,五十年,n. fifty years
+3020,役員,"n. official, director"
+3021,設備,"n. equipment, facilities"
+3022,悪化（する）,[1] n. change for the worse [2] v. worsen
+3023,用,n. something to do; use
+3024,ただいま,"adv. now, just now, at once; I’m back!"
+3025,十三日,n. thirteenth (date); thirteen days
+3026,遺跡,"n. ruins, remains"
+3027,消費（する）,[1] n. consumption [2] v. consume
+3028,模様,"n. pattern, design, look"
+3029,深める,v. deepen
+3030,パパ,"n. papa, dad"
+3031,文【ぶん】,n. sentence
+3032,中国人,n. Chinese (person)
+3033,活性化（する）,[1] n. revitalization [2] v. revitalize
+3034,聖書,n. Bible
+3035,神経,n. nerve
+3036,混乱（する）,[1] n. confusion [2] v. get confused
+3037,ど,p. but (Classical)
+3038,癒す,"v. heal, cure, recover from"
+3039,磨く,"v. polish, brush; improve"
+3040,動作（する）,"[1] n. movement, operation [2] v. operate"
+3041,コンサート,n. concert
+3042,粉,"n. flour, powder"
+3043,身長,n. height
+3044,賛成（する）,[1] n. agreement [2] v. agree
+3045,形態,n. form
+3046,につれて,cp. as
+3047,部下,n. subordinate
+3048,二十世紀,n. twentieth century
+3049,ひょっとする,v. perhaps
+3050,勤務（する）,"[1] n. service, duty, work [2] v. work, serve"
+3051,恋愛（する）,[1] n. love (romantic) [2] v. love
+3052,都道府県,n. prefectures
+3053,誤解（する）,[1] n. misunderstanding [2] v. misunderstand
+3054,直前,n. just before
+3055,平均（する）,[1] n. average [2] v. average
+3056,出身,n. hometown; alma mater
+3057,区,"n. ward, district"
+3058,しょう油,n. soy sauce
+3059,こつ,n. knack
+3060,翻訳（する）,[1] n. translation [2] v. translate
+3061,ぼおっと,adv. vacantly; dimly
+3062,ソース,n. sauce; source
+3063,二十二日,n. twenty-second (date); twenty-two days
+3064,固まる,v. harden; become certain
+3065,ステージ,n. stage
+3066,ストーリー,n. story
+3067,越す,"v. cross, pass"
+3068,まとまる,v. be well arranged; be united; be settled
+3069,始まり,"n. beginning, origin"
+3070,解く【とく】,v. untie; solve; remove
+3071,別れ,"n. parting, farewell"
+3072,女房,n. wife
+3073,才能,"n. talent, ability"
+3074,背後,n. back; background
+3075,通過（する）,[1] n. passage [2] v. pass
+3076,確信（する）,[1] n. conviction [2] v. be convinced
+3077,株,"n. stump; stock, share"
+3078,いまさら,adv. now (after such a long time)
+3079,強力,"na-adj. strong, powerful"
+3080,神戸,n. Kobe
+3081,見出だす,"v. find, discover"
+3082,北朝鮮,"n. Democratic People’s Republic of Korea, North Korea"
+3083,側面,n. side; flank
+3084,誇り,"n. pride, honor"
+3085,作り,"n. make, construction"
+3086,米【べい】,n. meter
+3087,崩壊（する）,[1] n. collapse [2] v. collapse
+3088,二十一,n. twenty-one
+3089,直ちに,"adv. immediately, directly"
+3090,バッグ,n. bag
+3091,本書,n. this book
+3092,器,n. container
+3093,血液,n. blood
+3094,衝撃,"n. shock, impact"
+3095,嫌がる,v. be reluctant; hate
+3096,製造（する）,[1] n. production [2] v. produce
+3097,とりわけ,adv. especially
+3098,小麦粉,n. flour
+3099,気配,"n. indication, sign"
+3100,理論,n. theory
+3101,流行（する）,"[1] n. fashion, epidemic [2] v. come into fashion, be rife"
+3102,見解,"n. opinion, view"
+3103,承認（する）,[1] n. approval [2] v. approve
+3104,いかにも,"adv. indeed, really, just"
+3105,単位,"n. unit, credit"
+3106,掘る,v. dig
+3107,歌詞,n. song lyrics
+3108,絡む,"v. get entangled, involve; pick a quarrel"
+3109,文明,n. civilization
+3110,長崎,n. Nagasaki
+3111,構える,"v. get set, get ready; set up"
+3112,わー,interj. wow!
+3113,発音（する）,[1] n. pronunciation [2] v. pronounce
+3114,共有（する）,[1] n. share [2] v. share
+3115,勝負（する）,"[1] n. victory or defeat, match [2] v. play"
+3116,住まい,"n. house, residence"
+3117,二十八日,n. twenty-eighth (date); twenty-eight days
+3118,重大,"na-adj. serious, important"
+3119,各国,"n. each country, various countries"
+3120,無理矢理,"adv. forcibly, against one’s will"
+3121,五百円,n. five hundred yen
+3122,出品（する）,[1] n. exhibit [2] v. submit
+3123,祈る,"v. pray, wish"
+3124,三番目,n. third
+3125,メモ（する）,[1] n. memo [2] v. take notes
+3126,平日,n. weekday
+3127,支払い,n. payment
+3128,皮膚,n. skin
+3129,反面,n. other side
+3130,代表的,"na-adj. representative, typical"
+3131,整う,v. be ready; be well-regulated
+3132,初心者,n. beginner
+3133,たどり着く,"v. finally arrive at, struggle along to"
+3134,焼ける,v. be burned; be roasted; be sunburned
+3135,合併（する）,"[1] n. combination, merger [2] v. combine, merge"
+3136,ウサギ,n. rabbit
+3137,徹底（する）,"[1] n. thoroughgoing, out-and-out [2] v. be thorough"
+3138,脱ぐ,v. take off
+3139,八年,n. eight years
+3140,ですけれど,conj. but
+3141,意,n. mind; will; sense
+3142,自民党,n. Liberal Democratic Party
+3143,地下,n. basement; underground
+3144,構築（する）,[1] n. construction [2] v. construct
+3145,両者,"n. both, the two"
+3146,適する,"v. suit, fit"
+3147,引き受ける,v. undertake
+3148,番号,n. number
+3149,経営者,"n. manager, proprietor"
+3150,焦る,v. be in a hurry; be impatient; be eager
+3151,論文,"n. essay, thesis, paper, dissertation"
+3152,タイミング,n. timing
+3153,百パーセント,n. one hundred percent
+3154,週末,n. weekend
+3155,出品者,n. exhibitor
+3156,二十六日,n. twenty-sixth (date); twenty-six days
+3157,正式,"na-adj. formal, official"
+3158,カラオケ,n. karaoke
+3159,退職（する）,"[1] n. retirement, resignation [2] v. retire, resign"
+3160,満ちる,v. be full; rise
+3161,おとなしい,"i-adj. gentle, well‐behaved, quiet"
+3162,知人,n. acquaintance
+3163,刻む,v. cut into fine pieces; engrave; tick
+3164,十九日,n. nineteenth (date); nineteen days
+3165,千葉県,n. Chiba prefecture
+3166,食材,"n. ingredient, foodstuff"
+3167,携わる,"v. participate, be engaged"
+3168,組み合わせ,"n. combination, matching"
+3169,冷静,na-adj. calm
+3170,台詞,"n. lines, speech, words"
+3171,コート,n. coat; court
+3172,二年生,"n. second grade, second year"
+3173,ロック,n. rock; lock
+3174,国会,"n. national assembly, Diet"
+3175,編む,"v. knit, braid"
+3176,破る,v. tear; break; beat
+3177,真っ赤,na-adj. bright red; downright
+3178,意図,n. intention
+3179,さらす,v. expose
+3180,手間,n. labour; time
+3181,可愛がる,"v. love, treat with affection"
+3182,森林,"n. forest, woods"
+3183,マイナス,n. minus
+3184,ラーメン,n. Chinese noodles
+3185,帽子,"n. hat, cap"
+3186,オープン（する）,"n., v. open"
+3187,名古屋,n. Nagoya
+3188,離す,"v. separate, divide; keep apart"
+3189,数値,"n. numerical value; score, count"
+3190,熱心,"na-adj. eager, enthusiastic"
+3191,見直し,"n. review, reconsideration"
+3192,盗む,v. steal
+3193,一冊,n. one (book)
+3194,強さ,"n. strength, power"
+3195,紐,n. string; lace
+3196,岩,n. rock
+3197,ミス（する）,[1] n. mistake [2] v. make a mistake
+3198,移行（する）,[1] n. shift [2] v. shift
+3199,味方（する）,[1] n. supporter [2] v. support
+3200,純粋,na-adj. pure; genuine
+3201,転勤（する）,[1] n. transfer [2] v. be transferred
+3202,ビートルズ,n. Beatles
+3203,フライパン,n. frying pan
+3204,一階,"n. first floor, ground floor"
+3205,さっぱり,adv. not at all
+3206,正面,n. front
+3207,演劇,"n. drama, play"
+3208,疲れ,"n. fatigue, exhaustion, tiredness"
+3209,経緯,"n. details, process"
+3210,探る,v. fumble; probe
+3211,数学,n. mathematics
+3212,関わり,"n. relation, connection"
+3213,英国,"n. United Kingdom, Britain"
+3214,巻き込む,v. involve
+3215,退院（する）,[1] n. leaving hospital [2] v. be discharged from hospital
+3216,覚え,n. memory
+3217,優秀,na-adj. excellent
+3218,リラックス（する）,"n., v. relax"
+3219,施策,"n. policy, measure"
+3220,瞳,n. pupil; eye
+3221,二十七日,n. twenty-seventh (date); twenty-seven days
+3222,権限,"n. authority, power"
+3223,十七,num. seventeen
+3224,展示（する）,"[1] n. display, exhibition [2] v. display, exhibit"
+3225,三歳,n. three years old
+3226,朝食,n. breakfast
+3227,診断（する）,[1] n. diagnosis [2] v. diagnose
+3228,ご免,"n. pardon, sorry [to decline]"
+3229,缶詰,n. canned food
+3230,こしょう,n. pepper
+3231,潰れる,v. be crushed; go bankrupt; become useless
+3232,海岸,"n. seashore, seaside"
+3233,領域,"n. territory, field"
+3234,出版（する）,[1] n. publication [2] v. publish
+3235,映画館,"n. movie theater, cinema"
+3236,気温,n. temperature
+3237,由来（する）,"[1] n. origin, history [2] v. originate"
+3238,引き起こす,"v. raise up, cause"
+3239,筋,n. tendon; line; reason
+3240,ガラス,n. glass
+3241,同意（する）,"[1] n. agreement, consent [2] v. agree"
+3242,土日,n. Saturday and Sunday
+3243,認定（する）,[1] n. authorization [2] v. authorize
+3244,おもちゃ,n. toy
+3245,島【とう】,n. island
+3246,丘,n. hill
+3247,二年間,n. two years
+3248,メディア,n. media
+3249,一台,n. one (machine/vehicle)
+3250,翌年,"n. the next year, the following year"
+3251,酸素,n. oxygen
+3252,よし,"interj. All right!, Good!"
+3253,いまや,adv. now
+3254,贅沢,[1] n. luxury [2] na-adj. luxurious
+3255,金融機関,n. financial institution
+3256,百円,n. one hundred yen
+3257,黄色,n. yellow
+3258,制定（する）,[1] n. enactment [2] v. enact
+3259,文書,n. document; writing
+3260,初期,"n. early days, initial stage"
+3261,ぬれる,v. get wet
+3262,はがき,n. postcard
+3263,巨人,n. giant
+3264,俺達,n. we (used by male speakers)
+3265,苦痛,n. pain
+3266,パワー,n. power
+3267,いかなる,"adn. what kind of, any"
+3268,あちこち,"pron. here and there, everywhere"
+3269,実力,n. real ability
+3270,面する,v. face
+3271,もったいない,i-adj. wasteful; too good
+3272,港,"n. harbour, port"
+3273,片方,n. one side; the other one
+3274,最悪,na-adj. worst
+3275,ぎりぎり,adv. barely
+3276,二十九日,n. twenty-ninth (date); twenty-nine days
+3277,市販（する）,[1] n. on the market [2] v. market
+3278,この世,n. this world
+3279,片手,n. one hand
+3280,サイン（する）,"[1] n. signature, autograph [2] v. sign"
+3281,キリスト教,n. Christianity
+3282,年寄り,n. old people
+3283,気軽,"na-adj. light-hearted, feel free"
+3284,鳴く,"v. cry, sing"
+3285,呼吸（する）,[1] n. breath [2] v. breathe
+3286,コーナー,n. corner
+3287,徒歩,"n. on foot, walk"
+3288,延長（する）,[1] n. extension [2] v. extend
+3289,眠い,i-adj. sleepy
+3290,厚い,i-adj. thick; kind; abundant
+3291,二千二年,n. 2002 (year)
+3292,中小企業,n. small and medium-sized enterprises
+3293,浅草,n. Asakusa (place name)
+3294,完璧,na-adj. perfect
+3295,傷付ける,v. hurt; damage
+3296,とく,"n., adj. [shortened form of “teoku”]"
+3297,あご,"n. jaw, chin"
+3298,紅葉（する）,[1] n. autumn leaves [2] v. put on fall colors
+3299,では,p. in; on; as for
+3300,信仰（する）,[1] n. religious faith [2] v. believe
+3301,ねた,n. material; ingredient
+3302,雇う,"v. employ, hire"
+3303,雄,n. male animal
+3304,欧米,n. Europe and America
+3305,運用（する）,[1] n. making use of [2] v. manage
+3306,酢,n. vinegar
+3307,半ば,"[1] n. half, middle [2] adv. partly"
+3308,印象的,na-adj. impressive
+3309,権力,"n. power, authority"
+3310,拒否（する）,"[1] n. refusal [2] v. refuse, reject"
+3311,空く【すく】,"v. become empty, be free; get hungry"
+3312,ビジネス,n. business
+3313,幅広い,"i-adj. wide, broad"
+3314,アイデア,n. idea
+3315,十二時,n. twelve o’clock
+3316,ベトナム,n. Vietnam
+3317,落札（する）,[1] n. successful bid [2] v. make a successful bid
+3318,出場（する）,[1] n. participation [2] v. participate
+3319,だます,"v. cheat, trick, deceive"
+3320,片付ける,"v. put in order, tidy; clear away; finish"
+3321,組み合わせる,"v. combine, put together, match"
+3322,むろん,adv. of course
+3323,雇用（する）,[1] n. employment [2] v. employ
+3324,乗り越える,v. climb over; overcome
+3325,休日,"n. holiday, day off"
+3326,寝袋,n. sleeping bag
+3327,疑い,"n. doubt, suspicion"
+3328,引き出す,"v. pull out, bring out; withdraw"
+3329,折,"n. occasion, opportunity"
+3330,印刷（する）,[1] n. printing [2] v. print
+3331,こなす,v. cope with; finish
+3332,パチンコ,"n. pachinko, Japanese pinball"
+3333,導く,"v. guide, lead"
+3334,中止（する）,"[1] n. cancellation [2] v. cancel, call off"
+3335,連続（する）,"[1] n. continuation, succession [2] v. continue"
+3336,折る,v. break; fold; bend
+3337,関西,n. Kansai region
+3338,単語,n. word
+3339,曖昧,"na-adj. vague, ambiguous"
+3340,死体,n. dead body
+3341,アフリカ,n. Africa
+3342,なくてはならない,cp. must
+3343,幸福,n. happiness
+3344,説得（する）,[1] n. persuasion [2] v. persuade
+3345,籠もる,v. shut oneself up; be full of
+3346,レッスン,n. lesson
+3347,放置（する）,[1] n. leaving something as it is [2] v. neglect
+3348,危機,"n. crisis, critical moment"
+3349,アーティスト,n. artist
+3350,子達,n. children
+3351,編集（する）,[1] n. editing [2] v. edit
+3352,くっ付く,"v. stick, keep close; go out"
+3353,取り付ける,"v. install, arrange"
+3354,原稿,"n. manuscript, draft"
+3355,象徴（する）,[1] n. symbol [2] v. symbolize
+3356,説く,v. explain; preach; persuade
+3357,服装,"n. clothes, dress"
+3358,見学（する）,"[1] n. studying by observation, field trip [2] v. visit for study, go on a field trip"
+3359,六人,n. six people
+3360,中野,n. Nakano (place name)
+3361,応募（する）,[1] n. application [2] v. apply for
+3362,ラッキー,na-adj. lucky
+3363,二回目,n. second time
+3364,棒,"n. stick, pole, bar"
+3365,こととなる,aux. it has been decided that
+3366,固定（する）,[1] n. fixing [2] v. fix
+3367,告白（する）,[1] n. confession [2] v. confess
+3368,圧倒的,na-adj. overwhelming
+3369,策定（する）,[1] n. settling on [2] v. settle on
+3370,矛盾（する）,"[1] n. contradiction, conflict [2] v. contradict"
+3371,引き取る,"v. take back, collect; leave"
+3372,保証（する）,[1] n. guarantee [2] v. guarantee
+3373,団地,n. housing development
+3374,会長,"n. president, chairperson"
+3375,利点,n. advantage
+3376,ジャンル,"n. genre, category"
+3377,縦,n. length; height; vertical
+3378,隙間,"n. crevice, opening, gap"
+3379,歴史的,"na-adj. historical, historic"
+3380,羨ましい,i-adj. envious; enviable
+3381,ガス,n. gas
+3382,ウイルス,n. virus
+3383,公表（する）,[1] n. publication [2] v. make public
+3384,二千一年,n. 2001 (year)
+3385,古く,[1] n. ancient times [2] adv. anciently
+3386,潜る【もぐる】,v. dive; go underground
+3387,一万円,n. ten thousand yen
+3388,意義,"n. meaning, significance"
+3389,憧れる,v. long for; admire
+3390,前向き,na-adj. facing forward; positive
+3391,ゆったり,adv. comfortably; calm; loose
+3392,漏れる,"v. leak, escape; be omitted"
+3393,品物,"n. goods, article"
+3394,前述（する）,"n., v. above-mentioned, mentioned above"
+3395,あら,interj. Oh! (used by female speakers)
+3396,OS(OS),n. operating system
+3397,まとも,na-adj. direct; honest; proper
+3398,入手（する）,"[1] n. acquisition [2] v. get, obtain"
+3399,二十代,n. twenties
+3400,孤独,na-adj. lonely
+3401,平等,[1] n. equality [2] na-adj. equal
+3402,崩す,v. destroy; put into disorder; change
+3403,競馬,n. horse racing
+3404,格好良い,"i-adj. cool, good-looking"
+3405,交わす,v. exchange
+3406,伝統的,na-adj. traditional
+3407,パーティー,n. party
+3408,役目,"n. duty, role"
+3409,通知（する）,"[1] n. notice, notification [2] v. notify"
+3410,要望（する）,[1] n. demand [2] v. make demands
+3411,をめぐる,"cp. over, concerning"
+3412,営む,v. run a business; engage in; hold a ceremony
+3413,パート,n. part; part-time
+3414,手のひら,n. palm of the hand
+3415,地上,n. ground
+3416,踊り,n. dance
+3417,押し付ける,"v. press against, force"
+3418,溶ける,"v. melt, thaw; dissolve"
+3419,奇妙,"na-adj. strange, odd"
+3420,最中,n. in the middle of
+3421,定着（する）,[1] n. fixing [2] v. fix; become established
+3422,依然,"adv. still, as before"
+3423,素早い,i-adj. quick
+3424,そこらへん,n. around there; such a matter
+3425,有利,"na-adj. profitable, advantageous"
+3426,水準,"n. standard, level"
+3427,じっくり,"adv. without haste, deliberately"
+3428,首相,n. prime minister
+3429,レコード,n. record
+3430,際に,p. when
+3431,滅多,"na-adj. rash, thoughtless; seldom"
+3432,機関,n. engine; organization; facilities
+3433,手作り,"n. handmade, homemade"
+3434,提示（する）,[1] n. presentation [2] v. present
+3435,エジプト,n. Egypt
+3436,下町,n. Shitamachi (place name); traditional working-class neighborhood
+3437,ううん,interj. no; well
+3438,優先（する）,[1] n. priority [2] v. have priority
+3439,大部分,[1] n. majority [2] adv. mostly
+3440,戦前,n. pre-war
+3441,制作（する）,[1] n. production [2] v. produce
+3442,いい加減,"na-adj. irresponsible, groundless"
+3443,後者,n. the latter
+3444,五十,num. fifty
+3445,入り込む,v. go into; come into
+3446,シャワー,n. shower
+3447,栗,n. chestnut
+3448,札幌,n. Sapporo
+3449,主体,n. main constituent; subject
+3450,家内,n. one’s family; my wife
+3451,看板,"n. signboard, billboard; attraction"
+3452,将棋,"n. shogi, Japanese chess"
+3453,家事,n. housework
+3454,捕まる,"v. be caught, be arrested; hold"
+3455,他方,n. the other side
+3456,交通事故,n. traffic accident
+3457,手順,"n. order, process, plan"
+3458,コスト,n. cost
+3459,余る,v. be left over; be too many
+3460,輪【わ】,"n. circle, ring; loop"
+3461,ならびに,"conj. and, both . . . and"
+3462,男達,n. men
+3463,地名,n. place name
+3464,合意（する）,[1] n. mutual agreement [2] v. agree
+3465,大手,n. major companies
+3466,本番,n. performance
+3467,同僚,n. colleague
+3468,楽しさ,"n. pleasure, charm"
+3469,丈夫【じょうぶ】,na-adj. strong; healthy
+3470,技,"n. skill, technique, trick"
+3471,たちまち,"adv. in a moment, at once; suddenly"
+3472,仕上げる,"v. finish, complete"
+3473,回収（する）,[1] n. collection [2] v. collect
+3474,再生（する）,[1] n. rebirth [2] v. regenerate
+3475,わがまま,"[1] na-adj. selfish, disobedient [2] n. selfishness"
+3476,小さじ,n. teaspoon
+3477,コントロール（する）,[1] n. control [2] v. control
+3478,深夜,n. middle of the night
+3479,なおかつ,"adv. besides, and yet"
+3480,活発,"na-adj. lively, active; brisk"
+3481,芸術,n. art
+3482,ブラジル,n. Brazil
+3483,施行（する）,[1] n. enforcement [2] v. enforce
+3484,チーズ,n. cheese
+3485,教え,"n. teaching, lesson, doctrine"
+3486,追及（する）,[1] n. pursuit [2] v. pursue the question
+3487,今月,n. this month
+3488,仙台,n. Sendai
+3489,特許,n. patent
+3490,株式,"n. stock, shares"
+3491,労働（する）,"[1] n. work, labor [2] v. work, labor"
+3492,カフェ,n. café
+3493,シンプル,na-adj. simple
+3494,規則,"n. rule, regulation"
+3495,客観的,na-adj. objective
+3496,帰宅（する）,[1] n. coming home [2] v. come home
+3497,つくづく,"adv. thoroughly, deeply, carefully"
+3498,一つ目,n. first
+3499,汚染（する）,[1] n. pollution [2] v. pollute
+3500,転換（する）,"[1] n. conversion [2] v. convert, change"
+3501,たんぱく質,n. protein
+3502,Eメール,n. e-mail
+3503,予防（する）,[1] n. prevention [2] v. prevent
+3504,頬,n. cheek
+3505,面積,"n. area, size"
+3506,大正,n. Taisho era
+3507,固める,"v. make something hard, strengthen"
+3508,反する,"v. go against, be contrary"
+3509,振るう,"v. flourish, prosper"
+3510,宣言（する）,[1] n. declaration [2] v. declare
+3511,直後,"n. immediately after, just after"
+3512,ねえ,interj. hey
+3513,せいぜい,adv. at most
+3514,特性,"n. character, property"
+3515,解散（する）,"[1] n. dissolution [2] v. dissolve, break up"
+3516,貧しい,i-adj. poor
+3517,回転（する）,"[1] n. revolution [2] v. revolve, turn round, spin"
+3518,マナー,n. manners
+3519,いちいち,adv. one by one; everything
+3520,政令,n. government ordinance
+3521,王様,n. king
+3522,折れる,v. break
+3523,竹,n. bamboo
+3524,暴力,n. violence
+3525,えび,"n. prawn, shrimp"
+3526,担任,n. class teacher
+3527,角度,n. angle
+3528,革命,n. revolution
+3529,合宿（する）,[1] n. training camp [2] v. stay together in a camp
+3530,後輩,n. one’s junior
+3531,一連,"n. course of, series of"
+3532,自動的,na-adj. automatic
+3533,郵便局,n. post office
+3534,概要,"n. outline, summary"
+3535,ローマ,n. Rome
+3536,にわたる,"cp. ranging, covering"
+3537,体制,"n. system, structure"
+3538,セックス（する）,[1] n. sex [2] v. have sex
+3539,上記,"n. the above, above-mentioned"
+3540,何時,n. what time
+3541,親友,"n. best friend, close friend"
+3542,お袋,n. mother
+3543,所有（する）,[1] n. ownership [2] v. own
+3544,進出（する）,[1] n. advance [2] v. launch into
+3545,大げさ,na-adj. exaggerated
+3546,測定（する）,[1] n. measurement [2] v. measure
+3547,そこそこ,adv. about; in a hurry; all right
+3548,論ずる,"v. argue, discuss"
+3549,家賃,n. rent
+3550,蛇,n. snake
+3551,自身,n. oneself
+3552,譲る,v. give; sell; offer
+3553,修理（する）,[1] n. repair [2] v. repair
+3554,遡る,v. go back; be retroactive
+3555,加工（する）,[1] n. processing [2] v. process
+3556,鶏,n. chicken; baby bird
+3557,保護者,n. protector
+3558,いえ,interj. no
+3559,施す,"v. give, do, apply, add"
+3560,人材,n. talent
+3561,かすか,"na-adj. a few, a little"
+3562,取り込む,v. take in
+3563,排除（する）,[1] n. removal [2] v. remove
+3564,育成（する）,"[1] n. cultivation [2] v. bring up, cultivate, mold"
+3565,移転（する）,[1] n. move [2] v. move
+3566,動機,n. motive
+3567,兼ねる,v. combine; serve both
+3568,ネットワーク,n. network
+3569,自立（する）,[1] n. independence [2] v. be independent
+3570,ハムスター,n. hamster
+3571,でかい,"i-adj. big, huge"
+3572,下す,"v. give, issue; make a decision"
+3573,やたら,"adv. freely, thoughtlessly"
+3574,二十五,num. twenty-five
+3575,黄色い,i-adj. yellow
+3576,確率,n. probability
+3577,ペース,n. pace
+3578,大統領,n. President
+3579,スムーズ,na-adj. smooth
+3580,欠点,"n. fault, defect; drawback, weak point"
+3581,適正,"na-adj. appropriate, proper, reasonable"
+3582,千葉,n. Chiba
+3583,望ましい,i-adj. desirable
+3584,鳴らす,v. ring
+3585,ブランド,n. brand
+3586,学問,"n. study, learning"
+3587,共同,n. cooperation; common
+3588,取り除く,v. remove
+3589,不可欠,na-adj. indispensable
+3590,十九,num. nineteen
+3591,神奈川県,n. Kanagawa Prefecture
+3592,二十二,num. twenty-two
+3593,ばれる,"v. come out, be discovered"
+3594,乗り込む,"v. board, get into"
+3595,欠かせる,v. cause to lack
+3596,窓口,"n. window, counter"
+3597,収穫（する）,[1] n. harvest [2] v. harvest
+3598,バラ,n. rose
+3599,血管,n. blood vessel
+3600,方言,n. dialect
+3601,時間帯,"n. time (period), time zone"
+3602,全体的,"na-adj. whole, overall"
+3603,割れる,v. split; break
+3604,抽選（する）,[1] n. lottery [2] v. draw lots
+3605,手法,"n. technique, method"
+3606,肉体,n. body
+3607,生き生き,"adv. lively, fresh"
+3608,狂う,v. go mad
+3609,一口,"n. bite, sip, mouthful"
+3610,協議（する）,"[1] n. consultation, discussion [2] v. consult, discuss"
+3611,重要性,n. importance
+3612,発酵（する）,[1] n. fermentation [2] v. ferment
+3613,繰り返し,n. repetition
+3614,入札（する）,"[1] n. bid, tender [2] v. bid, tender"
+3615,覚める,v. wake up
+3616,ベスト,n. best; vest
+3617,羽根,n. wing; feather
+3618,背負う,v. carry something on one’s back
+3619,いつか,adv. someday
+3620,次回,n. next time
+3621,基盤,"n. base, basis"
+3622,丸,"n. circle, ring"
+3623,感染（する）,"[1] n. infection [2] v. contract, catch, be infected"
+3624,尊重（する）,[1] n. respect [2] v. give something serious consideration
+3625,オフィス,n. office
+3626,否,n. no
+3627,素人,"n. amateur, beginner"
+3628,十七歳,n. seventeen years old
+3629,一環,n. part of
+3630,洗濯（する）,[1] n. washing [2] v. wash
+3631,争う,v. compete
+3632,一時的,na-adj. temporary
+3633,観光客,n. tourist
+3634,主要,"na-adj. major, main"
+3635,魅力的,"na-adj. charming, attractive"
+3636,外側,n. outside
+3637,勘違い（する）,"v. misunderstand, mistake"
+3638,この間,"n. adv. a few days ago; recently, lately"
+3639,臭い,i-adj. smelly
+3640,手元,"n. at hand, with one"
+3641,食,"n. meal, diet"
+3642,ため息,n. sigh
+3643,急激,na-adj. sudden; drastic
+3644,お仕舞い,"n. end, be all up with"
+3645,修正（する）,[1] n. revision [2] v. revise
+3646,たいして,adv. (not) very much
+3647,インタビュー（する）,[1] n. interview [2] v. interview
+3648,同級生,n. schoolmate
+3649,受け継ぐ,v. inherit
+3650,重さ,n. weight
+3651,町作り,n. town development
+3652,削減（する）,"[1] n. cut, reduction [2] v. cut, slash"
+3653,顧客,n. customer
+3654,爆発（する）,[1] n. explosion [2] v. explode
+3655,スイス,n. Switzerland
+3656,うかがう,"v. peep, peer; watch for (the chance)"
+3657,軍隊,"n. army, troops"
+3658,そいつ,n. that guy
+3659,試みる,v. try
+3660,決心（する）,[1] n. resolution [2] v. decide
+3661,所得,n. income
+3662,難い,suffix hard to ...
+3663,リーダー,n. leader
+3664,調理（する）,[1] n. cooking [2] v. cook
+3665,地区,n. area
+3666,家具,n. furniture
+3667,自治体,n. municipality
+3668,剣,n. sword
+3669,介護保険,n. nursing care insurance
+3670,キス（する）,[1] n. kiss [2] v. kiss
+3671,不況,n. recession
+3672,松,n. pine
+3673,停止（する）,"[1] n. stop, suspension [2] v. stop, suspend"
+3674,古代,n. ancient times
+3675,四十,num. forty
+3676,シリーズ,n. series
+3677,食生活,n. eating habits
+3678,申し込む,v. apply
+3679,デビュー（する）,[1] n. debut [2] v. make one’s debut
+3680,足る,v. be enough; deserve
+3681,四十年,n. forty years
+3682,思い込む,v. be obsessed with the idea
+3683,予備校,n. cram school preparing for university entrance examinations
+3684,膨大,na-adj. enormous
+3685,統一（する）,[1] n. unity [2] v. unify
+3686,寿命,n. life expectancy
+3687,根本的,"na-adj. fundamental, basic"
+3688,幕府,n. shogunate
+3689,苦しみ,"n. suffering, agony"
+3690,要件,n. important matter; requirement
+3691,図表,n. chart
+3692,逃れる,v. escape
+3693,反対側,n. opposite side
+3694,プロジェクト,n. project
+3695,励ます,"v. cheer up, encourage"
+3696,存ずる,v. know
+3697,辞書,n. dictionary
+3698,中国語,n. Chinese (language)
+3699,までもない,cp. needless
+3700,カラス,n. crow
+3701,問い,n. question
+3702,派手,"na-adj. flamboyant, flashy"
+3703,DVD(DVD),n. DVD
+3704,発明（する）,[1] n. invention [2] v. invent
+3705,大学時代,"n. college days, university days"
+3706,干す,v. dry
+3707,披露宴,n. wedding reception
+3708,気候,n. climate
+3709,非難（する）,[1] n. criticism [2] v. criticize
+3710,唱える,v. recite; advocate
+3711,作者,n. author
+3712,助け,"n. help, assistance"
+3713,に比べて,cp. compared to
+3714,関東,n. Kanto region
+3715,なめる,v. lick; suck
+3716,不明,"na-adj., n. unknown, unidentified"
+3717,スケジュール,n. schedule
+3718,差し出す,v. hold out
+3719,外部,n. outside
+3720,ネズミ,n. rat; mouse
+3721,ニーズ,n. needs
+3722,現金,n. cash
+3723,彼女達,n. they (female)
+3724,故郷【こきょう】,n. home town
+3725,畳【たたみ】,n. tatami mat
+3726,がっかり（する）,v. be disappointed
+3727,しも,p. EMPHASIS (Classical)
+3728,福祉,n. welfare
+3729,上下【じょうげ】,n. up and down
+3730,汚れ,n. dirt
+3731,書き込む,"v. write in, jot down"
+3732,栽培（する）,[1] n. cultivation [2] v. cultivate
+3733,視野,"n. perspective, view"
+3734,隅,n. corner
+3735,保障（する）,[1] n. guarantee [2] v. guarantee
+3736,三十代,n. thirties
+3737,バック（する）,"[1] n. back, background [2] v. reverse, back"
+3738,一斉,n. all at once
+3739,お盆,"n. Bon Festival, Obon"
+3740,審査（する）,[1] n. examination [2] v. examine
+3741,ゆとり,n. have something to spare
+3742,打ち込む,v. devote oneself
+3743,福岡,n. Fukuoka
+3744,通勤（する）,[1] n. commute [2] v. commute
+3745,準用（する）,"n., v. apply mutatis mutandis, with necessary modification"
+3746,右側,n. right side
+3747,推測（する）,"[1] n. assumption, guess [2] v. guess, presume"
+3748,ライン,n. line
+3749,預かる,"v. keep, look after"
+3750,美術館,"n. art gallery, museum of art"
+3751,二個,"n. two (pieces, things)"
+3752,冷やす,"v. keep cool, cool"
+3753,仏教,n. Buddhism
+3754,接触（する）,"[1] n. touch, contact [2] v. touch"
+3755,意欲,"n. will, motivation"
+3756,本音,n. true feeling; truth
+3757,二種類,n. two kinds
+3758,主役,n. main character
+3759,次男,n. second son
+3760,多々,adv. many
+3761,定期的,na-adj. regular
+3762,しめる,aux. (Classical)
+3763,通り過ぎる,"v. pass, go past"
+3764,スーツ,n. suit
+3765,形式,n. form
+3766,ピンク,n. pink
+3767,七年,n. seven years
+3768,生きがい,"n. pupose in life, something to live for"
+3769,にぎやか,"na-adj. busy, bustling"
+3770,結成（する）,"[1] n. formation [2] v. form, organize"
+3771,研究者,n. researcher
+3772,名付ける,v. name
+3773,信号,"n. traffic light, signal"
+3774,就職活動（する）,[1] n. job-hunting [2] v. look for a job
+3775,捜査（する）,[1] n. criminal investigation [2] v. investigate
+3776,現に,"adv. as a matter of fact, actually"
+3777,黒人,n. black person
+3778,事柄,"n. matter, issue"
+3779,早く,"n. early, soon"
+3780,速度,n. speed
+3781,奥様,n. wife (honorific)
+3782,まれ,na-adj. rare
+3783,じゃが芋,n. potato
+3784,数多く,"adv. many, a number of"
+3785,ひそか,"[1] na-adj. secret, confidential [2] adv. secretly"
+3786,照らす,v. light
+3787,ミュージカル,n. musical
+3788,怪しい,i-adj. eerie; doubtful
+3789,友,n. friend
+3790,傾ける,"v. tilt, incline"
+3791,鉛筆,n. pencil
+3792,判決（する）,[1] n. decision [2] v. decide
+3793,マラソン,n. marathon
+3794,広さ,n. area; width; extent
+3795,リスト,n. list
+3796,振り向く,"v. look around, turn around"
+3797,二歳,n. two years old
+3798,関与（する）,[1] n. participation [2] v. participate
+3799,遂げる,v. achieve
+3800,二十人,n. twenty people
+3801,タオル,n. towel
+3802,一泊,n. one night stay
+3803,ごちそう（する）,"[1] n. feast [2] v. give a dinner, treat"
+3804,的確,"na-adj. precise, exact"
+3805,運転手,n. driver
+3806,各種,"n. various, all sorts of"
+3807,録音（する）,[1] n. record [2] v. record
+3808,沈黙（する）,[1] n. silence [2] v. be silent
+3809,再度,"adv. twice, again"
+3810,以後,"adv. after this, since then"
+3811,熊,n. bear
+3812,八王子,n. Hachioji (place name)
+3813,贈る,"v. give (as a present), send"
+3814,林,"n. grove, forest, wood"
+3815,懸念（する）,[1] n. fear [2] v. fear
+3816,燃やす,v. burn
+3817,枠,n. frame
+3818,児童,n. pupil
+3819,真っ白,na-adj. pure white
+3820,さっと,adv. quickly
+3821,定年（する）,[1] n. retirement [2] v. retire
+3822,育児（する）,[1] n. childcare [2] v. take care of a child
+3823,蹴る,v. kick
+3824,蜂蜜,n. honey
+3825,度々,adv. often
+3826,完了（する）,[1] n. complete [2] v. complete
+3827,二十三,num. twenty-three
+3828,通訳,n. interpreter
+3829,飼い主,n. pet owner
+3830,傍ら,"n. side, besides"
+3831,宣伝（する）,[1] n. advertisement [2] v. advertise
+3832,室内,n. indoor
+3833,会員,n. member
+3834,思考（する）,[1] n. thought [2] v. think
+3835,衣装,n. costume
+3836,足す,v. add
+3837,シャツ,n. shirt
+3838,イラク,n. Iraq
+3839,取り扱う,"v. handle, treat"
+3840,わざと,adv. intentionally
+3841,前年度,n. preceding year
+3842,新郎,"n. groom, bridegroom"
+3843,幹部,n. executive
+3844,シェア（する）,[1] n. share [2] v. share
+3845,ガソリン,"n. gasoline, petrol"
+3846,記念（する）,[1] n. commemoration [2] v. commemorate
+3847,強烈,"na-adj. strong, intense"
+3848,俳句,n. haiku (Japanese poem of seventeen syllables)
+3849,特色,"n. characteristic, feature"
+3850,引退（する）,[1] n. retirement [2] v. retire
+3851,飲み物,n. drink
+3852,いいえ,interj. no
+3853,部,"n. division, department, section; club"
+3854,オランダ,n. Netherlands
+3855,華やか,na-adj. gorgeous
+3856,高価,na-adj. expensive
+3857,なじむ,v. become accustomed
+3858,誇る,"v. be proud, boast"
+3859,左側,"n. left, left side"
+3860,浮気,n. affair
+3861,デート（する）,[1] n. date [2] v. date
+3862,抑制（する）,"[1] n. control, restraint [2] v. control, restrain"
+3863,好奇心,n. curiosity
+3864,公務員,"n. civil servant, government employee"
+3865,列,n. line
+3866,ソファー,n. sofa
+3867,初日,n. first day
+3868,プロセス,n. process
+3869,郊外,n. suburb
+3870,六十,num. sixty
+3871,痛む,"v. ache, hurt, pain"
+3872,自衛隊,n. Self-Defense Forces
+3873,尽きる,v. run out
+3874,国連,n. United Nations
+3875,手軽,na-adj. light; simple; reasonable
+3876,町並み,"n. street, row of town houses"
+3877,推定（する）,"[1] n. presumption, estimation [2] v. presume, estimate"
+3878,ちまう,aux. do something completely
+3879,文部省,"n. Ministry of Education, Culture, Sports"
+3880,結びつける,"v. connect, tie, bind"
+3881,例外,n. exception
+3882,プロ野球,n. professional baseball
+3883,二枚,n. two (sheets)
+3884,まさしく,"adv. surely, exactly"
+3885,変わり,n. change
+3886,用事,n. business
+3887,効率,n. efficiency
+3888,クリア（する）,"[1] n. clearing, clearance [2] na-adj. clear [3] v. clear"
+3889,だけど,"conj. but, however"
+3890,財布,n. wallet
+3891,徹底的,"na-adj. thorough, complete"
+3892,直面（する）,"[1] n. confrontation [2] v. confront, face"
+3893,己,n. oneself (first person pronoun)
+3894,目安,"n. standard, criterion"
+3895,目覚める,v. wake up
+3896,等しい,i-adj. equal
+3897,休憩（する）,"[1] n. rest, break [2] v. take a rest"
+3898,一日中,n. all day
+3899,有無,"n. existence, presence"
+3900,HP(HP),n. home page
+3901,不要,na-adj. unnecessary
+3902,猿,n. monkey
+3903,従事（する）,[1] n. engagement in [2] v. be engaged in
+3904,蓄積（する）,"[1] n. storage, accumulation [2] v. store, accumulate"
+3905,よみがえる,"v. revive, come back"
+3906,年賀状,n. New Year’s card
+3907,バブル,n. bubble
+3908,毎朝,[1] adv. every morning [2] n. every morning
+3909,地味,na-adj. simple
+3910,文学,n. literature
+3911,Tシャツ,n. T-shirt
+3912,放る,v. throw; leave something undone
+3913,攻める,v. attack
+3914,位置付ける,v. rank; evaluate
+3915,四回,n. four times
+3916,マーク,n. mark
+3917,アルコール,n. alcohol
+3918,優しさ,n. kindness
+3919,漠然,"adv. vague, obscure"
+3920,偉大,"na-adj. great, grand"
+3921,脂肪,n. fat
+3922,言い出す,"v. propose, suggest"
+3923,青,n. blue
+3924,キーワード,n. keyword
+3925,ベランダ,"n. porch, balcony"
+3926,炎,n. flame
+3927,交付（する）,"[1] n. issue [2] v. issue, grant"
+3928,証言（する）,[1] n. evidence [2] v. give testimony
+3929,敏感,na-adj. sensitive
+3930,鮮やか,"na-adj. vivid, lively; skillful"
+3931,解明（する）,[1] n. clarification [2] v. solve
+3932,方式,n. method
+3933,瓶,n. bottle
+3934,そっくり,"[1] na-adj. resembling, just like [2] adv. altogether"
+3935,縛る,"v. bind, tie"
+3936,実情,"n. case, actual situation"
+3937,円,n. yen; circle
+3938,化粧（する）,[1] n. makeup [2] v. put on makeup
+3939,二十四,num. twenty-four
+3940,数々,"n. many, numerous"
+3941,持参（する）,"[1] n. bringing, taking [2] v. bring, take"
+3942,引用（する）,[1] n. quotation [2] v. quote
+3943,同期,"n. same period, same class"
+3944,健全,na-adj. healthy
+3945,西洋,n. the West
+3946,プレッシャー,n. pressure
+3947,赤ん坊,n. baby
+3948,打ち合わせ,n. meeting
+3949,欲望,"n. desire, passion"
+3950,軍,n. army
+3951,パス（する）,[1] n. pass [2] v. pass
+3952,頼り,"n. support, dependence"
+3953,扱い,n. treatment
+3954,本質,"n. nature, essence"
+3955,市役所,n. city hall
+3956,車両,"n. car, carriage"
+3957,株価,n. stock prices
+3958,昼食,n. lunch
+3959,注射,n. injection
+3960,臨む,v. face
+3961,職,"n. job, work"
+3962,見た目,"n. appearance, looks"
+3963,アピール（する）,[1] n. appeal [2] v. appeal
+3964,三分の一,"n., num. one-third"
+3965,全国的,na-adj. nationwide
+3966,豚,n. pig
+3967,資本,n. capital
+3968,思いやり,n. consideration
+3969,見通し,"n. prospect, outlook"
+3970,十二年,n. twelve years
+3971,きっちり,adv. tightly
+3972,砂漠,n. desert
+3973,エレベーター,n. elevator
+3974,浅い,i-adj. shallow
+3975,カバー,n. cover
+3976,交代（する）,"[1] n. change, shift [2] v. take turns"
+3977,資源,n. resource
+3978,現実的,na-adj. realistic
+3979,苦笑,v. wry smile
+3980,餃子,n. Chinese dumpling
+3981,食堂,"n. cafeteria, dining room"
+3982,もっぱら,adv. entirely
+3983,締結（する）,[1] n. conclusion [2] v. conclude
+3984,裸,"n. naked, nude"
+3985,そうこう,adv. in the meantime
+3986,いらいら（する）,"v. be annoyed, be irritated, be impatient"
+3987,収集（する）,[1] n. collection [2] v. collect
+3988,記者,"n. journalist, reporter"
+3989,脱出（する）,"[1] n. escape [2] v. escape, break out"
+3990,呼び出す,"v. call, summon"
+3991,主流,n. mainstream
+3992,さほど,adv. (not) particularly
+3993,事務,n. office work
+3994,付け加える,v. add
+3995,国々,n. countries
+3996,地球上,n. on the earth
+3997,大企業,n. big business
+3998,倒す,v. knock down
+3999,写る,v. photograph
+4000,漏らす,v. betray
+4001,上達（する）,"[1] n. improvement [2] v. improve, progress"
+4002,故郷【ふるさと】,n. hometown
+4003,行使,n. exercise
+4004,表明（する）,"[1] n. expression, manifestation [2] v. express, manifest"
+4005,体育,"n. physical education, gymnastics"
+4006,読書,n. reading
+4007,都【みやこ】,n. capital
+4008,ずれる,"v. be out of step, slip"
+4009,通用（する）,"[1] n. currency [2] v. accept, obtain"
+4010,支障,n. obstacle
+4011,カウンター,n. counter
+4012,大規模,na-adj. large-scale
+4013,大家さん,"n. landlord, owner"
+4014,昨夜,n. last night
+4015,角【かど】,n. corner
+4016,ニコニコ（する）,[1] v. smile [2] adv. smiling
+4017,三日間,n. three days
+4018,撫でる,v. stroke
+4019,金利,n. interest
+4020,わくわく（する）,v. be bubbling; be excited
+4021,仮定（する）,"[1] n. assumption, supposition [2] v. assume, suppose"
+4022,引きずる,"v. drag, trail"
+4023,バラバラ,na-adj. separate
+4024,依存（する）,"[1] n. dependence, reliance [2] v. depend, rely,"
+4025,様【さま】,"n. Mr., Mrs., Miss., Ms."
+4026,同居（する）,"[1] n. coexistence, living together [2] v. live together, live with"
+4027,スカート,n. skirt
+4028,柄【がら】,"n. pattern, character"
+4029,回数,n. frequency
+4030,ユーザー,n. user
+4031,筆者,"n. writer, author"
+4032,筆,n. brush
+4033,制約（する）,"[1] n. restriction, constraint [2] v. restrict, constrain"
+4034,絵本,n. picture book
+4035,町中,n. downtown
+4036,著者,"n. author, writer"
+4037,芽,"n. bud, shoot"
+4038,担当者,n. person in charge
+4039,嵐,n. storm
+4040,厚生省,n. Ministry of Welfare
+4041,豆,"n. bean, pea"
+4042,損,"n. loss, damage"
+4043,肝心,"na-adj. main, essential, important"
+4044,保育園,"n. nursery school, day care"
+4045,ポスト,"n. post, postbox, mailbox"
+4046,呼びかける,"v. call out, appeal"
+4047,余談,n. digression
+4048,凝る,"v. be absorbed, be devoted; become stiff"
+4049,水道,n. water supply
+4050,人形,n. doll
+4051,狙い,"n. aim, target"
+4052,決断（する）,[1] n. decision [2] v. decide
+4053,大切さ,n. importance
+4054,よそ,"n. other, elsewhere"
+4055,蚊,n. mosquito
+4056,監視（する）,[1] n. observation [2] v. watch
+4057,同年,n. same year
+4058,あっさり,"adv. easily, flatly, simple, plain"
+4059,微笑む,v. smile
+4060,駆け付ける,"v. run, rush"
+4061,ゴール,n. goal
+4062,三本,n. three (long/cylindrical objects)
+4063,棚,n. shelf
+4064,しっぽ,n. tail
+4065,虐待（する）,[1] n. abuse [2] v. abuse
+4066,然り,v. (Classical) to be so
+4067,正常,na-adj. normal
+4068,配布（する）,[1] n. distribution [2] v. distribute
+4069,持ち上げる,"v. lift, raise"
+4070,見送る,v. see off
+4071,引き継ぐ,v. take over
+4072,違和感,n. uncomfortable feeling
+4073,ジャズ,n. jazz
+4074,次いで,"adv. next, after that"
+4075,向き,"n. direction, aspect; suitable"
+4076,五年間,n. five years
+4077,安全性,"n. safety, security"
+4078,国境,n. border
+4079,包丁,n. kitchen knife
+4080,キー,n. key
+4081,どきどき（する）,"v. throb, beat fast"
+4082,賑わう,v. be crowded with
+4083,地獄,n. hell
+4084,豪華,"na-adj. luxurious, gorgeous"
+4085,救急車,n. ambulance
+4086,十年間,n. ten years
+4087,不動産,"n. real estate, property"
+4088,広まる,"v. spread, get around"
+4089,外出（する）,"[1] n. going out, outing [2] v. go out"
+4090,グラス,n. glass
+4091,曲げる,"v. bend, twist"
+4092,屋敷,"n. mansion, residence, estate"
+4093,専門的,"na-adj. technical, academic"
+4094,切り替える,"v. switch, change"
+4095,染める,"v. dye, color"
+4096,スキー場,"n. ski ground, ski resort"
+4097,ヒント,"n. hint, clue"
+4098,講義,n. lecture
+4099,裏切る,v. betray
+4100,余地,"n. room, space"
+4101,富む,v. be rich (in); grow
+4102,手書き,n. handwriting
+4103,ブーム,n. boom
+4104,ワールドカップ,n. World Cup
+4105,鬼,"n. ogre, devil, demon"
+4106,ホール,n. hall
+4107,似合う,v. suit
+4108,節約（する）,"[1] n. saving, economy [2] v. save, economize on"
+4109,実績,n. achievement
+4110,訳す,v. translate
+4111,奴ら,n. fellow
+4112,キッチン,n. kitchen
+4113,課する,"v. assign, charge, impose"
+4114,養う,"v. bring up, keep, support"
+4115,別々,"na-adj. separate, individual"
+4116,手足,n. limb
+4117,物価,n. prices
+4118,部品,"n. parts, components"
+4119,最適,"na-adj. best, optimum"
+4120,宿題,n. homework
+4121,氏名,n. name
+4122,ダンス,n. dancing
+4123,溶かす,v. dissolve; melt
+4124,人種,n. race
+4125,歌手,n. singer
+4126,銀,n. silver
+4127,ルート,n. route
+4128,第一号,n. first
+4129,従兄弟,n. cousin
+4130,概ね,"adv. mostly, mainly, generally"
+4131,往復,n. round trip
+4132,起源,n. origin
+4133,広場,"n. square, plaza"
+4134,レモン,n. lemon
+4135,円滑,na-adj. smooth
+4136,広大,"na-adj. vast, huge, extensive"
+4137,TV(TV),n. television
+4138,カップル,n. couple
+4139,納豆,n. fermented soybeans
+4140,堂々,"adv. nobly, openly"
+4141,肝臓,n. liver
+4142,味わえる,"v. can taste, can enjoy"
+4143,電源,n. power supply
+4144,分割（する）,[1] n. division [2] v. divide
+4145,縮小（する）,[1] n. reduction [2] v. reduce
+4146,練る,v. knead; polish; elaborate
+4147,飲み込む,v. swallow
+4148,職人,"n. craftsman, workman"
+4149,十三年,n. thirteen years
+4150,キャラクター,n. character
+4151,大地,"n. earth, ground"
+4152,具,n. ingredient
+4153,戸惑う,"v. confuse, puzzle"
+4154,寂しさ,n. loneliness
+4155,吐く【つく】,v. tell (a lie); sigh
+4156,カーテン,n. curtain
+4157,情けない,i-adj. miserable
+4158,飯,n. rice
+4159,幼児,n. infant
+4160,法案,n. bill
+4161,病,"n. illness, disease"
+4162,切符,n. ticket
+4163,消滅（する）,[1] n. disappearance [2] v. disappear
+4164,障害者,"n. disabled person, handicapped person"
+4165,台,"n. stand, rack"
+4166,面白さ,"n. interest, fun"
+4167,生まれ,n. birth; birthplace
+4168,保有（する）,"[1] n. possession [2] v. hold, possess"
+4169,反発（する）,"[1] n. repulsion, resistance [2] v. react, resist, rebel, repel"
+4170,アレンジ（する）,[1] n. arrangement [2] v. arrange
+4171,しつけ,n. tacking (sewing); discipline
+4172,指導者,"n. leader, coach"
+4173,原理,n. principle
+4174,東南アジア,n. Southeast Asia
+4175,ID(ID),"n. identification, ID"
+4176,金属,n. metal
+4177,しわ,"n. wrinkle, line"
+4178,思い浮かべる,"v. recall, remember"
+4179,一分,n. one minute
+4180,当面,"n. present, current; for the time being"
+4181,貯金,"n. savings, deposit"
+4182,技術的,"na-adj. technical, practical"
+4183,四歳,n. four years old
+4184,ダンボール,n. cardboard
+4185,生クリーム,n. fresh cream
+4186,名乗る,v. give one’s name
+4187,金曜日,n. Friday
+4188,生き残る,v. survive
+4189,演技,n. performance
+4190,取り巻く,"v. surround, enclose"
+4191,体質,n. constitution (physical)
+4192,ドイツ語,n. German language
+4193,仕方が無い,"cp. cannot be helped, no use"
+4194,参加者,n. participant
+4195,第三者,"n. outsider, third party"
+4196,感性,"n. sensitivity, sensibility"
+4197,谷,"n. valley; ravine, gorge"
+4198,本社,n. head office
+4199,都度,n. every time
+4200,ぼんやり（する）,"[1] adv. vacantly, vaguely, dimly [2] v. be vague, be blurred"
+4201,死者,n. dead
+4202,四季,n. four seasons
+4203,倒産（する）,[1] n. bankruptcy [2] v. go bankrupt
+4204,ニュージーランド,n. New Zealand
+4205,センター,n. center
+4206,保全（する）,"[1] n. preservation, maintenance [2] v. preserve, maintain"
+4207,結合（する）,"[1] n. combination [2] v. combine, join"
+4208,発送（する）,"n., v. send, ship, dispatch"
+4209,パンツ,"n. pants, shorts, underpants"
+4210,ぐるぐる,adv. round and round
+4211,ナンバー,n. number
+4212,持ち主,n. owner
+4213,到底,"adv. (cannot) possibly, no matter how"
+4214,夕日,"n. evening sun, sunset"
+4215,乗り換える,"v. change, transfer"
+4216,リストラ,"n. restructuring, downsizing"
+4217,答弁,"n. answer, defense"
+4218,哲学,n. philosophy
+4219,おかしな,"adn. funny, ridiculous"
+4220,当事者,n. parties concerned
+4221,シーズン,n. season
+4222,品【しな】,"n. goods, article"
+4223,高速道路,n. freeway
+4224,一員,n. member
+4225,確定（する）,"[1] n. determination, decision [2] v. determine, decide"
+4226,委員会,n. committee
+4227,混ぜ合わせる,v. mix
+4228,興味深い,i-adj. interesting
+4229,あれこれ,adv. this and that
+4230,分布（する）,[1] n. distribution [2] v. distribute
+4231,観客,n. audience
+4232,鮎,"n. sweetfish, ayu"
+4233,正午,"n. noon, midday"
+4234,首都,n. capital city
+4235,体内,n. inside the body
+4236,調和（する）,"[1] n. harmony, balance [2] v. harmonize, match"
+4237,権威,n. authority
+4238,シンガポール,n. Singapore
+4239,酔う,"v. get drunk, feel sick"
+4240,最低限,n. minimum
+4241,傷つく,"v. be injured, be hurt"
+4242,カボチャ,n. pumpkin
+4243,老後,n. old age
+4244,当てはまる,v. apply
+4245,害,"n. harm, damage"
+4246,稽古（する）,"[1] n. practice, exercise [2] v. practice"
+4247,一位,n. first prize
+4248,率いる,"v. head, lead, command"
+4249,前者,n. former
+4250,数人,n. several people
+4251,創造（する）,[1] n. creation [2] v. create
+4252,届け出,"n. report, notification"
+4253,荻窪,n. Ogikubo (place name)
+4254,スイッチ,n. switch
+4255,試み,"n. attempt, try"
+4256,歩む,"v. walk, go through"
+4257,立ち止まる,"v. stop, pause"
+4258,いまいち,"adv. not quite, not really"
+4259,麺,n. noodles
+4260,不安定,"na-adj. unstable, uneasy"
+4261,原点,"n. starting point, origin"
+4262,一向,adv. (not) at all; completely
+4263,それゆえ,"adv. therefore, thus"
+4264,ジュース,n. juice
+4265,軽減（する）,[1] n. reduction [2] v. reduce
+4266,不自由,n. inconvenience; disability
+4267,悲鳴,n. scream
+4268,落札者,n. successful bidder
+4269,融資（する）,"[1] n. loan [2] v. loan, lend"
+4270,破綻（する）,"[1] n. bankruptcy, collapse [2] v. fail, go bankrupt"
+4271,二千八年,n. 2008 (year)
+4272,アドレス,n. address
+4273,励む,"v. work hard, make efforts"
+4274,双方,"n. both sides, both parties"
+4275,原爆,n. atomic bomb
+4276,傘,n. umbrella
+4277,チャレンジ,n. challenge
+4278,炭,n. charcoal
+4279,不意,"[1] na-adj. sudden, unexpected [2] n. suddenness"
+4280,リサイクル（する）,[1] n. recycling [2] v. recycle
+4281,ミルク,n. milk
+4282,子孫,n. descendant; posterity
+4283,近頃,"n. recently, lately"
+4284,鞄,n. bag
+4285,五千円,n. five thousand yen
+4286,圧力,"n. pressure, stress"
+4287,斜め,n. diagonal
+4288,補助（する）,"[1] n. help, aid, assistance [2] v. help, aid, assist"
+4289,改良,n. improvement
+4290,俳優,n. actor
+4291,フィリピン,n. Philippines
+4292,効率的,na-adj. efficient
+4293,情熱,n. passion
+4294,七人,n. seven people
+4295,焦点,n. focus
+4296,旅館,"n. inn, Japanese-style hotel"
+4297,食卓,n. dining table
+4298,歩き回る,v. walk about
+4299,悲劇,n. tragedy
+4300,長女,n. eldest daughter
+4301,議会,"n. Diet, Parliament, Congress"
+4302,侵入（する）,"[1] n. invasion [2] v. break into, invade"
+4303,盛る【もる】,"v. serve, heap"
+4304,転ずる,"v. switch, shift"
+4305,祭る,v. enshrine; worship; deify
+4306,笑み,n. smile
+4307,三度,n. three times
+4308,冷える,"v. chill, become cold, feel cold"
+4309,案,"n. plan, proposal, idea"
+4310,心理,n. psychology
+4311,縫う,v. sew
+4312,おしゃべり（する）,"[1] n. chat, talk [2] v. chat, talk"
+4313,次ぐ,"v. next to, after"
+4314,復帰（する）,"[1] n. return, comeback [2] v. return, come back, make a comeback"
+4315,衝突（する）,"[1] n. collision [2] v. collide, clash"
+4316,持ち出す,"v. carry out, take out"
+4317,浸かる,v. be flooded; soak
+4318,ドライブ,n. drive
+4319,テキスト,n. textbook
+4320,変動（する）,"[1] n. change, fluctuation, movement [2] v. change, fluctuate"
+4321,吸い込む,v. breathe in; suck up
+4322,木々,n. trees
+4323,ヒット,n. hit
+4324,箸,n. chopsticks
+4325,食欲,n. appetite
+4326,語,n. word; language
+4327,通信,"n. correspondence, communication"
+4328,一家,"n. family, house, household"
+4329,怒鳴る,v. shout
+4330,二十一年,n. twenty-one years
+4331,専業主婦,n. housewife
+4332,滝,n. waterfall
+4333,ひねる,v. twist
+4334,身分,"n. position, status"
+4335,敷地,"n. site, ground"
+4336,冷める,"v. cool, get cold"
+4337,ブルー,n. blue
+4338,先進国,n. developed country
+4339,バナナ,n. banana
+4340,取り扱い,"n. treatment, handling"
+4341,フィルム,n. film
+4342,日本酒,"n. sake, Japanese rice wine"
+4343,ＷＷＷ(ＷＷＷ),n. World Wide Web
+4344,透明,"na-adj. transparent, clear"
+4345,即,"adv. at once, immediately"
+4346,克服（する）,"[1] n. conquest [2] v. conquer, overcome"
+4347,専門学校,"n. technical school, college, vocational school"
+4348,六十歳,n. sixty years old
+4349,朝日,"n. rising sun, morning sun"
+4350,スタジオ,n. studio
+4351,長期,n. long term
+4352,美人,"n. beautiful woman, beauty"
+4353,筆記用具,"n. stationery, writing materials"
+4354,石油,n. oil
+4355,早朝,n. early morning
+4356,店内,n. inside a shop
+4357,賃金,"n. salary, wage"
+4358,見回す,"v. look around, look about"
+4359,日程,"n. schedule, itinerary"
+4360,応用（する）,[1] n. application [2] v. apply
+4361,真っ暗,[1] na-adj. black [2] n. pitch-dark
+4362,眉,n. eyebrow
+4363,レンズ,n. lens
+4364,五回,n. five times
+4365,俗,"n., na-adj. common, popular"
+4366,パスタ,n. pasta
+4367,差し込む,"v. insert, plug in; come in, shine in"
+4368,性能,"n. performance, capability"
+4369,絵画,"n. painting, picture"
+4370,刀,n. sword
+4371,理念,n. philosophy
+4372,裁判官,n. judge
+4373,戦略,n. strategy
+4374,核,"n. nucleus, core"
+4375,農民,n. farmer
+4376,コンクリート,n. concrete
+4377,環境問題,n. environmental problem
+4378,ライター,n. lighter
+4379,手入れ,"n. repair, maintenance"
+4380,判定（する）,"[1] n. decision, judgment [2] v. decide, judge"
+4381,帯びる,"v. have a trace of, be tinged with"
+4382,日曜,n. Sunday
+4383,昨今,n. nowadays
+4384,対話（する）,"[1] n. dialogue, conversation [2] v. converse, discuss"
+4385,帯,"n. kimono sash, belt"
+4386,お好み焼き,"n. okonomiyaki (Japanese-style savoury pancake with vegetables, meat, seafood etc.)"
+4387,羊,n. sheep
+4388,前半,n. first half
+4389,ショー,n. show
+4390,研究所,"n. research institute, laboratory"
+4391,生姜,n. ginger
+4392,冒頭,n. beginning
+4393,メジャー,n. measure
+4394,公演,n. performance
+4395,剣道,n. kendo
+4396,倉庫,"n. warehouse, storehouse"
+4397,浴衣,"n. yukata, cotton kimono"
+4398,直径,n. diameter
+4399,残業,n. overtime work
+4400,殺人,n. murder
+4401,判明（する）,"[1] n. proving [2] v. turn out, identify"
+4402,統合（する）,"[1] n. integration [2] v. integrate, combine"
+4403,水気,n. moisture
+4404,我ら,pron. we
+4405,原料,"n. raw material, ingredient"
+4406,群れ,n. group; herd
+4407,新婦,n. bride
+4408,持ち物,n. personal belongings
+4409,転がる,v. roll
+4410,おはよう,interj. good morning
+4411,二匹,n. two (animals)
+4412,天候,n. weather
+4413,危険性,n. danger
+4414,創設（する）,"[1] n. foundation, creation [2] v. found, create"
+4415,年末,n. end of the year
+4416,感,"n. feeling, emotion"
+4417,イコール,n. equal
+4418,実質的,na-adj. substantial; essential
+4419,響き,n. sound; echo
+4420,六ヶ月,n. six months
+4421,プラン,n. plan
+4422,グラウンド,"n. ground, playground, sports field"
+4423,メキシコ,n. Mexico
+4424,バー,n. bar
+4425,カップ,n. cup
+4426,訴訟,"n. suit, action"
+4427,流通（する）,"[1] n. circulation, distribution [2] v. circulate, distribute"
+4428,郵送,"n. mail, post"
+4429,平ら,na-adj. flat
+4430,赤字,"n. deficit, loss, the red"
+4431,二位,n. second place
+4432,刃物,"n. cutlery, edged tool, knife"
+4433,苦情,n. complaint
+4434,入社（する）,"[1] n. entry to a company [2] v. enter a company, get a job"
+4435,役所,n. government office
+4436,三百円,n. three hundred yen
+4437,チラシ,"n. flyer, leaflet, handout"
+4438,成人（する）,[1] n. adult [2] v. come of age
+4439,工具,n. tool
+4440,先週,n. last week
+4441,境,"n. boundary, border"
+4442,国語,n. Japanese language
+4443,三十人,n. thirty people
+4444,兵士,n. soldier
+4445,芸能人,n. entertainer
+4446,こんにちは,"interj. Hello, Good afternoon"
+4447,ふっと,adv. suddenly
+4448,日付け,"n. date, day"
+4449,相違,"n. difference, disagreement"
+4450,決定的,"na-adj. definitive, absolute"
+4451,無意識,[1] n. unconsciousness [2] na-adj. unconscious
+4452,友人達,n. friends
+4453,債務者,n. debtor
+4454,四ヶ月,n. four months
+4455,始末（する）,"[1] n. disposal, circumstances [2] v. manage, deal with, dispose of"
+4456,合間,"n. interval, pause, spare moment"
+4457,副作用,n. side effect
+4458,成分,"n. ingredient, constituent, component"
+4459,初,n. first
+4460,ドライバー,n. driver
+4461,渋滞（する）,"[1] n. traffic jam, delay [2] v. be delayed"
+4462,遠慮（する）,[1] n. reserve [2] v. hesitate
+4463,印【しるし】,"n. mark, tick, check"
+4464,今週,n. this week
+4465,慰める,"v. console, comfort"
+4466,一方的,"na-adj. unilateral, one-sided"
+4467,開設（する）,"[1] n. establishment [2] v. establish, set up"
+4468,アニメ,n. animation
+4469,さっさと,adv. quickly
+4470,勢力,"n. power, influence, strength"
+4471,梅,"n. plum, Japanese apricot"
+4472,霊,"n. spirit, soul"
+4473,予感（する）,"[1] n. presentiment, foreboding, hunch [2] v. have a presentiment/foreboding/hunch"
+4474,学者,n. scholar
+4475,車椅子,n. wheelchair
+4476,月曜日,n. Monday
+4477,北京,n. Beijing
+4478,論理,n. logic
+4479,見込む,"v. expect, trust"
+4480,四十分,n. forty minutes
+4481,歩道,"n. sidewalk, pavement"
+4482,二千,num. two thousand
+4483,政治的,na-adj. political
+4484,九年,n. nine years
+4485,欠く,v. lack; chip
+4486,報告書,n. report
+4487,近づける,v. bring close
+4488,壼,"n. pot, vase"
+4489,講座,"n. course, lecture"
+4490,レシピ,n. recipe
+4491,行列（する）,"[1] n. procession, line, parade [2] v. line up, queue"
+4492,計上（する）,[1] n. appropriation [2] v. appropriate
+4493,受診（する）,"[1] n. (medical) consultation [2] v. consult, have a medical examination"
+4494,指揮（する）,"[1] n. direction, command [2] v. conduct, direct"
+4495,保管（する）,"[1] n. keeping, storage [2] v. keep"
+4496,パートナー,n. partner
+4497,発足（する）,[1] n. start [2] v. start
+4498,火事,n. fire
+4499,中世,"n. Middle Ages, medieval"
+4500,考察（する）,"[1] n. consideration, examination [2] v. consider, examine"
+4501,祝い,n. celebration
+4502,儲ける,"v. profit, earn, gain"
+4503,指差す,v. point
+4504,認可（する）,"[1] n. permission, approval [2] v. permit, approve"
+4505,劣る,v. be inferior
+4506,ぶつける,v. hit; throw
+4507,条約,"n. treaty, agreement"
+4508,像,"n. figure, statue"
+4509,マッチ（する）,[1] n. match [2] v. match
+4510,二千円,n. two thousand yen
+4511,キャベツ,n. cabbage
+4512,デザート,n. dessert
+4513,議員,n. member of Diet/Congress/Parliament
+4514,審議（する）,"[1] n. discussion, deliberation [2] v. discuss, deliberate"
+4515,涼しい,i-adj. cool
+4516,性,"n. sex, gender"
+4517,仕草,"n. behavior, gesture"
+4518,マスター（する）,[1] n. master [2] v. master
+4519,泡,"n. bubble, foam"
+4520,年配,n. elderly person
+4521,万が一,adv. just in case
+4522,挙げ句,"n. in the end, finally"
+4523,つなげる,"v. connect, tie"
+4524,弟子,"n. pupil, disciple"
+4525,分解（する）,"[1] n. analysis [2] v. resolve, dismantle, take apart, analyze"
+4526,一発,"n. shot, punch"
+4527,ささやく,v. whisper
+4528,調達（する）,"[1] n. supply, procurement [2] v. supply, procure"
+4529,二十六,num. twenty-six
+4530,制服,n. uniform
+4531,オーブン,n. oven
+4532,パンフレット,n. brochure
+4533,賞,"n. prize, award"
+4534,白人,n. white person
+4535,いささか,"adv. a little, slightly, rather"
+4536,先頭,"n. head, lead"
+4537,真っ黒,na-adj. black
+4538,すっと,adv. quickly; quietly; straight
+4539,公共,"n. public, common"
+4540,貴族,"n. noble, nobility, aristocracy"
+4541,散る,"v. fall, drop"
+4542,路地,"n. alley, lane"
+4543,緑色,n. green
+4544,逃げ出す,v. run away
+4545,繁栄（する）,"[1] n. prosperity [2] v. prosper, flourish"
+4546,銃,n. gun
+4547,今後とも,"adv. from now on, in the future"
+4548,担ぐ,"v. carry, shoulder"
+4549,撒く,"v. scatter, water"
+4550,合理的,"na-adj. reasonable, rational"
+4551,果て,n. the end
+4552,霧,n. fog
+4553,主催（する）,"[1] n. promotion, organizing [2] v. host, promote, organize"
+4554,選択肢,"n. choices, alternatives"
+4555,密接,na-adj. close
+4556,煮込む,v. stew
+4557,表【おもて】,"n. front; outside, surface"
+4558,錯覚（する）,"[1] n. illusion, delusion, trick [2] v. have the illusion/impression"
+4559,乗り物,n. vehicle; (amusement park) ride
+4560,スパゲッティー,n. spaghetti
+4561,隣接（する）,"[1] n. adjacent, adjoin, next to [2] v. be adjacent, adjoin, be next to"
+4562,二千三年,n. 2003 (year)
+4563,ごまかす,"v. cheat, deceive"
+4564,テクニック,n. technique
+4565,ステップ,n. step
+4566,任務,"n. duty, task, mission, role"
+4567,小川,n. stream
+4568,ロープ,n. rope
+4569,到達（する）,[1] n. arrival [2] v. reach
+4570,イエス,n. yes; Jesus (Christ)
+4571,上海,n. Shanghai
+4572,顕著,"na-adj. conspicuous, remarkable"
+4573,生まれ育つ,v. be born and raised
+4574,ファッション,n. fashion
+4575,緊張感,n. tension
+4576,容器,"n. container, vessel"
+4577,サポート（する）,[1] n. support [2] v. support
+4578,転ぶ,"v. fall, slip"
+4579,まし,[1] na-adj. better [2] n. increase
+4580,東北,"n. Northeast, Tohoku region"
+4581,亡くす,v. lose
+4582,サラダ,n. salad
+4583,注意点,n. important point
+4584,DNA(DNA),"n. DNA, deoxyribonucleic acid"
+4585,米軍,n. US armed forces
+4586,デメリット,n. disadvantage
+4587,国道,n. national highway
+4588,浸透（する）,"[1] n. soaking, penetration [2] v. soak, penetrate"
+4589,合図（する）,"[1] n. signal, sign [2] v. signal, sign"
+4590,フェリー,n. ferry
+4591,貿易,"n. trade, commerce"
+4592,照明,n. lighting
+4593,招待（する）,[1] n. invitation [2] v. invite
+4594,年々,adv. year after year
+4595,十一年,n. eleven years
+4596,武士,"n. warrior, samurai"
+4597,そりゃ,pron. that is
+4598,対抗（する）,"[1] n. competition, rivalry [2] v. oppose, rival"
+4599,者達,n. people
+4600,警察官,n. police officer
+4601,丸める,"v. curl, wad"
+4602,最新,"n. newest, latest"
+4603,他者,"n. another person, others"
+4604,挿入（する）,[1] n. insertion [2] v. insert
+4605,賢い,"i-adj. wise, clever"
+4606,腐る,"v. rot, decay, go off"
+4607,こだわり,"n. concern, obsession"
+4608,悲惨,na-adj. miserable
+4609,キリスト,n. Christ
+4610,辛さ,n. pain
+4611,二三日,n. two or three days
+4612,講演,"n. lecture, talk"
+4613,誤る,"v. make a mistake, be wrong"
+4614,人権,n. human rights
+4615,両側,n. both sides
+4616,餅,n. rice cake
+4617,鎌倉,n. Kamakura
+4618,運動会,n. sports meeting
+4619,州【しゅう】,n. state
+4620,分離（する）,"[1] n. separation, detachment [2] v. separate, detach"
+4621,日常的,na-adj. routine
+4622,掲示板,"n. bulletin board, noticeboard"
+4623,住宅地,n. residential area
+4624,亀,"n. turtle, tortoise"
+4625,四十代,n. forties
+4626,メロディー,n. melody
+4627,民衆,"n. people, public"
+4628,吉祥寺,n. Kichijoji (place name)
+4629,貫く,"v. persist, stick to; pierce"
+4630,新潟,n. Niigata
+4631,箇所,"n. place, point, part"
+4632,正解（する）,[1] n. correct answer [2] v. answer correctly
+4633,悟る,v. realize
+4634,擦る,"v. rub, strike; lose"
+4635,体育館,n. gym
+4636,再会（する）,[1] n. reunion [2] v. meet again
+4637,儀式,"n. ceremony, ritual"
+4638,いやあ,"interj. Well, sorry"
+4639,店舗,"n. store, shop"
+4640,捕らわれる,"v. be arrested, be captured, stick to"
+4641,日本一,n. most ... in Japan
+4642,トンネル,n. tunnel
+4643,一歳,n. one year old
+4644,暑さ,n. heat
+4645,ビタミン,n. vitamin
+4646,おめでとう,interj. congratulations
+4647,用途,n. use
+4648,進学（する）,[1] n. going on to the next level of education [2] v. go on to the next level of education
+4649,タイヤ,n. tire
+4650,朝鮮,n. Korea
+4651,三味線,n. shamisen
+4652,保険会社,n. insurance company
+4653,写す,"v. copy, trace"
+4654,チョコレート,n. chocolate
+4655,走り回る,v. run around
+4656,有力,"na-adj. powerful, strong, important"
+4657,仕掛け,"n. device, system"
+4658,ポスター,n. poster
+4659,杉,n. Japanese cedar
+4660,可愛らしい,i-adj. lovely
+4661,彫刻,"n. sculpture, carving"
+4662,眠り,n. sleep
+4663,見込み,"n. hope, chance, expectation"
+4664,爽やか,"na-adj. fresh, refreshing"
+4665,就任（する）,[1] n. assumption [2] v. assume
+4666,先端,"n. tip, point, forefront"
+4667,装置（する）,"[1] n. device, equipment [2] v. be equipped with"
+4668,伝説,"n. legend, tradition"
+4669,今頃,n. this time
+4670,学部,"n. faculty, department"
+4671,水泳,n. swimming
+4672,羽目,"n. plight, predicament"
+4673,上京（する）,[1] n. coming/going to Tokyo [2] v. come/go to Tokyo
+4674,ビザ,n. visa
+4675,将軍,"n. general, shogun"
+4676,青少年,"n. young people, juvenile"
+4677,肘,n. elbow
+4678,延々,"adv. on and on, dragging on"
+4679,食器,n. dish
+4680,引き付ける,v. attract
+4681,深さ,n. depth
+4682,〜さん,"suffix Mr., Mrs., Miss., Ms."
+4683,パスポート,n. passport
+4684,ぼろぼろ,"[1] na-adj. ragged, worn out [2] adv. in drops"
+4685,いつ頃,n. around what time
+4686,二重,n. double
+4687,埼玉,n. Saitama
+4688,いたずら（する）,"[1] n. mischief, trick, joke [2] v. be mischievous, play a trick"
+4689,受け付ける,v. accept
+4690,こねる,"v. knead, squeeze, work"
+4691,這う,"v. creep, crawl"
+4692,ふらふら（する）,"[1] adv. aimlessly, unsteadily [2] na-adj. unsteady on one’s feet [3] v. stagger, be dizzy"
+4693,捧げる,"v. offer, dedicate, sacrifice"
+4694,居酒屋,"n. (Japanese style) bar, tavern"
+4695,見下ろす,"v. look down, overlook"
+4696,一貫,n. consistent
+4697,文献,n. literature
+4698,やがる,aux. VERB SUFFIX (vulgarism)
+4699,ワープロ,n. word processor
+4700,象【ぞう】,n. elephant
+4701,共感（する）,[1] n. sympathy [2] v. sympathize
+4702,ズボン,"n. pants, trousers"
+4703,迅速,"na-adj. quick, swift"
+4704,豆腐,"n. tofu, bean curd"
+4705,司会（する）,"[1] n. host, emcee [2] v. host, emcee, take the chair"
+4706,幸運,"[1] n. (good) luck, fortune [2] na-adj. lucky, fortunate"
+4707,緩和（する）,"[1] n. relaxation, relief [2] v. relieve"
+4708,鉄板,"n. hot plate, iron plate"
+4709,明ける,"v. begin, dawn, break"
+4710,反論（する）,"[1] n. argument, objection [2] v. argue, object"
+4711,引っ繰り返す,"v. overturn, upset, turn over"
+4712,儲かる,"v. profit, gain"
+4713,久々,"n., adv. for the first time in a long time"
+4714,効力,n. effect
+4715,枯れる,"v. wither, die"
+4716,絆,"n. tie, bond"
+4717,相性,n. compatibility
+4718,三分,n. three minutes
+4719,砂浜,"n. beach, sand"
+4720,責める,"v. accuse, blame"
+4721,参加費,n. participation fee
+4722,井戸,n. well
+4723,五十代,n. fifties
+4724,債務,"n. debt, obligation"
+4725,寄与（する）,[1] n. contribution [2] v. contribute
+4726,社宅,n. company housing
+4727,下記,"n. the following, mentioned below"
+4728,委員長,n. chairperson
+4729,槍,n. spear
+4730,くわえる,"v. take, hold"
+4731,店員,"n. clerk, sales assistant"
+4732,秩序,"n. order, system"
+4733,散々,"adv. severely, repeatedly"
+4734,刺し身,n. sashimi
+4735,おかず,"n. food, side dish"
+4736,豚肉,n. pork
+4737,兵,"n. soldier, troops"
+4738,部長,"n. head of department, manager"
+4739,サミット,n. summit
+4740,三十歳,n. thirty years old
+4741,二倍,"n. twice, double"
+4742,ベンチ,n. bench
+4743,補う,"v. supplement, compensate"
+4744,投入（する）,"[1] n. investment [2] v. throw, invest"
+4745,争い,"n. fight, struggle, competition"
+4746,センス,n. sense
+4747,ハード,"na-adj. hard, tight"
+4748,見逃す,"v. miss, overlook"
+4749,線路,"n. track, railroad"
+4750,四年間,n. four years
+4751,リンク（する）,[1] n. link [2] v. link
+4752,大蔵省,n. Ministry of Finance
+4753,製作（する）,[1] n. production [2] v. manufacture
+4754,世帯,"n. household, family"
+4755,覗き込む,v. look into
+4756,区分（する）,"[1] n. division, classification [2] v. separate"
+4757,放棄（する）,"[1] n. abandonment, renunciation [2] v. abandon, renounce"
+4758,転職（する）,[1] n. change of job [2] v. change job
+4759,類い,"n. kind, sort, type"
+4760,活気,"n. vigor, energy, liveliness"
+4761,日差し,n. sunshine
+4762,人格,"n. character, personality"
+4763,避難（する）,[1] n. evacuation [2] v. evacuate
+4764,ラスベガス,n. Las Vegas
+4765,鐘,"n. bell, chime"
+4766,若者達,n. young people
+4767,集まり,"n. meeting, gathering, group"
+4768,変換（する）,"[1] n. change, conversion [2] v. convert"
+4769,歓迎（する）,"[1] n. reception, welcome [2] v. welcome"
+4770,川崎,n. Kawasaki
+4771,支出,"n. expenses, payment, expenditure, spending"
+4772,軸,n. axis; shaft; stem
+4773,食物,"n. food, dish"
+4774,損害,"n. damage, loss"
+4775,のみならず,"p. not only ... but, as well as"
+4776,正義,"n. justice, right"
+4777,一目,n. glance
+4778,百年,"n. hundred years, century"
+4779,ガイド（する）,"[1] n. guide, conductor [2] v. guide"
+4780,大型,"n. big, large"
+4781,頂上,"n. top, summit"
+4782,睡眠,n. sleep
+4783,緩やか,"na-adj. gentle, soft, mild"
+4784,相互,"n. mutual, each other"
+4785,二十七,n. num. twenty-seven
+4786,披露（する）,"[1] n. announcement, introduction [2] v. announce, introduce"
+4787,OB(OB),"n. OB (old boy), alumnus"
+4788,この方,pron. this person
+4789,上位,n. higher rank
+4790,リード（する）,[1] n. lead [2] v. take a lead
+4791,心身,n. mind and body
+4792,債権者,n. creditor
+4793,燃料,n. fuel
+4794,ショップ,n. shop
+4795,長官,n. director general
+4796,強いる,v. force
+4797,シート,n. seat; sheet
+4798,追い込む,v. drive into
+4799,プライド,n. pride
+4800,題名,n. title
+4801,問い合わせ【といあわせ】,n. inquiry
+4802,葱,n. leek
+4803,据える,"v. set, place"
+4804,業績,n. achievements
+4805,起動（する）,[1] n. starting [2] v. start
+4806,学年,"n. grade, year"
+4807,助成（する）,[1] n. subsidy [2] v. subsidize
+4808,天下,n. the whole world
+4809,打ち出す,"v. work out, come up with; announce"
+4810,栄える,"v. prosper, flourish"
+4811,科学的,na-adj. scientific
+4812,千九百九十九年,n. 1999 (year)
+4813,庶民,"n. common people, ordinary people, masses"
+4814,千九百九十年,n. 1990 (year)
+4815,乗り出す,v. venture out; embark on
+4816,そんなこんな,adv. what with one thing and another; after many twists and turns
+4817,覚ます,v. wake up
+4818,住居,n. house
+4819,沸騰（する）,[1] n. boiling [2] v. boil
+4820,仕掛ける,"v. begin, start; set"
+4821,一年半,n. one year and a half
+4822,こっそり,"adv. secretly, on the sly"
+4823,へん,aux. NEGATION (dialectal)
+4824,組み立てる,v. assemble
+4825,案外,adv. unexpectedly
+4826,譲渡（する）,"[1] n. transfer [2] v. transfer, hand over"
+4827,でもある,"aux. be ... , too"
+4828,挫折（する）,[1] n. setback [2] v. fail
+4829,きゅうり,n. cucumber
+4830,検証（する）,[1] n. verification [2] v. verify
+4831,株主,"n. stockholder, shareholder"
+4832,見渡す,v. look around
+4833,誓う,"v. vow, swear"
+4834,マッサージ（する）,[1] n. massage [2] v. massage
+4835,二度目,n. second time
+4836,年上,"n. older, senior"
+4837,力強い,"i-adj. strong, powerful"
+4838,ピーク,n. peak
+4839,みじん切り,"n. minced, cut into fine pieces, chopped"
+4840,強める,"v. strengthen, increase"
+4841,禁煙（する）,[1] n. no-smoking [2] v. stop smoking
+4842,厚さ,n. thickness
+4843,十代,"n. teen years, teens"
+4844,タレント,"n. celebrity, entertainer"
+4845,ふさぐ,v. cover; stop; block
+4846,ごと,suffix every
+4847,牛肉,n. beef
+4848,枠組み,"n. frame, framework"
+4849,かゆい,i-adj. itchy
+4850,七十,num. seventy
+4851,多様化（する）,[1] n. diversification [2] v. diversify
+4852,着せる,"v. put on, dress"
+4853,インストール（する）,[1] n. installation [2] v. install
+4854,二年目,n. second year
+4855,機構,"n. mechanism, structure, system"
+4856,着実,na-adj. steady
+4857,世田谷,n. Setagaya (place name)
+4858,里,"n. village, countryside, one’s parents’ home"
+4859,決まり,"n. regulation; arrangement, settlement"
+4860,独身,"n. single, unmarried"
+4861,十八歳,n. eighteen years old
+4862,高齢化（する）,n. aging; increase in age
+4863,鮮明,"na-adj. clear, vivid"
+4864,エアコン,"n. air-conditioning, air conditioner"
+4865,期限,n. period; deadline; term
+4866,物件,"n. article, object; property"
+4867,前条,n. preceding article
+4868,中間,"n. middle, halfway"
+4869,カラー,n. color
+4870,スポーツクラブ,"n. sports club, gym"
+4871,群馬県,n. Gunma Prefecture
+4872,フルーツ,n. fruit
+4873,グラフ,n. graph
+4874,画家,"n. artist, painter"
+4875,組み込む,v. build in; insert; integrate
+4876,マイク,n. microphone
+4877,着替える,v. change clothes; get dressed
+4878,計画的,"na-adj. planned, deliberate, premeditated"
+4879,典型的,na-adj. typical
+4880,調節（する）,[1] n. adjustment [2] v. adjust
+4881,回避（する）,[1] n. avoidance [2] v. avoid
+4882,打ち明ける,v. speak one’s mind; confess
+4883,書物,n. book
+4884,隙,"n. space, room, gap"
+4885,範囲内,"n. in range, within the limits"
+4886,遊園地,n. amusement park
+4887,六つ,num. six
+4888,二十歳,n. twenty years old
+4889,偏見,"n. prejudice, bias"
+4890,理屈,"n. reason, logic, theory"
+4891,契機,"n. momentum; opportunity, chance"
+4892,一軒,n. one building
+4893,紛争,"n. dispute, trouble, strife"
+4894,魔法,n. magic
+4895,影響力,"n. influence, impact"
+4896,触れ合い,"n. touching, contact"
+4897,極力,adv. as much as possible
+4898,私立,n. private
+4899,明記（する）,[1] n. writing clearly [2] v. write clearly
+4900,塩分,n. salt
+4901,同一,"na-adj. same, identical"
+4902,顔色,n. complexion
+4903,何せ,"adv. anyhow, after all, in any case"
+4904,資する,v. contribute
+4905,埃,n. dust
+4906,既存,n. existing
+4907,網,n. net
+4908,つ,p. [indicating contrasts or coordinations]
+4909,刑事,n. police detective
+4910,ボーリング,n. bowling
+4911,感触,"n. feel, touch"
+4912,明く,v. open
+4913,人柄,n. personality
+4914,各々,n. each
+4915,職務,n. duty
+4916,URL(URL),"n. URL, Uniform Resource Locator"
+4917,出し,n. soup stock
+4918,六十年,n. sixty years
+4919,薄れる,v. become dim
+4920,執行（する）,"[1] n. execution, enforcement [2] v. carry out, enforce"
+4921,分量,"n. quantity, amount"
+4922,大概,n. generally
+4923,熱する,v. heat
+4924,味わい,"n. profound, thought-provoking"
+4925,中途半端,"na-adj. unfinished, half-done"
+4926,はたち,n. twenty years old
+4927,一周,n. one round
+4928,異様,na-adj. strange
+4929,髭,n. mustache
+4930,支度（する）,[1] n. preparations [2] v. prepare
+4931,留める,"v. hold, keep"
+4932,立ち上げる,"v. boot up, start"
+4933,受賞（する）,"[1] n. winning a prize [2] v. win (receive) a prize, be awarded a prize"
+4934,国鉄,n. national railway
+4935,乏しい,"i-adj. few, little"
+4936,祝う,v. celebrate
+4937,倍,n. times
+4938,ただただ,"adv. all (someone) can do is, simply, nothing but"
+4939,業種,"n. category of business, type of industry"
+4940,汽車,n. train
+4941,うどん,"n. udon, thick white noodles"
+4942,五歳,n. five years old
+4943,適度,na-adj. moderate
+4944,日中,n. during the day
+4945,作曲（する）,[1] n. musical composition [2] v. compose
+4946,大嫌い,na-adj. hate
+4947,居間,n. living room
+4948,心境,n. state of mind
+4949,住宅街,n. housing; residential area
+4950,無言,"n. silence, in silence, without speaking"
+4951,調味料,"n. seasoning, spice"
+4952,一回目,n. first time
+4953,何時間,n. how many hours
+4954,みそ,n. miso; key point
+4955,花粉,n. pollen
+4956,抗議（する）,"[1] n. protest, objection [2] v. object"
+4957,あきれる,"v. be amazed, be disgusted"
+4958,数日,n. few days
+4959,信念,"n. belief, faith"
+4960,イスラエル,n. Israel
+4961,遅く,n. late
+4962,追い詰める,"v. run down, corner"
+4963,プラスチック,n. plastic
+4964,しつこい,i-adj. persistent; over-rich (food)
+4965,塔,n. tower
+4966,家【うち】,"n. house, home"
+4967,六年生,"n. sixth grade, sixth year"
+4968,手話,n. sign language
+4969,痛める,v. hurt
+4970,研究開発,n. research and development
+4971,切り取る,"v. cut off, tear off"
+4972,民法,n. civil law
+4973,返済（する）,[1] n. repayment [2] v. repay
+4974,例える,v. compare
+4975,なじみ,n. familiarity
+4976,二十九,n. twenty-nine
+4977,地形,"n. topography, landform"
+4978,本能,n. instinct
+4979,解除（する）,"[1] n. cancellation [2] v. cancel, lift"
+4980,放出（する）,[1] n. emission [2] v. emit
+4981,にらむ,v. stare
+4982,悪魔,"n. devil, demon"
+4983,ハム,n. ham
+4984,診察（する）,"[1] n. medical examination, consultation [2] v. examine"
+4985,二日目,n. second day
+4986,柿,n. persimmon
+4987,給付（する）,[1] n. provision [2] v. provide
+4988,署名（する）,[1] n. signature [2] v. sign
+4989,詩人,n. poet
+4990,しみじみ,"adv. keenly, heartily, from one’s heart"
+4991,示唆（する）,[1] n. suggestion [2] v. suggest
+4992,三千円,n. three thousand yen
+4993,来週,n. next week
+4994,気楽,"na-adj. comfortable, easy, easygoing"
+4995,略,"n. omission, abbreviation"
+4996,免れる,"v. escape, avoid"
+4997,相次ぐ,v. happen one after another
+4998,一段,n. one step
+4999,動揺（する）,[1] n. unrest [2] v. be agitated
+5000,まあまあ,"[1] na-adj. so-so, not bad [2] adv. fairly, moderately"
